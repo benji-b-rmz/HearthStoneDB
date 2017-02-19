@@ -1,0 +1,3535 @@
+cardId,Att_ID,Value
+KAR_036,1,1
+KAR_009,1,1
+KAR_300,1,1
+KAR_089,1,1
+KAR_029,1,1
+KAR_069,1,1
+KAR_005,1,2
+KARA_13_16,1,2
+KARA_13_15,1,2
+KARA_13_17,1,2
+KAR_092,1,2
+KAR_062,1,2
+KAR_011,1,2
+KAR_006,1,3
+KAR_094,1,3
+KAR_044,1,3
+KAR_010,1,3
+KAR_030a,1,3
+KAR_205,1,3
+KAR_712,1,3
+KAR_095,1,3
+KAR_710,1,4
+KAR_114,1,4
+KAR_035,1,4
+KAR_021,1,4
+KAR_037,1,5
+KAR_070,1,5
+KAR_702,1,5
+KAR_204,1,5
+KAR_096,1,5
+KARA_13_19,1,5
+KARA_13_23,1,5
+KAR_033,1,6
+KAR_057,1,6
+KAR_065,1,6
+KAR_041,1,6
+KAR_061,1,7
+KAR_097,1,8
+KAR_711,1,12
+BRMA14_3,1,0
+BRM_022t,1,1
+BRM_022,1,1
+BRMA14_5,1,1
+BRMA14_5H,1,1
+BRM_004,1,1
+BRM_033,1,3
+BRM_010,1,3
+BRM_010t,1,3
+BRM_010t2,1,3
+OG_044b,1,3
+BRMA14_7,1,3
+BRMA14_7H,1,3
+BRM_002,1,3
+BRMA09_5Ht,1,3
+BRMA09_5t,1,3
+BRM_006,1,3
+BRM_016,1,4
+BRM_014,1,4
+BRM_020,1,4
+BRM_012,1,4
+BRM_026,1,4
+BRM_034,1,5
+BRM_008,1,5
+BRM_018,1,5
+BRM_019,1,5
+BRMA14_9,1,5
+BRMA14_9H,1,5
+BRMA14_12,1,5
+BRM_024,1,6
+BRM_028,1,6
+BRM_025,1,6
+BRM_029,1,7
+BRM_031,1,8
+BRM_027,1,9
+BRM_030,1,9
+BRM_009,1,9
+LOEA10_3,1,0
+LOE_010,1,1
+LOE_116,1,1
+LOE_076,1,1
+LOE_018,1,1
+LOE_023,1,2
+LOE_046,1,2
+LOE_029,1,2
+LOE_006,1,2
+LOE_077,1,3
+LOE_020,1,3
+LOE_022,1,3
+LOE_050,1,3
+LOE_019,1,3
+LOE_110,1,4
+LOE_119,1,4
+LOE_107,1,4
+LOE_079,1,4
+LOE_039,1,4
+LOE_051,1,4
+LOE_017,1,4
+LOE_016,1,4
+LOE_012,1,4
+LOE_047,1,4
+LOE_061,1,5
+LOEA16_22,1,5
+LOEA16_21,1,5
+LOE_053,1,5
+LOE_003,1,5
+LOEA16_24,1,5
+LOEA16_25,1,5
+LOEA16_23,1,5
+LOE_038,1,5
+LOEA16_26,1,5
+LOE_086,1,5
+LOEA16_19,1,5
+LOEA16_27,1,5
+LOEA16_18,1,5
+LOE_011,1,6
+LOE_089,1,6
+LOE_009,1,7
+LOE_073,1,8
+LOE_092,1,9
+LOEA16_22H,1,10
+LOEA16_21H,1,10
+LOEA16_24H,1,10
+LOEA16_25H,1,10
+LOEA16_23H,1,10
+LOEA16_26H,1,10
+LOEA16_19H,1,10
+LOEA16_27H,1,10
+LOEA16_18H,1,10
+NAX15_05,1,0
+FP1_028,1,1
+FP1_011,1,1
+FP1_001,1,1
+FP1_003,1,2
+FP1_002,1,2
+FP1_004,1,2
+FP1_017,1,2
+FP1_007,1,2
+FP1_024,1,2
+FP1_029,1,3
+FP1_023,1,3
+FP1_009,1,3
+NAX9_02,1,3
+NAX9_02H,1,3
+FP1_005,1,3
+NAX9_04,1,3
+NAX9_04H,1,3
+FP1_027,1,3
+NAX9_03,1,3
+NAX9_03H,1,3
+FP1_026,1,4
+FP1_031,1,4
+FP1_007t,1,4
+FP1_022,1,4
+FP1_016,1,4
+FP1_015,1,5
+NAX13_04H,1,5
+FP1_030,1,5
+FP1_012,1,5
+FP1_008,1,5
+FP1_014,1,5
+NAX13_05H,1,5
+FP1_010,1,6
+FP1_013,1,8
+FP1_014t,1,10
+AT_059,1,1
+AT_029,1,1
+AT_133,1,1
+AT_105,1,1
+AT_082,1,1
+AT_097,1,1
+AT_071,1,2
+AT_109,1,2
+AT_089,1,2
+AT_031,1,2
+AT_038,1,2
+AT_042,1,2
+AT_003,1,2
+AT_094,1,2
+AT_080,1,2
+AT_058,1,2
+AT_084,1,2
+AT_042t,1,2
+AT_042t2,1,2
+OG_044c,1,2
+AT_069,1,2
+AT_021,1,2
+AT_052,1,2
+AT_030,1,2
+AT_026,1,2
+AT_116,1,2
+AT_087,1,3
+AT_110,1,3
+AT_083,1,3
+AT_063t,1,3
+AT_131,1,3
+AT_115,1,3
+AT_129,1,3
+AT_092,1,3
+AT_106,1,3
+AT_117,1,3
+AT_066,1,3
+AT_086,1,3
+AT_014,1,3
+AT_032,1,3
+AT_095,1,3
+AT_100,1,3
+AT_007,1,3
+AT_057,1,3
+AT_046,1,3
+AT_075,1,3
+AT_108,1,4
+AT_121,1,4
+AT_006,1,4
+AT_047,1,4
+AT_019,1,4
+AT_114,1,4
+AT_093,1,4
+AT_122,1,4
+AT_011,1,4
+AT_067,1,4
+AT_085,1,4
+AT_076,1,4
+AT_111,1,4
+AT_039,1,4
+AT_012,1,4
+AT_091,1,4
+AT_017,1,4
+AT_040,1,4
+AT_096,1,5
+AT_119,1,5
+AT_090,1,5
+AT_127,1,5
+AT_101,1,5
+AT_010,1,5
+AT_113,1,5
+AT_028,1,5
+AT_049,1,5
+AT_104,1,5
+AT_124,1,6
+AT_008,1,6
+AT_118,1,6
+AT_132,1,6
+AT_099,1,6
+AT_112,1,6
+AT_088,1,6
+AT_079,1,6
+AT_130,1,6
+AT_098,1,6
+AT_054,1,6
+AT_128,1,6
+AT_023,1,6
+AT_027,1,6
+AT_063,1,7
+AT_102,1,7
+AT_123,1,7
+AT_018,1,7
+AT_081,1,7
+AT_020,1,7
+AT_041,1,7
+AT_070,1,7
+AT_009,1,8
+AT_036,1,9
+AT_045,1,9
+AT_125,1,9
+AT_103,1,9
+AT_120,1,10
+AT_072,1,10
+GVG_093,1,0
+GVG_082,1,1
+GVG_013,1,1
+GVG_009,1,1
+GVG_051,1,1
+GVG_085,1,2
+GVG_030,1,2
+GVG_076,1,2
+GVG_081,1,2
+GVG_023,1,2
+GVG_006,1,2
+GVG_103,1,2
+GVG_018,1,2
+GVG_025,1,2
+GVG_064,1,2
+GVG_108,1,2
+GVG_072,1,2
+GVG_058,1,2
+GVG_075,1,2
+GVG_011,1,2
+GVG_002,1,2
+GVG_087,1,2
+GVG_067,1,2
+GVG_039,1,2
+GVG_037,1,2
+GVG_084,1,3
+GVG_098,1,3
+GVG_092,1,3
+GVG_095,1,3
+GVG_032,1,3
+GVG_104,1,3
+GVG_089,1,3
+GVG_027,1,3
+GVG_097,1,3
+GVG_048,1,3
+GVG_065,1,3
+GVG_101,1,3
+GVG_123,1,3
+GVG_044,1,3
+GVG_102,1,3
+GVG_091,1,4
+GVG_068,1,4
+GVG_066,1,4
+GVG_107,1,4
+GVG_020,1,4
+GVG_004,1,4
+GVG_094,1,4
+GVG_074,1,4
+GVG_071,1,4
+GVG_078,1,4
+GVG_109,1,4
+GVG_096,1,4
+GVG_055,1,4
+GVG_040,1,4
+GVG_122,1,4
+GVG_069,1,5
+GVG_119,1,5
+GVG_063,1,5
+GVG_099,1,5
+GVG_062,1,5
+GVG_080,1,5
+GVG_016,1,5
+GVG_100,1,5
+GVG_120,1,5
+GVG_106,1,5
+GVG_046,1,5
+GVG_090,1,5
+GVG_111,1,5
+GVG_088,1,5
+GVG_060,1,5
+GVG_070,1,5
+GVG_086,1,5
+GVG_083,1,5
+GVG_014,1,5
+GVG_077,1,6
+GVG_117,1,6
+GVG_056,1,6
+GVG_034,1,6
+GVG_112,1,6
+GVG_105,1,6
+GVG_053,1,6
+GVG_115,1,6
+GVG_028,1,6
+GVG_110,1,7
+GVG_007,1,7
+GVG_049,1,7
+GVG_035,1,7
+GVG_042,1,7
+GVG_118,1,7
+GVG_113,1,8
+GVG_079,1,8
+GVG_114,1,8
+GVG_111t,1,8
+GVG_021,1,9
+GVG_116,1,9
+GVG_121,1,12
+EX1_345t,1,0
+CS2_231,1,0
+CS2_188,1,1
+EX1_009,1,1
+EX1_008,1,1
+CS2_059,1,1
+NEW1_025,1,1
+skele21,1,1
+EX1_130a,1,1
+EX1_243,1,1
+EX1_319,1,1
+NEW1_017,1,1
+EX1_029,1,1
+EX1_001,1,1
+NEW1_012,1,1
+EX1_509,1,1
+EX1_080,1,1
+EX1_405,1,1
+EX1_554t,1,1
+CS2_146,1,1
+tt_010a,1,1
+CS2_152,1,1
+EX1_tk28,1,1
+EX1_010,1,1
+EX1_317t,1,1
+CS2_169,1,1
+EX1_004,1,1
+EX1_393,1,2
+EX1_045,1,2
+EX1_362,1,2
+EX1_402,1,2
+EX1_012,1,2
+NEW1_018,1,2
+EX1_059,1,2
+EX1_603,1,2
+EX1_131,1,2
+EX1_162,1,2
+NEW1_021,1,2
+NEW1_023,1,2
+EX1_534t,1,2
+NEW1_019,1,2
+EX1_341,1,2
+EX1_096,1,2
+EX1_100,1,2
+EX1_082,1,2
+EX1_055,1,2
+EX1_616,1,2
+NEW1_037,1,2
+NEW1_029,1,2
+EX1_557,1,2
+EX1_160t,1,2
+EX1_522,1,2
+EX1_076,1,2
+EX1_531,1,2
+EX1_608,1,2
+EX1_tk11,1,2
+EX1_058,1,2
+EX1_tk9,1,2
+NEW1_020,1,2
+EX1_049,1,2
+EX1_007,1,3
+EX1_006,1,3
+EX1_382,1,3
+EX1_089,1,3
+EX1_590,1,3
+EX1_050,1,3
+EX1_103,1,3
+EX1_102,1,3
+CS2_117,1,3
+EX1_613,1,3
+EX1_170,1,3
+EX1_301,1,3
+EX1_finkle,1,3
+tt_004,1,3
+EX1_604,1,3
+EX1_556,1,3
+EX1_597,1,3
+CS2_181,1,3
+CS2_203,1,3
+EX1_017,1,3
+EX1_014,1,3
+EX1_612,1,3
+EX1_575,1,3
+EX1_085,1,3
+EX1_507,1,3
+EX1_044,1,3
+EX1_412,1,3
+EX1_020,1,3
+EX1_134,1,3
+NEW1_027,1,3
+EX1_390,1,3
+EX1_021,1,3
+EX1_083,1,3
+EX1_258,1,3
+EX1_304,1,3
+EX1_057,1,4
+EX1_584,1,4
+EX1_398,1,4
+EX1_591,1,4
+EX1_110t,1,4
+EX1_595,1,4
+EX1_046,1,4
+EX1_093,1,4
+NEW1_022,1,4
+EX1_274,1,4
+EX1_166,1,4
+EX1_335,1,4
+NEW1_014,1,4
+EX1_396,1,4
+EX1_313,1,4
+EX1_023,1,4
+EX1_048,1,4
+EX1_315,1,4
+EX1_043,1,4
+NEW1_026,1,4
+EX1_097,1,5
+EX1_284,1,5
+EX1_005,1,5
+NEW1_024,1,5
+EX1_tk29,1,5
+EX1_310,1,5
+OG_044a,1,5
+EX1_165,1,5
+EX1_165t1,1,5
+EX1_165t2,1,5
+EX1_250,1,5
+EX1_564,1,5
+CS1_069,1,5
+EX1_558,1,5
+EX1_116,1,5
+CS2_151,1,5
+CS2_221,1,5
+NEW1_041,1,5
+EX1_028,1,5
+CS2_227,1,5
+EX1_067,1,6
+EX1_091,1,6
+EX1_110,1,6
+EX1_283,1,6
+EX1_095,1,6
+NEW1_040,1,6
+EX1_614,1,6
+EX1_tk34,1,6
+NEW1_005,1,6
+EX1_583,1,6
+EX1_534,1,6
+EX1_032,1,6
+EX1_016,1,6
+EX1_623,1,6
+EX1_577,1,6
+EX1_002,1,6
+EX1_033,1,6
+NEW1_008,1,7
+EX1_178,1,7
+EX1_559,1,7
+EX1_249,1,7
+EX1_350,1,7
+CS2_161,1,7
+NEW1_010,1,8
+EX1_414,1,8
+NEW1_038,1,8
+EX1_298,1,8
+EX1_383,1,8
+EX1_561,1,9
+EX1_573,1,9
+EX1_543,1,9
+EX1_323,1,9
+EX1_563,1,9
+EX1_560,1,9
+EX1_562,1,9
+EX1_572,1,9
+NEW1_030,1,10
+EX1_586,1,10
+EX1_105,1,12
+EX1_620,1,25
+OG_195c,1,0
+OG_070,1,1
+OG_179,1,1
+OG_051,1,1
+OG_312,1,1
+OG_156a,1,1
+OG_241,1,1
+OG_221,1,1
+OG_123,1,1
+OG_151,1,1
+OG_006,1,1
+OG_158,1,1
+OG_281,1,2
+OG_156,1,2
+OG_303,1,2
+OG_109,1,2
+OG_326,1,2
+OG_026,1,2
+OG_338,1,2
+OG_284,1,2
+OG_247,1,2
+OG_330,1,2
+OG_313,1,3
+OG_248,1,3
+OG_315,1,3
+OG_325,1,3
+OG_113,1,3
+OG_162,1,3
+OG_292,1,3
+OG_149,1,3
+OG_034,1,3
+OG_256,1,3
+OG_327,1,3
+OG_310,1,3
+OG_286,1,3
+OG_031a,1,3
+OG_083,1,3
+OG_150,1,4
+OG_322,1,4
+OG_218,1,4
+OG_283,1,4
+OG_337,1,4
+OG_085,1,4
+OG_254,1,4
+OG_082,1,4
+OG_174,1,4
+OG_044,1,4
+OG_024,1,4
+OG_334,1,4
+OG_249,1,4
+OG_216,1,4
+OG_188,1,4
+OG_328,1,4
+OG_320,1,4
+OG_202,1,4
+OG_323,1,4
+OG_335,1,4
+OG_267,1,4
+OG_272,1,4
+OG_080,1,4
+OG_147,1,5
+OG_321,1,5
+OG_295,1,5
+OG_234,1,5
+OG_102,1,5
+OG_209,1,5
+OG_309,1,5
+OG_145,1,5
+OG_087,1,5
+OG_291,1,5
+OG_096,1,5
+OG_302,1,5
+OG_200,1,5
+OG_290,1,6
+OG_161,1,6
+OG_293,1,6
+OG_207,1,6
+OG_316,1,6
+OG_122,1,6
+OG_138,1,6
+OG_271,1,6
+OG_339,1,6
+OG_028,1,6
+OG_301,1,7
+OG_153,1,7
+OG_121,1,7
+OG_152,1,7
+OG_318,1,7
+OG_220,1,7
+OG_131,1,7
+OG_319,1,7
+OG_120,1,8
+OG_255,1,8
+OG_142,1,8
+OG_308,1,8
+OG_229,1,8
+OG_300,1,8
+OG_282,1,9
+OG_173,1,9
+OG_340,1,9
+OG_173a,1,9
+OG_279,1,10
+OG_280,1,10
+OG_317,1,10
+OG_141,1,10
+OG_133,1,10
+OG_042,1,10
+OG_134,1,10
+GAME_002,1,0
+CS2_mirror,1,0
+CS2_boar,1,1
+CS2_189,1,1
+CS1_042,1,1
+EX1_508,1,1
+NEW1_009,1,1
+EX1_025t,1,1
+CS2_168,1,1
+EX1_506a,1,1
+CS2_235,1,1
+CS2_050,1,1
+CS2_tk1,1,1
+CS2_101t,1,1
+skele11,1,1
+CS2_051,1,1
+CS2_171,1,1
+DS1_175,1,1
+CS2_065,1,1
+EX1_011,1,1
+CS2_052,1,1
+EX1_066,1,2
+CS2_172,1,2
+CS2_173,1,2
+EX1_565,1,2
+CS2_121,1,2
+CS2_142,1,2
+EX1_506,1,2
+EX1_015,1,2
+CS2_120,1,2
+EX1_306,1,2
+EX1_582,1,3
+NEW1_034,1,3
+CS2_141,1,3
+CS2_125,1,3
+NEW1_033,1,3
+CS2_118,1,3
+NEW1_032,1,3
+CS2_122,1,3
+CS2_196,1,3
+EX1_019,1,3
+CS2_127,1,3
+EX1_084,1,3
+CS2_124,1,3
+CS2_182,1,4
+EX1_025,1,4
+CS2_147,1,4
+DS1_070,1,4
+NEW1_011,1,4
+CS2_119,1,4
+CS2_197,1,4
+CS2_179,1,4
+CS2_131,1,4
+CS2_033,1,4
+EX1_587,1,4
+CS2_187,1,5
+DS1_055,1,5
+CS2_226,1,5
+EX1_399,1,5
+EX1_593,1,5
+CS2_237,1,5
+CS2_150,1,5
+DS1_178,1,5
+CS2_155,1,6
+CS2_200,1,6
+CS2_064,1,6
+CS2_042,1,6
+CS2_162,1,6
+CS2_213,1,6
+CS2_201,1,7
+CS2_088,1,7
+CS2_222,1,7
+CS2_186,1,7
+CS2_232,1,8
+KAR_036,2,2
+KAR_009,2,1
+KAR_300,2,2
+KAR_089,2,1
+KAR_029,2,0
+KAR_069,2,1
+KAR_005,2,1
+KARA_13_16,2,1
+KARA_13_15,2,1
+KARA_13_17,2,1
+KAR_092,2,2
+KAR_062,2,1
+KAR_011,2,3
+KAR_006,2,3
+KAR_094,2,3
+KAR_044,2,1
+KAR_010,2,2
+KAR_030a,2,1
+KAR_205,2,3
+KAR_712,2,4
+KAR_095,2,3
+KAR_710,2,3
+KAR_114,2,3
+KAR_035,2,3
+KAR_021,2,3
+KAR_037,2,3
+KAR_070,2,5
+KAR_702,2,4
+KAR_204,2,3
+KAR_096,2,5
+KARA_13_19,2,3
+KARA_13_23,2,3
+KAR_033,2,3
+KAR_057,2,4
+KAR_065,2,5
+KAR_041,2,3
+KAR_061,2,4
+KAR_097,2,7
+KAR_711,2,8
+BRMA14_3,2,2
+BRM_022t,2,2
+BRM_022,2,0
+BRMA14_5,2,3
+BRMA14_5H,2,4
+BRM_004,2,2
+BRM_033,2,2
+BRM_010,2,2
+BRM_010t,2,5
+BRM_010t2,2,2
+OG_044b,2,5
+BRMA14_7,2,5
+BRMA14_7H,2,6
+BRM_002,2,2
+BRMA09_5Ht,2,8
+BRMA09_5t,2,8
+BRM_006,2,2
+BRM_016,2,2
+BRM_014,2,4
+BRM_020,2,3
+BRM_012,2,3
+BRM_026,2,5
+BRM_034,2,5
+BRM_008,2,4
+BRM_018,2,5
+BRM_019,2,3
+BRMA14_9,2,7
+BRMA14_9H,2,8
+BRMA14_12,2,10
+BRM_024,2,6
+BRM_028,2,5
+BRM_025,2,6
+BRM_029,2,8
+BRM_031,2,6
+BRM_027,2,9
+BRM_030,2,8
+BRM_009,2,7
+LOEA10_3,2,1
+LOE_010,2,2
+LOE_116,2,1
+LOE_076,2,1
+LOE_018,2,1
+LOE_023,2,2
+LOE_046,2,3
+LOE_029,2,1
+LOE_006,2,1
+LOE_077,2,2
+LOE_020,2,2
+LOE_022,2,3
+LOE_050,2,3
+LOE_019,2,3
+LOE_110,2,7
+LOE_119,2,4
+LOE_107,2,7
+LOE_079,2,3
+LOE_039,2,3
+LOE_051,2,4
+LOE_017,2,3
+LOE_016,2,2
+LOE_012,2,5
+LOE_047,2,3
+LOE_061,2,4
+LOEA16_22,2,5
+LOEA16_21,2,5
+LOE_053,2,4
+LOE_003,2,6
+LOEA16_24,2,5
+LOEA16_25,2,5
+LOEA16_23,2,5
+LOE_038,2,5
+LOEA16_26,2,5
+LOE_086,2,0
+LOEA16_19,2,5
+LOEA16_27,2,5
+LOEA16_18,2,5
+LOE_011,2,4
+LOE_089,2,2
+LOE_009,2,7
+LOE_073,2,8
+LOE_092,2,7
+LOEA16_22H,2,10
+LOEA16_21H,2,10
+LOEA16_24H,2,10
+LOEA16_25H,2,10
+LOEA16_23H,2,10
+LOEA16_26H,2,10
+LOEA16_19H,2,10
+LOEA16_27H,2,10
+LOEA16_18H,2,10
+NAX15_05,2,1
+FP1_028,2,1
+FP1_011,2,1
+FP1_001,2,2
+FP1_003,2,1
+FP1_002,2,1
+FP1_004,2,2
+FP1_017,2,1
+FP1_007,2,0
+FP1_024,2,1
+FP1_029,2,4
+FP1_023,2,3
+FP1_009,2,2
+NAX9_02,2,1
+NAX9_02H,2,2
+FP1_005,2,2
+NAX9_04,2,1
+NAX9_04H,2,2
+FP1_027,2,1
+NAX9_03,2,1
+NAX9_03H,2,2
+FP1_026,2,5
+FP1_031,2,1
+FP1_007t,2,4
+FP1_022,2,3
+FP1_016,2,3
+FP1_015,2,4
+NAX13_04H,2,4
+FP1_030,2,5
+FP1_012,2,3
+FP1_008,2,4
+FP1_014,2,7
+NAX13_05H,2,7
+FP1_010,2,2
+FP1_013,2,6
+FP1_014t,2,11
+AT_059,2,2
+AT_029,2,2
+AT_133,2,1
+AT_105,2,2
+AT_082,2,1
+AT_097,2,2
+AT_071,2,2
+AT_109,2,2
+AT_089,2,3
+AT_031,2,2
+AT_038,2,2
+AT_042,2,2
+AT_003,2,3
+AT_094,2,2
+AT_080,2,2
+AT_058,2,3
+AT_084,2,1
+AT_042t,2,2
+AT_042t2,2,3
+OG_044c,2,3
+AT_069,2,3
+AT_021,2,3
+AT_052,2,3
+AT_030,2,3
+AT_026,2,4
+AT_116,2,1
+AT_087,2,2
+AT_110,2,2
+AT_083,2,3
+AT_063t,2,4
+AT_131,2,3
+AT_115,2,2
+AT_129,2,3
+AT_092,2,5
+AT_106,2,4
+AT_117,2,4
+AT_066,2,3
+AT_086,2,4
+AT_014,2,3
+AT_032,2,4
+AT_095,2,2
+AT_100,2,3
+AT_007,2,3
+AT_057,2,4
+AT_046,2,3
+AT_075,2,2
+AT_108,2,5
+AT_121,2,4
+AT_006,2,3
+AT_047,2,4
+AT_019,2,1
+AT_114,2,5
+AT_093,2,2
+AT_122,2,4
+AT_011,2,3
+AT_067,2,5
+AT_085,2,2
+AT_076,2,3
+AT_111,2,3
+AT_039,2,5
+AT_012,2,5
+AT_091,2,1
+AT_017,2,2
+AT_040,2,4
+AT_096,2,5
+AT_119,2,4
+AT_090,2,4
+AT_127,2,4
+AT_101,2,5
+AT_010,2,3
+AT_113,2,5
+AT_028,2,3
+AT_049,2,3
+AT_104,2,5
+AT_124,2,3
+AT_008,2,6
+AT_118,2,5
+AT_132,2,6
+AT_099,2,3
+AT_112,2,5
+AT_088,2,8
+AT_079,2,6
+AT_130,2,6
+AT_098,2,6
+AT_054,2,4
+AT_128,2,7
+AT_023,2,5
+AT_027,2,4
+AT_063,2,4
+AT_102,2,5
+AT_123,2,6
+AT_018,2,5
+AT_081,2,3
+AT_020,2,6
+AT_041,2,6
+AT_070,2,4
+AT_009,2,7
+AT_036,2,8
+AT_045,2,5
+AT_125,2,10
+AT_103,2,9
+AT_120,2,8
+AT_072,2,7
+GVG_093,2,0
+GVG_082,2,2
+GVG_013,2,1
+GVG_009,2,2
+GVG_051,2,1
+GVG_085,2,1
+GVG_030,2,2
+GVG_076,2,1
+GVG_081,2,2
+GVG_023,2,3
+GVG_006,2,2
+GVG_103,2,1
+GVG_018,2,1
+GVG_025,2,4
+GVG_064,2,3
+GVG_108,2,3
+GVG_072,2,2
+GVG_058,2,2
+GVG_075,2,2
+GVG_011,2,3
+GVG_002,2,2
+GVG_087,2,2
+GVG_067,2,2
+GVG_039,2,0
+GVG_037,2,3
+GVG_084,2,1
+GVG_098,2,1
+GVG_092,2,3
+GVG_095,2,2
+GVG_032,2,2
+GVG_104,2,2
+GVG_089,2,2
+GVG_027,2,2
+GVG_097,2,2
+GVG_048,2,3
+GVG_065,2,4
+GVG_101,2,4
+GVG_123,2,3
+GVG_044,2,3
+GVG_102,2,3
+GVG_091,2,2
+GVG_068,2,3
+GVG_066,2,5
+GVG_107,2,3
+GVG_020,2,3
+GVG_004,2,5
+GVG_094,2,1
+GVG_074,2,4
+GVG_071,2,5
+GVG_078,2,4
+GVG_109,2,4
+GVG_096,2,4
+GVG_055,2,2
+GVG_040,2,2
+GVG_122,2,2
+GVG_069,2,3
+GVG_119,2,3
+GVG_063,2,1
+GVG_099,2,3
+GVG_062,2,6
+GVG_080,2,4
+GVG_016,2,8
+GVG_100,2,4
+GVG_120,2,6
+GVG_106,2,1
+GVG_046,2,2
+GVG_090,2,5
+GVG_111,2,4
+GVG_088,2,6
+GVG_060,2,2
+GVG_070,2,7
+GVG_086,2,5
+GVG_083,2,5
+GVG_014,2,6
+GVG_077,2,9
+GVG_117,2,3
+GVG_056,2,6
+GVG_034,2,7
+GVG_112,2,7
+GVG_105,2,6
+GVG_053,2,5
+GVG_115,2,5
+GVG_028,2,5
+GVG_110,2,7
+GVG_007,2,7
+GVG_049,2,6
+GVG_035,2,9
+GVG_042,2,7
+GVG_118,2,6
+GVG_113,2,6
+GVG_079,2,7
+GVG_114,2,5
+GVG_111t,2,4
+GVG_021,2,9
+GVG_116,2,9
+GVG_121,2,8
+EX1_345t,2,0
+CS2_231,2,1
+CS2_188,2,1
+EX1_009,2,1
+EX1_008,2,1
+CS2_059,2,0
+NEW1_025,2,1
+skele21,2,2
+EX1_130a,2,2
+EX1_243,2,3
+EX1_319,2,3
+NEW1_017,2,1
+EX1_029,2,1
+EX1_001,2,1
+NEW1_012,2,1
+EX1_509,2,1
+EX1_080,2,1
+EX1_405,2,0
+EX1_554t,2,1
+CS2_146,2,2
+tt_010a,2,1
+CS2_152,2,2
+EX1_tk28,2,1
+EX1_010,2,2
+EX1_317t,2,1
+CS2_169,2,1
+EX1_004,2,2
+EX1_393,2,2
+EX1_045,2,4
+EX1_362,2,2
+EX1_402,2,1
+EX1_012,2,1
+NEW1_018,2,2
+EX1_059,2,2
+EX1_603,2,2
+EX1_131,2,2
+EX1_162,2,2
+NEW1_021,2,0
+NEW1_023,2,3
+EX1_534t,2,2
+NEW1_019,2,2
+EX1_341,2,0
+EX1_096,2,2
+EX1_100,2,0
+EX1_082,2,3
+EX1_055,2,1
+EX1_616,2,2
+NEW1_037,2,1
+NEW1_029,2,4
+EX1_557,2,0
+EX1_160t,2,3
+EX1_522,2,1
+EX1_076,2,2
+EX1_531,2,2
+EX1_608,2,3
+EX1_tk11,2,2
+EX1_058,2,2
+EX1_tk9,2,2
+NEW1_020,2,3
+EX1_049,2,3
+EX1_007,2,1
+EX1_006,2,0
+EX1_382,2,3
+EX1_089,2,4
+EX1_590,2,3
+EX1_050,2,2
+EX1_103,2,2
+EX1_102,2,1
+CS2_117,2,3
+EX1_613,2,2
+EX1_170,2,2
+EX1_301,2,3
+EX1_finkle,2,3
+tt_004,2,2
+EX1_604,2,2
+EX1_556,2,2
+EX1_597,2,1
+CS2_181,2,4
+CS2_203,2,2
+EX1_017,2,4
+EX1_014,2,5
+EX1_612,2,4
+EX1_575,2,0
+EX1_085,2,3
+EX1_507,2,3
+EX1_044,2,2
+EX1_412,2,3
+EX1_020,2,3
+EX1_134,2,3
+NEW1_027,2,3
+EX1_390,2,2
+EX1_021,2,2
+EX1_083,2,3
+EX1_258,2,2
+EX1_304,2,3
+EX1_057,2,5
+EX1_584,2,2
+EX1_398,2,3
+EX1_591,2,3
+EX1_110t,2,4
+EX1_595,2,4
+EX1_046,2,4
+EX1_093,2,2
+NEW1_022,2,3
+EX1_274,2,3
+EX1_166,2,2
+EX1_335,2,0
+NEW1_014,2,4
+EX1_396,2,1
+EX1_313,2,5
+EX1_023,2,3
+EX1_048,2,4
+EX1_315,2,0
+EX1_043,2,4
+NEW1_026,2,3
+EX1_097,2,4
+EX1_284,2,4
+EX1_005,2,4
+NEW1_024,2,5
+EX1_tk29,2,5
+EX1_310,2,5
+OG_044a,2,4
+EX1_165,2,4
+EX1_165t1,2,4
+EX1_165t2,2,4
+EX1_250,2,7
+EX1_564,2,3
+CS1_069,2,3
+EX1_558,2,5
+EX1_116,2,6
+CS2_151,2,4
+CS2_221,2,4
+NEW1_041,2,3
+EX1_028,2,5
+CS2_227,2,7
+EX1_067,2,4
+EX1_091,2,4
+EX1_110,2,4
+EX1_283,2,5
+EX1_095,2,4
+NEW1_040,2,4
+EX1_614,2,7
+EX1_tk34,2,6
+NEW1_005,2,5
+EX1_583,2,5
+EX1_534,2,6
+EX1_032,2,4
+EX1_016,2,5
+EX1_623,2,6
+EX1_577,2,9
+EX1_002,2,4
+EX1_033,2,4
+NEW1_008,2,5
+EX1_178,2,5
+EX1_559,2,5
+EX1_249,2,7
+EX1_350,2,7
+CS2_161,2,7
+NEW1_010,2,3
+EX1_414,2,4
+NEW1_038,2,7
+EX1_298,2,8
+EX1_383,2,6
+EX1_561,2,8
+EX1_573,2,5
+EX1_543,2,8
+EX1_323,2,3
+EX1_563,2,4
+EX1_560,2,8
+EX1_562,2,8
+EX1_572,2,4
+NEW1_030,2,12
+EX1_586,2,8
+EX1_105,2,8
+EX1_620,2,8
+OG_195c,2,1
+OG_070,2,1
+OG_179,2,2
+OG_051,2,1
+OG_312,2,1
+OG_156a,2,1
+OG_241,2,1
+OG_221,2,2
+OG_123,2,1
+OG_151,2,1
+OG_006,2,1
+OG_158,2,1
+OG_281,2,2
+OG_156,2,2
+OG_303,2,3
+OG_109,2,3
+OG_326,2,4
+OG_026,2,3
+OG_338,2,2
+OG_284,2,1
+OG_247,2,3
+OG_330,2,2
+OG_313,2,2
+OG_248,2,1
+OG_315,2,3
+OG_325,2,2
+OG_113,2,1
+OG_162,2,2
+OG_292,2,4
+OG_149,2,3
+OG_034,2,3
+OG_256,2,2
+OG_327,2,2
+OG_310,2,3
+OG_286,2,3
+OG_031a,2,4
+OG_083,2,2
+OG_150,2,3
+OG_322,2,2
+OG_218,2,2
+OG_283,2,4
+OG_337,2,3
+OG_085,2,2
+OG_254,2,2
+OG_082,2,2
+OG_174,2,1
+OG_044,2,3
+OG_024,2,7
+OG_334,2,3
+OG_249,2,2
+OG_216,2,3
+OG_188,2,4
+OG_328,2,4
+OG_320,2,1
+OG_202,2,3
+OG_323,2,4
+OG_335,2,4
+OG_267,2,4
+OG_272,2,1
+OG_080,2,3
+OG_147,2,6
+OG_321,2,3
+OG_295,2,4
+OG_234,2,4
+OG_102,2,3
+OG_209,2,4
+OG_309,2,6
+OG_145,2,3
+OG_087,2,5
+OG_291,2,4
+OG_096,2,6
+OG_302,2,5
+OG_200,2,0
+OG_290,2,4
+OG_161,2,2
+OG_293,2,5
+OG_207,2,5
+OG_316,2,5
+OG_122,2,5
+OG_138,2,4
+OG_271,2,2
+OG_339,2,7
+OG_028,2,5
+OG_301,2,6
+OG_153,2,6
+OG_121,2,7
+OG_152,2,5
+OG_318,2,6
+OG_220,2,6
+OG_131,2,4
+OG_319,2,4
+OG_120,2,8
+OG_255,2,7
+OG_142,2,6
+OG_308,2,8
+OG_229,2,8
+OG_300,2,6
+OG_282,2,4
+OG_173,2,9
+OG_340,2,5
+OG_173a,2,30
+OG_279,2,6
+OG_280,2,6
+OG_317,2,12
+OG_141,2,10
+OG_133,2,5
+OG_042,2,10
+OG_134,2,7
+GAME_002,2,1
+CS2_mirror,2,0
+CS2_boar,2,1
+CS2_189,2,1
+CS1_042,2,1
+EX1_508,2,1
+NEW1_009,2,0
+EX1_025t,2,2
+CS2_168,2,2
+EX1_506a,2,1
+CS2_235,2,1
+CS2_050,2,1
+CS2_tk1,2,1
+CS2_101t,2,1
+skele11,2,1
+CS2_051,2,0
+CS2_171,2,1
+DS1_175,2,1
+CS2_065,2,1
+EX1_011,2,2
+CS2_052,2,0
+EX1_066,2,3
+CS2_172,2,3
+CS2_173,2,2
+EX1_565,2,0
+CS2_121,2,2
+CS2_142,2,2
+EX1_506,2,2
+EX1_015,2,1
+CS2_120,2,2
+EX1_306,2,4
+EX1_582,2,1
+NEW1_034,2,4
+CS2_141,2,2
+CS2_125,2,3
+NEW1_033,2,2
+CS2_118,2,5
+NEW1_032,2,4
+CS2_122,2,2
+CS2_196,2,2
+EX1_019,2,3
+CS2_127,2,1
+EX1_084,2,2
+CS2_124,2,3
+CS2_182,2,4
+EX1_025,2,2
+CS2_147,2,2
+DS1_070,2,4
+NEW1_011,2,4
+CS2_119,2,2
+CS2_197,2,4
+CS2_179,2,3
+CS2_131,2,2
+CS2_033,2,3
+EX1_587,2,3
+CS2_187,2,5
+DS1_055,2,4
+CS2_226,2,4
+EX1_399,2,2
+EX1_593,2,4
+CS2_237,2,3
+CS2_150,2,4
+DS1_178,2,2
+CS2_155,2,4
+CS2_200,2,6
+CS2_064,2,6
+CS2_042,2,6
+CS2_162,2,6
+CS2_213,2,5
+CS2_201,2,9
+CS2_088,2,5
+CS2_222,2,6
+CS2_186,2,7
+CS2_232,2,8
+KAR_036,3,1
+KAR_009,3,1
+KAR_300,3,2
+KAR_089,3,3
+KAR_029,3,2
+KAR_069,3,1
+KAR_005,3,1
+KARA_13_16,3,2
+KARA_13_15,3,2
+KARA_13_17,3,2
+KAR_092,3,3
+KAR_062,3,3
+KAR_011,3,2
+KAR_006,3,4
+KAR_094,3,2
+KAR_044,3,1
+KAR_010,3,3
+KAR_030a,3,3
+KAR_205,3,3
+KAR_712,3,3
+KAR_095,3,3
+KAR_710,3,2
+KAR_114,3,4
+KAR_035,3,6
+KAR_021,3,4
+KAR_037,3,6
+KAR_070,3,6
+KAR_702,3,4
+KAR_204,3,4
+KAR_096,3,6
+KARA_13_19,3,2
+KARA_13_23,3,4
+KAR_033,3,6
+KAR_057,3,4
+KAR_065,3,5
+KAR_041,3,3
+KAR_061,3,6
+KAR_097,3,7
+KAR_711,3,8
+BRMA14_3,3,2
+BRM_022t,3,1
+BRM_022,3,2
+BRMA14_5,3,3
+BRMA14_5H,3,4
+BRM_004,3,1
+BRM_033,3,4
+BRM_010,3,2
+BRM_010t,3,2
+BRM_010t2,3,5
+OG_044b,3,5
+BRMA14_7,3,5
+BRMA14_7H,3,6
+BRM_002,3,4
+BRMA09_5Ht,3,8
+BRMA09_5t,3,4
+BRM_006,3,4
+BRM_016,3,5
+BRM_014,3,4
+BRM_020,3,5
+BRM_012,3,6
+BRM_026,3,6
+BRM_034,3,4
+BRM_008,3,3
+BRM_018,3,5
+BRM_019,3,3
+BRMA14_9,3,7
+BRMA14_9H,3,8
+BRMA14_12,3,2
+BRM_024,3,6
+BRM_028,3,5
+BRM_025,3,4
+BRM_029,3,4
+BRM_031,3,8
+BRM_027,3,7
+BRM_030,3,8
+BRM_009,3,8
+LOEA10_3,3,1
+LOE_010,3,1
+LOE_116,3,1
+LOE_076,3,3
+LOE_018,3,3
+LOE_023,3,2
+LOE_046,3,2
+LOE_029,3,1
+LOE_006,3,2
+LOE_077,3,4
+LOE_020,3,4
+LOE_022,3,4
+LOE_050,3,2
+LOE_019,3,4
+LOE_110,3,4
+LOE_119,3,4
+LOE_107,3,7
+LOE_079,3,5
+LOE_039,3,4
+LOE_051,3,4
+LOE_017,3,4
+LOE_016,3,6
+LOE_012,3,4
+LOE_047,3,3
+LOE_061,3,4
+LOEA16_22,3,5
+LOEA16_21,3,5
+LOE_053,3,6
+LOE_003,3,3
+LOEA16_24,3,5
+LOEA16_25,3,5
+LOEA16_23,3,5
+LOE_038,3,5
+LOEA16_26,3,5
+LOE_086,3,6
+LOEA16_19,3,5
+LOEA16_27,3,5
+LOEA16_18,3,5
+LOE_011,3,6
+LOE_089,3,6
+LOE_009,3,7
+LOE_073,3,8
+LOE_092,3,8
+LOEA16_22H,3,10
+LOEA16_21H,3,10
+LOEA16_24H,3,10
+LOEA16_25H,3,10
+LOEA16_23H,3,10
+LOEA16_26H,3,10
+LOEA16_19H,3,10
+LOEA16_27H,3,10
+LOEA16_18H,3,10
+NAX15_05,3,1
+FP1_028,3,2
+FP1_011,3,1
+FP1_001,3,3
+FP1_003,3,2
+FP1_002,3,2
+FP1_004,3,2
+FP1_017,3,4
+FP1_007,3,2
+FP1_024,3,3
+FP1_029,3,4
+FP1_023,3,4
+FP1_009,3,8
+NAX9_02,3,7
+NAX9_02H,3,7
+FP1_005,3,2
+NAX9_04,3,7
+NAX9_04H,3,7
+FP1_027,3,4
+NAX9_03,3,7
+NAX9_03H,3,7
+FP1_026,3,5
+FP1_031,3,7
+FP1_007t,3,4
+FP1_022,3,4
+FP1_016,3,5
+FP1_015,3,7
+NAX13_04H,3,7
+FP1_030,3,5
+FP1_012,3,5
+FP1_008,3,6
+FP1_014,3,4
+NAX13_05H,3,4
+FP1_010,3,8
+FP1_013,3,8
+FP1_014t,3,11
+AT_059,3,1
+AT_029,3,1
+AT_133,3,2
+AT_105,3,4
+AT_082,3,2
+AT_097,3,1
+AT_071,3,3
+AT_109,3,4
+AT_089,3,2
+AT_031,3,2
+AT_038,3,3
+AT_042,3,1
+AT_003,3,2
+AT_094,3,3
+AT_080,3,3
+AT_058,3,2
+AT_084,3,2
+AT_042t,3,1
+AT_042t2,3,2
+OG_044c,3,2
+AT_069,3,2
+AT_021,3,2
+AT_052,3,4
+AT_030,3,2
+AT_026,3,3
+AT_116,3,4
+AT_087,3,1
+AT_110,3,5
+AT_083,3,3
+AT_063t,3,2
+AT_131,3,4
+AT_115,3,2
+AT_129,3,4
+AT_092,3,2
+AT_106,3,3
+AT_117,3,2
+AT_066,3,3
+AT_086,3,3
+AT_014,3,3
+AT_032,3,3
+AT_095,3,2
+AT_100,3,3
+AT_007,3,4
+AT_057,3,2
+AT_046,3,2
+AT_075,3,4
+AT_108,3,3
+AT_121,3,4
+AT_006,3,5
+AT_047,3,4
+AT_019,3,1
+AT_114,3,4
+AT_093,3,6
+AT_122,3,4
+AT_011,3,5
+AT_067,3,3
+AT_085,3,6
+AT_076,3,4
+AT_111,3,5
+AT_039,3,4
+AT_012,3,4
+AT_091,3,8
+AT_017,3,6
+AT_040,3,4
+AT_096,3,5
+AT_119,3,4
+AT_090,3,3
+AT_127,3,5
+AT_101,3,6
+AT_010,3,3
+AT_113,3,4
+AT_028,3,7
+AT_049,3,6
+AT_104,3,5
+AT_124,3,9
+AT_008,3,6
+AT_118,3,5
+AT_132,3,3
+AT_099,3,5
+AT_112,3,6
+AT_088,3,5
+AT_079,3,6
+AT_130,3,7
+AT_098,3,5
+AT_054,3,4
+AT_128,3,4
+AT_023,3,4
+AT_027,3,4
+AT_063,3,2
+AT_102,3,9
+AT_123,3,6
+AT_018,3,4
+AT_081,3,7
+AT_020,3,8
+AT_041,3,6
+AT_070,3,6
+AT_009,3,7
+AT_036,3,4
+AT_045,3,5
+AT_125,3,10
+AT_103,3,7
+AT_120,3,8
+AT_072,3,7
+GVG_093,3,2
+GVG_082,3,1
+GVG_013,3,2
+GVG_009,3,1
+GVG_051,3,3
+GVG_085,3,2
+GVG_030,3,2
+GVG_076,3,1
+GVG_081,3,3
+GVG_023,3,2
+GVG_006,3,3
+GVG_103,3,2
+GVG_018,3,4
+GVG_025,3,1
+GVG_064,3,2
+GVG_108,3,2
+GVG_072,3,3
+GVG_058,3,2
+GVG_075,3,3
+GVG_011,3,2
+GVG_002,3,3
+GVG_087,3,3
+GVG_067,3,3
+GVG_039,3,3
+GVG_037,3,2
+GVG_084,3,4
+GVG_098,3,4
+GVG_092,3,2
+GVG_095,3,4
+GVG_032,3,4
+GVG_104,3,3
+GVG_089,3,4
+GVG_027,3,2
+GVG_097,3,3
+GVG_048,3,3
+GVG_065,3,4
+GVG_101,3,3
+GVG_123,3,3
+GVG_044,3,4
+GVG_102,3,3
+GVG_091,3,5
+GVG_068,3,5
+GVG_066,3,4
+GVG_107,3,2
+GVG_020,3,5
+GVG_004,3,4
+GVG_094,3,4
+GVG_074,3,3
+GVG_071,3,4
+GVG_078,3,5
+GVG_109,3,1
+GVG_096,3,3
+GVG_055,3,5
+GVG_040,3,5
+GVG_122,3,5
+GVG_069,3,3
+GVG_119,3,4
+GVG_063,3,7
+GVG_099,3,3
+GVG_062,3,3
+GVG_080,3,4
+GVG_016,3,8
+GVG_100,3,4
+GVG_120,3,3
+GVG_106,3,5
+GVG_046,3,6
+GVG_090,3,4
+GVG_111,3,5
+GVG_088,3,6
+GVG_060,3,5
+GVG_070,3,4
+GVG_086,3,5
+GVG_083,3,5
+GVG_014,3,2
+GVG_077,3,9
+GVG_117,3,6
+GVG_056,3,5
+GVG_034,3,6
+GVG_112,3,6
+GVG_105,3,4
+GVG_053,3,5
+GVG_115,3,7
+GVG_028,3,8
+GVG_110,3,7
+GVG_007,3,7
+GVG_049,3,9
+GVG_035,3,7
+GVG_042,3,7
+GVG_118,3,6
+GVG_113,3,9
+GVG_079,3,7
+GVG_114,3,7
+GVG_111t,3,8
+GVG_021,3,7
+GVG_116,3,7
+GVG_121,3,8
+EX1_345t,3,1
+CS2_231,3,1
+CS2_188,3,1
+EX1_009,3,1
+EX1_008,3,1
+CS2_059,3,1
+NEW1_025,3,2
+skele21,3,1
+EX1_130a,3,1
+EX1_243,3,1
+EX1_319,3,2
+NEW1_017,3,2
+EX1_029,3,1
+EX1_001,3,2
+NEW1_012,3,3
+EX1_509,3,2
+EX1_080,3,2
+EX1_405,3,4
+EX1_554t,3,1
+CS2_146,3,1
+tt_010a,3,3
+CS2_152,3,2
+EX1_tk28,3,1
+EX1_010,3,1
+EX1_317t,3,1
+CS2_169,3,1
+EX1_004,3,1
+EX1_393,3,3
+EX1_045,3,5
+EX1_362,3,2
+EX1_402,3,4
+EX1_012,3,1
+NEW1_018,3,3
+EX1_059,3,2
+EX1_603,3,2
+EX1_131,3,2
+EX1_162,3,2
+NEW1_021,3,7
+NEW1_023,3,2
+EX1_534t,3,2
+NEW1_019,3,2
+EX1_341,3,5
+EX1_096,3,1
+EX1_100,3,4
+EX1_082,3,2
+EX1_055,3,3
+EX1_616,3,2
+NEW1_037,3,3
+NEW1_029,3,4
+EX1_557,3,4
+EX1_160t,3,2
+EX1_522,3,1
+EX1_076,3,2
+EX1_531,3,2
+EX1_608,3,2
+EX1_tk11,3,3
+EX1_058,3,3
+EX1_tk9,3,2
+NEW1_020,3,2
+EX1_049,3,2
+EX1_007,3,3
+EX1_006,3,3
+EX1_382,3,3
+EX1_089,3,4
+EX1_590,3,3
+EX1_050,3,2
+EX1_103,3,3
+EX1_102,3,4
+CS2_117,3,3
+EX1_613,3,2
+EX1_170,3,3
+EX1_301,3,5
+EX1_finkle,3,3
+tt_004,3,3
+EX1_604,3,4
+EX1_556,3,3
+EX1_597,3,5
+CS2_181,3,7
+CS2_203,3,1
+EX1_017,3,2
+EX1_014,3,5
+EX1_612,3,3
+EX1_575,3,3
+EX1_085,3,3
+EX1_507,3,3
+EX1_044,3,2
+EX1_412,3,3
+EX1_020,3,1
+EX1_134,3,3
+NEW1_027,3,3
+EX1_390,3,3
+EX1_021,3,3
+EX1_083,3,3
+EX1_258,3,4
+EX1_304,3,3
+EX1_057,3,4
+EX1_584,3,5
+EX1_398,3,3
+EX1_591,3,5
+EX1_110t,3,5
+EX1_595,3,2
+EX1_046,3,4
+EX1_093,3,3
+NEW1_022,3,3
+EX1_274,3,3
+EX1_166,3,2
+EX1_335,3,5
+NEW1_014,3,4
+EX1_396,3,7
+EX1_313,3,6
+EX1_023,3,3
+EX1_048,3,3
+EX1_315,3,4
+EX1_043,3,1
+NEW1_026,3,5
+EX1_097,3,4
+EX1_284,3,4
+EX1_005,3,2
+NEW1_024,3,4
+EX1_tk29,3,5
+EX1_310,3,7
+OG_044a,3,6
+EX1_165,3,4
+EX1_165t1,3,4
+EX1_165t2,3,6
+EX1_250,3,8
+EX1_564,3,3
+CS1_069,3,6
+EX1_558,3,4
+EX1_116,3,2
+CS2_151,3,4
+CS2_221,3,6
+NEW1_041,3,5
+EX1_028,3,5
+CS2_227,3,6
+EX1_067,3,2
+EX1_091,3,5
+EX1_110,3,5
+EX1_283,3,5
+EX1_095,3,4
+NEW1_040,3,4
+EX1_614,3,5
+EX1_tk34,3,6
+NEW1_005,3,3
+EX1_583,3,4
+EX1_534,3,5
+EX1_032,3,5
+EX1_016,3,5
+EX1_623,3,6
+EX1_577,3,7
+EX1_002,3,5
+EX1_033,3,5
+NEW1_008,3,5
+EX1_178,3,5
+EX1_559,3,7
+EX1_249,3,5
+EX1_350,3,7
+CS2_161,3,5
+NEW1_010,3,5
+EX1_414,3,9
+NEW1_038,3,7
+EX1_298,3,8
+EX1_383,3,6
+EX1_561,3,8
+EX1_573,3,8
+EX1_543,3,8
+EX1_323,3,15
+EX1_563,3,12
+EX1_560,3,8
+EX1_562,3,8
+EX1_572,3,12
+NEW1_030,3,12
+EX1_586,3,8
+EX1_105,3,8
+EX1_620,3,8
+OG_195c,3,1
+OG_070,3,2
+OG_179,3,1
+OG_051,3,1
+OG_312,3,1
+OG_156a,3,1
+OG_241,3,1
+OG_221,3,1
+OG_123,3,1
+OG_151,3,1
+OG_006,3,3
+OG_158,3,1
+OG_281,3,3
+OG_156,3,1
+OG_303,3,2
+OG_109,3,2
+OG_326,3,1
+OG_026,3,2
+OG_338,3,4
+OG_284,3,4
+OG_247,3,1
+OG_330,3,2
+OG_313,3,2
+OG_248,3,5
+OG_315,3,4
+OG_325,3,5
+OG_113,3,5
+OG_162,3,1
+OG_292,3,2
+OG_149,3,3
+OG_034,3,5
+OG_256,3,2
+OG_327,3,4
+OG_310,3,3
+OG_286,3,4
+OG_031a,3,2
+OG_083,3,2
+OG_150,3,5
+OG_322,3,5
+OG_218,3,6
+OG_283,3,2
+OG_337,3,3
+OG_085,3,4
+OG_254,3,4
+OG_082,3,2
+OG_174,3,1
+OG_044,3,5
+OG_024,3,7
+OG_334,3,6
+OG_249,3,3
+OG_216,3,3
+OG_188,3,5
+OG_328,3,5
+OG_320,3,4
+OG_202,3,3
+OG_323,3,2
+OG_335,3,3
+OG_267,3,4
+OG_272,3,1
+OG_080,3,2
+OG_147,3,6
+OG_321,3,6
+OG_295,3,4
+OG_234,3,5
+OG_102,3,6
+OG_209,3,6
+OG_309,3,5
+OG_145,3,4
+OG_087,3,4
+OG_291,3,4
+OG_096,3,5
+OG_302,3,6
+OG_200,3,7
+OG_290,3,6
+OG_161,3,3
+OG_293,3,7
+OG_207,3,5
+OG_316,3,5
+OG_122,3,5
+OG_138,3,4
+OG_271,3,8
+OG_339,3,6
+OG_028,3,5
+OG_301,3,6
+OG_153,3,8
+OG_121,3,7
+OG_152,3,5
+OG_318,3,6
+OG_220,3,5
+OG_131,3,6
+OG_319,3,6
+OG_120,3,6
+OG_255,3,9
+OG_142,3,10
+OG_308,3,8
+OG_229,3,8
+OG_300,3,7
+OG_282,3,4
+OG_173,3,9
+OG_340,3,9
+OG_173a,3,30
+OG_279,3,6
+OG_280,3,6
+OG_317,3,12
+OG_141,3,10
+OG_133,3,7
+OG_042,3,10
+OG_134,3,5
+GAME_002,3,1
+CS2_mirror,3,2
+CS2_boar,3,1
+CS2_189,3,1
+CS1_042,3,2
+EX1_508,3,1
+NEW1_009,3,2
+EX1_025t,3,1
+CS2_168,3,1
+EX1_506a,3,1
+CS2_235,3,3
+CS2_050,3,1
+CS2_tk1,3,1
+CS2_101t,3,1
+skele11,3,1
+CS2_051,3,2
+CS2_171,3,1
+DS1_175,3,1
+CS2_065,3,3
+EX1_011,3,1
+CS2_052,3,2
+EX1_066,3,2
+CS2_172,3,2
+CS2_173,3,1
+EX1_565,3,3
+CS2_121,3,2
+CS2_142,3,2
+EX1_506,3,1
+EX1_015,3,1
+CS2_120,3,3
+EX1_306,3,3
+EX1_582,3,4
+NEW1_034,3,2
+CS2_141,3,2
+CS2_125,3,3
+NEW1_033,3,4
+CS2_118,3,1
+NEW1_032,3,4
+CS2_122,3,2
+CS2_196,3,3
+EX1_019,3,2
+CS2_127,3,4
+EX1_084,3,3
+CS2_124,3,1
+CS2_182,3,5
+EX1_025,3,4
+CS2_147,3,4
+DS1_070,3,3
+NEW1_011,3,3
+CS2_119,3,7
+CS2_197,3,4
+CS2_179,3,5
+CS2_131,3,5
+CS2_033,3,6
+EX1_587,3,3
+CS2_187,3,4
+DS1_055,3,5
+CS2_226,3,4
+EX1_399,3,7
+EX1_593,3,4
+CS2_237,3,2
+CS2_150,3,2
+DS1_178,3,5
+CS2_155,3,7
+CS2_200,3,7
+CS2_064,3,6
+CS2_042,3,5
+CS2_162,3,5
+CS2_213,3,2
+CS2_201,3,5
+CS2_088,3,6
+CS2_222,3,6
+CS2_186,3,7
+CS2_232,3,8
+KAR_036,4,Whenever you cast a spell  give this minion +1 Health.
+KAR_009,4,<b>Battlecry:</b> Add a random Mage spell to your hand.
+KAR_300,4,
+KAR_089,4,Whenever you discard a card  draw a card.
+KAR_029,4,<b>Deathrattle:</b> Draw a card.
+KAR_069,4,<b>Battlecry:</b> Add a random class card to your hand <i>(from your opponent's class).</i>
+KAR_005,4,<b>Deathrattle:</b> Summon a 3/2 Big Bad Wolf.
+KARA_13_16,4,Portals cost (1) less.  Does not count as a minion.
+KARA_13_15,4,Portals cost (1) less.  Does not count as a minion.
+KARA_13_17,4,Portals cost (1) less.  Does not count as a minion.
+KAR_092,4,<b>Battlecry:</b> If you control a <b>Secret</b>  deal 3 damage.
+KAR_062,4,<b>Battlecry:</b> If you're holding a Dragon  <b>Discover</b> a Dragon.
+KAR_011,4,<b>Taunt</b>
+KAR_006,4,Your <b>Secrets</b> cost (0).
+KAR_094,4,<b>Deathrattle:</b> Add a 3/2 weapon to your hand.
+KAR_044,4,<b>Stealth</b> At the end of your turn  summon a 1/1 Steward.
+KAR_010,4,<b>Battlecry:</b> If you're holding a Dragon  summon two 1/1 Whelps.
+KAR_030a,4,<b>Battlecry:</b> Summon a 1/3 Spider.
+KAR_205,4,If you discard this minion  summon it.
+KAR_712,4,During your turn  your hero is <b>Immune</b>.
+KAR_095,4,<b>Battlecry:</b> Give a random friendly Beast  Dragon  and Murloc +1/+1.
+KAR_710,4,<b>Battlecry:</b> Summon a 0/5 minion with <b>Taunt</b>.
+KAR_114,4,<b>Battlecry:</b> Summon a 1/1 copy of a random minion in your deck.
+KAR_035,4,Whenever you cast a spell  restore 3 Health to your hero.
+KAR_021,4,Whenever you cast a spell  summon a random basic_Totem.
+KAR_037,4,<b>Battlecry:</b> If you control a <b>Secret</b>  gain +1/+1 and <b>Taunt</b>.
+KAR_070,4,[x]<b>Battlecry:</b> If you're holding any non-Rogue class cards  _reduce their Cost by (2).
+KAR_702,4,<b>Battlecry:</b> Give a random friendly Beast  Dragon  and Murloc +2/+2.
+KAR_204,4,<b>Battlecry:</b> Summon a friendly minion that died this game.
+KAR_096,4,[x]When the game starts  add 5 extra <b>Legendary</b> minions to your deck.
+KARA_13_19,4,<B>Taunt. Deathrattle:</b> Enemies can't attack this turn.
+KARA_13_23,4,At the end of your turn  restore 5 health to your hero.
+KAR_033,4,<b>Battlecry:</b> If you're holding a Dragon  destroy an enemy minion with 3 or less Attack.
+KAR_057,4,[x]<b>Battlecry:</b> <b>Discover</b> a spell. Restore Health to your hero equal to its Cost.
+KAR_065,4,<b>Battlecry:</b> Choose a friendly Beast. Summon a_copy of it.
+KAR_041,4,<b>Battlecry:</b> Destroy a minion. <b>Deathrattle:</b> Resummon it.
+KAR_061,4,<b>Taunt</b> <b>Battlecry:</b> Draw a Beast  Dragon  and Murloc from your deck.
+KAR_097,4,<b>Battlecry:</b> Equip Atiesh  Greatstaff of the Guardian.
+KAR_711,4,[x]Costs (1) less for each spell you've cast this game.
+BRMA14_3,4,Both players have <b>Spell Damage +2</b>.
+BRM_022t,4,
+BRM_022,4,Whenever this minion takes damage  summon a 2/1 Whelp.
+BRMA14_5,4,At the start of your turn  deal 1 damage to all other minions.
+BRMA14_5H,4,At the start of your turn  deal 1 damage to all other minions.
+BRM_004,4,<b>Battlecry:</b> If you're holding a Dragon  gain +2 Health.
+BRM_033,4,<b>Battlecry:</b> If you're holding a Dragon  gain +1/+1. 
+BRM_010,4,<b>Choose One</b> - Transform into a 5/2 minion; or a 2/5 minion.
+BRM_010t,4,
+BRM_010t2,4,
+OG_044b,4,
+BRMA14_7,4,All spells cost (3) less.
+BRMA14_7H,4,All spells cost (3) less.
+BRM_002,4,After you cast a spell  deal 2 damage randomly split among all enemies.
+BRMA09_5Ht,4,
+BRMA09_5t,4,
+BRM_006,4,Whenever this minion takes damage  summon a 1/1 Imp.
+BRM_016,4,Whenever this minion takes damage  deal 2 damage to the enemy hero.
+BRM_014,4,<b>Battlecry:</b> If your hand is empty  gain +3/+3.
+BRM_020,4,Whenever <b>you</b> target this minion with a spell  gain +1/+1.
+BRM_012,4,<b>Battlecry:</b> Gain 1-4 Attack. <b>Overload:</b> (1)
+BRM_026,4,<b>Battlecry:</b> Summon a random 1-Cost minion for your opponent.
+BRM_034,4,<b>Battlecry:</b> If you're holding a Dragon  deal 3 damage.
+BRM_008,4,<b>Battlecry:</b> Deal 2 damage to all undamaged enemy minions.
+BRM_018,4,<b>Battlecry:</b> The next Dragon you play costs (2) less.
+BRM_019,4,Whenever this minion survives damage  summon another Grim Patron.
+BRMA14_9,4,Whenever a player plays a card  Magmatron deals 2 damage to them.
+BRMA14_9H,4,Whenever a player plays a card  Magmatron deals 2 damage to them.
+BRMA14_12,4,<b>Taunt</b>
+BRM_024,4,<b>Battlecry:</b> If your opponent has 15 or less Health  gain +3/+3.
+BRM_028,4,At the end of your turn  reduce the Cost of cards in your hand by (1).
+BRM_025,4,Costs (1) less for each minion that died this turn.
+BRM_029,4,<b>Battlecry:</b> If you're holding a Dragon  destroy a <b>Legendary</b> minion.
+BRM_031,4,Whenever you draw a card  put another copy into your hand.
+BRM_027,4,<b>Deathrattle:</b> Replace your hero with Ragnaros  the Firelord.
+BRM_030,4,<b>Battlecry:</b> Add 2 random spells to your hand <i>(from your opponent's class)</i>.
+BRM_009,4,<b>Taunt</b> Costs (1) less for each minion that died this turn.
+LOEA10_3,4,
+LOE_010,4,Destroy any minion damaged by this minion.
+LOE_116,4,<b>Battlecry:</b> If you have 6 other minions  gain +4/+4.
+LOE_076,4,<b>Battlecry: Discover</b> a new basic Hero Power.
+LOE_018,4,Whenever you <b>Overload</b>  gain +1 Attack per locked Mana Crystal.
+LOE_023,4,<b>Battlecry: Discover</b> a 1-Cost card.
+LOE_046,4,<b>Deathrattle:</b> Deal 1 damage to a random enemy.
+LOE_029,4,<b>Battlecry: Discover</b> a 3-Cost card.
+LOE_006,4,<b>Battlecry: Discover</b> a <b>Deathrattle</b> card.
+LOE_077,4,Your <b>Battlecries</b> trigger twice.
+LOE_020,4,<b>Battlecry:</b> Put a 1-Cost minion from each deck into the battlefield.
+LOE_022,4,<b>Taunt</b>
+LOE_050,4,<b>Deathrattle:</b> Summon a random 1-Cost minion.
+LOE_019,4,<b>Battlecry:</b> Choose a friendly minion. Gain a copy of its <b>Deathrattle</b> effect.
+LOE_110,4,<b>Battlecry:</b> Shuffle an 'Ancient Curse' into your deck that deals 7 damage to you when drawn.
+LOE_119,4,Your hero can only take 1 damage at a time.
+LOE_107,4,Can’t attack unless it’s the only minion in the battlefield.
+LOE_079,4,<b>Battlecry:</b> Shuffle the 'Map to the Golden Monkey'   into your deck.
+LOE_039,4,<b>Battlecry:</b> If you control another Mech  <b>Discover</b> a Mech.
+LOE_051,4,Both players have <b>Spell Damage +2</b>.
+LOE_017,4,<b>Battlecry:</b> Set a minion's Attack and Health to 3.
+LOE_016,4,After you play a <b>Battlecry</b> minion  deal 2 damage to a random enemy.
+LOE_012,4,<b>Deathrattle:</b> Add a Coin to your hand.
+LOE_047,4,<b>Battlecry: Discover</b> a Beast.
+LOE_061,4,<b>Deathrattle:</b> Give a random friendly minion +3/+3.
+LOEA16_22,4,At the end of your turn  turn a random enemy minion into a 0/2 Statue.
+LOEA16_21,4,Enemy cards cost (1) more.
+LOE_053,4,After you cast a spell on another friendly minion  cast a copy of it on this one.
+LOE_003,4,<b>Battlecry: Discover</b> a spell.
+LOEA16_24,4,At the end of your turn  draw until you have as many cards as your opponent.
+LOEA16_25,4,At the end of your turn  replace all other minions with new ones of the same Cost.
+LOEA16_23,4,At the end of your turn  summon 1/1 Hungry Naga for each enemy minion.
+LOE_038,4,Your cards cost (5).
+LOEA16_26,4,At the end of your turn  give each player a random card. It costs (0).
+LOE_086,4,Whenever you cast a spell  summon a random minion of the same Cost.
+LOEA16_19,4,At the end of your turn  add a Blessing of the Sun to your hand.
+LOEA16_27,4,This minion can only take 1 damage at a time.
+LOEA16_18,4,At the end of your turn  gain a wish.
+LOE_011,4,<b>Battlecry:</b> If your deck contains no more than 1 of any card  fully heal your hero.
+LOE_089,4,<b>Deathrattle:</b> Summon three 2/2 Runts.
+LOE_009,4,At the end of your turn  summon a 1/1 Scarab with <b>Taunt</b>.
+LOE_073,4,<b>Battlecry:</b> If you control a Beast  gain <b>Taunt</b>.
+LOE_092,4,<b>Battlecry: Discover</b> a powerful Artifact.
+LOEA16_22H,4,At the end of your turn  turn a random enemy minion into a 0/2 Statue.
+LOEA16_21H,4,Enemy cards cost (2) more.
+LOEA16_24H,4,At the end of your turn  draw 2 cards.
+LOEA16_25H,4,At the end of your turn  replace all other minions with new ones of the same Cost.
+LOEA16_23H,4,At the end of your turn  summon 1/1 Hungry Naga for each enemy minion.
+LOEA16_26H,4,At the end of your turn  put a random card in your hand. It costs (0).
+LOEA16_19H,4,Your other minions are <b>Immune</b>.
+LOEA16_27H,4,This minion can only take 1 damage at a time.
+LOEA16_18H,4,At the end of your turn  gain a wish.
+NAX15_05,4,<i>This is Kel'Thuzad's kitty.</i>
+FP1_028,4,Whenever you summon a minion with <b>Deathrattle</b>  gain +1 Attack.
+FP1_011,4,<b>Deathrattle:</b> Add a random Beast card to your hand.
+FP1_001,4,<b>Deathrattle:</b> Restore 5 Health to the enemy hero.
+FP1_003,4,<b>Battlecry:</b> Summon an exact copy of this minion at the end of the turn.
+FP1_002,4,<b>Deathrattle:</b> Summon two 1/1 Spectral Spiders.
+FP1_004,4,<b>Deathrattle:</b> Put a <b>Secret</b> from your deck into the battlefield.
+FP1_017,4,Minions with <b>Battlecry</b> cost (2) more.
+FP1_007,4,<b>Deathrattle:</b> Summon a 4/4 Nerubian.
+FP1_024,4,<b>Taunt</b>. <b>Deathrattle:</b> Deal 1 damage to all minions.
+FP1_029,4,<b>Deathrattle:</b> Your opponent draws a card.
+FP1_023,4,<b>Deathrattle:</b> Give a random friendly minion +3 Health.
+FP1_009,4,<b>Taunt. Deathrattle:</b> Your opponent puts a minion from their deck into the battlefield.
+NAX9_02,4,Your hero is <b>Immune</b>.
+NAX9_02H,4,Your hero is <b>Immune</b>.
+FP1_005,4,<b>Stealth.</b> At the start of your turn  gain +1/+1.
+NAX9_04,4,Your hero is <b>Immune</b>.
+NAX9_04H,4,Your hero is <b>Immune</b>.
+FP1_027,4,At the start of your turn  restore this minion to full Health.
+NAX9_03,4,Your hero is <b>Immune</b>.
+NAX9_03H,4,Your hero is <b>Immune</b>.
+FP1_026,4,<b>Deathrattle:</b> Return a random friendly minion to your hand.
+FP1_031,4,Your minions trigger their <b>Deathrattles</b> twice.
+FP1_007t,4,
+FP1_022,4,<b>Deathrattle:</b> Put a random Demon from your hand into the battlefield.
+FP1_016,4,<b>Battlecry: Silence</b> your other minions.
+FP1_015,4,<b>Deathrattle:</b> If Stalagg also died this game  summon Thaddius.
+NAX13_04H,4,
+FP1_030,4,<b>Battlecry:</b> Enemy spells cost (5) more next turn.
+FP1_012,4,<b>Taunt Deathrattle:</b> Summon a 1/2 Slime with <b>Taunt</b>.
+FP1_008,4,Can't be targeted by spells or Hero Powers.
+FP1_014,4,<b>Deathrattle:</b> If Feugen also died this game  summon Thaddius.
+NAX13_05H,4,
+FP1_010,4,Destroy any minion damaged by this minion.
+FP1_013,4,At the end of each turn  summon all friendly minions that died this turn.
+FP1_014t,4,
+AT_059,4,<b>Inspire:</b> If your hand is empty  deal 2 damage to the enemy hero.
+AT_029,4,Whenever you equip a weapon  give it +1 Attack.
+AT_133,4,<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more  gain +1/+1.
+AT_105,4,<b>Battlecry:</b> Deal 3 damage to this minion.
+AT_082,4,<b>Inspire:</b> Gain +1 Attack.
+AT_097,4,<b>Taunt</b>
+AT_071,4,<b>Battlecry:</b> If you're holding a Dragon  gain +1 Attack and <b>Charge</b>.
+AT_109,4,Can't attack. <b>Inspire:</b> Can attack as normal this turn.
+AT_089,4,<b>Inspire:</b> Gain +1 Health.
+AT_031,4,Whenever this minion attacks a hero  add the Coin to your hand.
+AT_038,4,<b>Battlecry:</b> Gain an empty Mana Crystal. <b>Deathrattle:</b> Lose a Mana Crystal.
+AT_042,4,<b>Choose One -</b> Transform to gain <b>Charge</b>; or +1/+1 and <b>Stealth</b>.
+AT_003,4,Your Hero Power deals 1 extra damage.
+AT_094,4,<b>Battlecry:</b> Deal 1 damage to a random enemy.
+AT_080,4,You can use your Hero Power twice a turn.
+AT_058,4,<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more  draw it.
+AT_084,4,<b>Battlecry:</b> Give a friendly minion +2 Attack.
+AT_042t,4,<b>Charge</b>
+AT_042t2,4,<b>Stealth</b>
+OG_044c,4,<b>Charge  Stealth</b>
+AT_069,4,<b>Taunt</b> <b>Battlecry:</b> Give a minion <b>Taunt</b>.
+AT_021,4,Whenever you discard a card  gain +1/+1.
+AT_052,4,<b>Overload:</b> (1)
+AT_030,4,<b>Combo:</b> Deal 1 damage.
+AT_026,4,Whenever this minion takes damage  also deal that amount to your hero.
+AT_116,4,<b>Battlecry:</b> If you're holding a Dragon  gain +1 Attack and <b>Taunt</b>.
+AT_087,4,<b>Charge</b> <b>Divine Shield</b>
+AT_110,4,<b>Inspire:</b> Return this minion to your hand.
+AT_083,4,<b>Inspire:</b> Gain <b>Windfury</b> this turn.
+AT_063t,4,At the end of your turn  deal 1 damage to all other minions.
+AT_131,4,Whenever <b>you</b> target this minion with a spell  deal 3 damage to a random enemy.
+AT_115,4,<b>Battlecry:</b> The next time you use your Hero Power  it costs (2) less.
+AT_129,4,Whenever <b>you</b> target this minion with a spell  gain <b>Divine Shield.</b>
+AT_092,4,
+AT_106,4,<b>Battlecry:</b> <b>Silence</b> a Demon.
+AT_117,4,<b>Battlecry:</b> If you have a minion with <b>Spell Damage</b>  gain +2/+2.
+AT_066,4,<b>Inspire:</b> Give your weapon +1 Attack.
+AT_086,4,<b>Battlecry:</b> Your opponent's Hero Power costs (5) more next turn.
+AT_014,4,Whenever you draw a card  reduce its Cost by (1).
+AT_032,4,<b>Battlecry:</b> If you have a Pirate  gain +1/+1.
+AT_095,4,<b>Stealth</b> <b>Divine Shield</b>
+AT_100,4,<b>Inspire:</b> Summon a 1/1 Silver Hand Recruit.
+AT_007,4,<b>Battlecry:</b> Add a random spell to each player's hand.
+AT_057,4,<b>Battlecry:</b> Give a friendly Beast <b>Immune</b> this turn.
+AT_046,4,<b>Battlecry:</b> Summon a random basic Totem.
+AT_075,4,Your Silver Hand Recruits have +1 Attack.
+AT_108,4,<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more  gain <b>Charge</b>.
+AT_121,4,Whenever you play a card with <b>Battlecry</b>  gain +1/+1.
+AT_006,4,<b>Inspire:</b> Gain <b>Spell Damage +1</b>.
+AT_047,4,<b>Battlecry:</b> Gain +1/+1 for each friendly Totem.
+AT_019,4,<b>Deathrattle:</b> Summon a Dreadsteed.
+AT_114,4,<b>Taunt</b>
+AT_093,4,<b>Spell Damage +1</b>
+AT_122,4,<b>Battlecry:</b> If you have at least 4 other minions  deal 4 damage.
+AT_011,4,Whenever a character is healed  gain +2 Attack.
+AT_067,4,Also damages the minions next to whomever he attacks.
+AT_085,4,Your Hero Power costs (1).
+AT_076,4,<b>Inspire:</b> Summon a random Murloc.
+AT_111,4,<b>Battlecry:</b> Restore 4 Health to each hero.
+AT_039,4,<b>Inspire:</b> Give your hero +2 Attack this turn.
+AT_012,4,<b>Inspire:</b> Deal 4 damage to each hero.
+AT_091,4,<b>Inspire:</b> Restore 2 Health to your hero.
+AT_017,4,<b>Battlecry:</b> If you're holding a Dragon  gain +1 Attack and <b>Taunt</b>.
+AT_040,4,<b>Battlecry:</b> Give a friendly Beast +3 Health.
+AT_096,4,<b>Battlecry:</b> Give a friendly Mech +1/+1.
+AT_119,4,<b>Inspire:</b> Gain +2/+2.
+AT_090,4,<b>Inspire:</b> Give your other minions +1/+1.
+AT_127,4,<b>Inspire:</b> Add a random spell to your hand.
+AT_101,4,
+AT_010,4,<b>Battlecry:</b> If you have a Beast  summon a random Beast.
+AT_113,4,<b>Inspire:</b> Add a 2/2 Squire to your hand.
+AT_028,4,<b>Combo:</b> Gain +3 Attack.
+AT_049,4,<b>Inspire:</b> Give your Totems +2 Attack.
+AT_104,4,<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more  restore 7 Health to your hero.
+AT_124,4,Whenever your hero takes damage  this minion takes it instead.
+AT_008,4,You can use your Hero Power any number of times.
+AT_118,4,<b>Battlecry:</b> Add a random Paladin card to your hand.
+AT_132,4,<b>Battlecry:</b> Replace your starting Hero Power with a better one.
+AT_099,4,<b>Inspire:</b> Summon a 3/5 War Kodo.
+AT_112,4,<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more  gain <b>Taunt</b> and <b>Divine Shield</b>.
+AT_088,4,50% chance to attack the wrong enemy.
+AT_079,4,<b>Battlecry:</b> Put one of each <b>Secret</b> from your deck into the battlefield.
+AT_130,4,When you draw this  deal 1 damage to your minions.
+AT_098,4,<b>Battlecry:</b> Copy your opponent's Hero Power.
+AT_054,4,<b>Battlecry:</b> Give all minions in your hand and deck +1/+1.
+AT_128,4,<b>Deathrattle:</b> Reveal a minion in each deck. If yours costs more  return this to your hand.
+AT_023,4,<b>Inspire:</b> Destroy a random minion for each player.
+AT_027,4,Cards you draw from your Hero Power cost (0).
+AT_063,4,Whenever another minion takes damage  destroy it.
+AT_102,4,
+AT_123,4,[x]<b>Taunt</b> <b>Deathrattle:</b> If you're holding a Dragon  deal 3 damage to all minions.
+AT_018,4,<b>Inspire:</b> Summon a random <b>Legendary</b> minion.
+AT_081,4,<b>Battlecry:</b> Change all enemy minions' Attack to 1.
+AT_020,4,
+AT_041,4,Whenever you summon a Beast  reduce the Cost of this card by (1).
+AT_070,4,<b>Charrrrrge</b> Costs (1) less for each friendly Pirate.
+AT_009,4,<b>Deathrattle:</b> Add 3 copies of Arcane Missiles to your hand.
+AT_036,4,<b>Deathrattle:</b> Return this to your hand and summon a 4/4 Nerubian.
+AT_045,4,Your minions cost (1).
+AT_125,4,<b>Charge</b> Can't attack heroes.
+AT_103,4,<b>Battlecry:</b> Deal 4 damage.
+AT_120,4,Costs (1) less for each time you used your Hero Power this game.
+AT_072,4,<b>Battlecry:</b> Draw 3 cards. Put any minions you drew directly into the battlefield.
+GVG_093,4,<b>Taunt</b>
+GVG_082,4,<b>Deathrattle:</b> Add a <b>Spare Part</b> card to your hand.
+GVG_013,4,Has +2 Attack while you have a Mech.
+GVG_009,4,<b>Battlecry:</b> Deal 3 damage to each hero.
+GVG_051,4,<b>Enrage:</b> +1 Attack.
+GVG_085,4,<b>Taunt</b> <b>Divine Shield</b>
+GVG_030,4,<b>Taunt</b>. <b>Choose One -</b> +1 Attack; or +1 Health.
+GVG_076,4,<b>Deathrattle:</b> Deal 2 damage to all minions.
+GVG_081,4,<b>Stealth</b>
+GVG_023,4,<b>Battlecry:</b> Give your weapon +1 Attack.
+GVG_006,4,Your Mechs cost (1) less.
+GVG_103,4,At the start of each turn  gain +1 Attack.
+GVG_018,4,Whenever this minion deals damage  restore that much Health to your hero.
+GVG_025,4,Whenever you summon a Pirate  gain <b>Stealth</b>.
+GVG_064,4,
+GVG_108,4,<b>Battlecry:</b> Transform a friendly minion into a random minion with the same Cost.
+GVG_072,4,Whenever a character is healed  deal 1 damage to a random enemy.
+GVG_058,4,<b>Divine Shield</b>
+GVG_075,4,After you summon a Pirate  deal 2 damage to a random enemy.
+GVG_011,4,<b>Battlecry:</b> Give a minion -2 Attack this turn.
+GVG_002,4,<b>Freeze</b> any character damaged by this minion.
+GVG_087,4,Your Hero Power can target minions.
+GVG_067,4,Whenever your opponent casts a spell  gain +1 Attack.
+GVG_039,4,At the end of your turn  restore 4 Health to your hero.
+GVG_037,4,<b>Windfury</b>
+GVG_084,4,<b>Windfury</b>
+GVG_098,4,<b>Charge</b> <b>Taunt</b>
+GVG_092,4,<b>Battlecry:</b> Draw a card. If it's a minion  transform it into a Chicken.
+GVG_095,4,Has +4 Attack while your opponent has 6 or more cards in hand.
+GVG_032,4,<b>Choose One -</b> Give each player a Mana Crystal; or Each player draws a card.
+GVG_104,4,Whenever you play a 1-Attack minion  give it +2/+2.
+GVG_089,4,If you control a <b>Secret</b> at the end of your turn  restore 4 Health to your hero.
+GVG_027,4,At the end of your turn  give another friendly Mech +2/+2.
+GVG_097,4,<b>Taunt</b> <b>Battlecry:</b> Gain +1/+1 for each enemy <b>Deathrattle</b> minion.
+GVG_048,4,<b>Battlecry:</b> Give your other Mechs +2 Attack.
+GVG_065,4,50% chance to attack the wrong enemy.
+GVG_101,4,<b>Battlecry:</b> Deal 2 damage to all minions with <b>Deathrattle</b>.
+GVG_123,4,<b>Spell Damage +1</b>
+GVG_044,4,
+GVG_102,4,<b>Battlecry:</b> If you have a Mech  gain +1/+1 and add a <b>Spare Part</b> to your hand.
+GVG_091,4,<b>Taunt</b> Can't be targeted by spells or Hero Powers.
+GVG_068,4,Whenever your opponent casts a spell  gain +2 Attack.
+GVG_066,4,<b>Windfury  Overload:</b> (1) 50% chance to attack the wrong enemy.
+GVG_107,4,<b>Battlecry:</b> Give your other minions <b>Windfury</b>  <b>Taunt</b>  or <b>Divine Shield</b> <i>(at random)</i>.
+GVG_020,4,At the end of your turn  deal 2 damage to a non-Mech minion.
+GVG_004,4,<b>Battlecry:</b> If you have a Mech  deal 4 damage randomly split among all enemies.
+GVG_094,4,At the end of each player's turn  that player draws until they have 3 cards.
+GVG_074,4,<b>Battlecry:</b> Take control of a random enemy <b>Secret</b>.
+GVG_071,4,
+GVG_078,4,<b>Deathrattle:</b> Give each player a <b>Spare Part.</b>
+GVG_109,4,<b>Stealth</b> <b>Spell Damage +1</b>
+GVG_096,4,<b>Deathrattle:</b> Summon a random 2-Cost minion.
+GVG_055,4,<b>Battlecry:</b> Give a friendly Mech +2/+2.
+GVG_040,4,Whenever another friendly Murloc dies  draw a card. <b><b>Overload</b>:</b> (1)
+GVG_122,4,Adjacent minions can't be targeted by spells or Hero Powers.
+GVG_069,4,<b>Battlecry:</b> Restore 8 Health to your hero.
+GVG_119,4,<b>Battlecry:</b> Equip a random weapon for each player.
+GVG_063,4,Whenever a friendly minion dies while this is in your hand  gain +1 Attack.
+GVG_099,4,<b>Battlecry:</b> Deal 4 damage to a random enemy minion.
+GVG_062,4,Whenever you summon a Mech  gain <b>Divine Shield</b>.
+GVG_080,4,<b>Battlecry:</b> If you have a Beast  transform this minion into a 7/7.
+GVG_016,4,Whenever your opponent plays a card  remove the top 3 cards of your deck.
+GVG_100,4,Whenever your hero takes damage on your turn  gain +2/+2.
+GVG_120,4,<b>Battlecry:</b> Destroy a Beast.
+GVG_106,4,Whenever a friendly Mech dies  gain +2/+2.
+GVG_046,4,<b>Taunt</b>. <b>Battlecry:</b> Gain +1 Attack for each other Beast you have.
+GVG_090,4,<b>Battlecry:</b> Deal 6 damage randomly split between all other characters.
+GVG_111,4,At the start of your turn  if you have at least 3 Mechs  destroy them all and form V-07-TR-0N.
+GVG_088,4,<b>Stealth</b> 50% chance to attack the wrong enemy.
+GVG_060,4,<b>Battlecry:</b> Give your Silver Hand Recruits +2/+2.
+GVG_070,4,
+GVG_086,4,Whenever you gain Armor  give this minion +1 Attack.
+GVG_083,4,<b>Battlecry:</b> Give a friendly Mech +4 Health.
+GVG_014,4,<b>Battlecry:</b> Swap Health with another minion.
+GVG_077,4,At the end of each turn  destroy this minion if it's your only one.
+GVG_117,4,Whenever you cast a 1-mana spell  add a random Mech to your hand.
+GVG_056,4,<b>Battlecry:</b> Shuffle a Mine into your opponent's deck. When drawn  it explodes for 10 damage.
+GVG_034,4,Whenever this minion takes damage  add a <b>Spare Part</b> card to your hand.
+GVG_112,4,All minions have a 50% chance to attack the wrong enemy.
+GVG_105,4,<b>Deathrattle:</b> Summon a random 4-Cost minion.
+GVG_053,4,<b>Battlecry:</b> Gain 5 Armor.
+GVG_115,4,<b>Battlecry and Deathrattle:</b> Add a <b>Spare Part</b> card to your hand.
+GVG_028,4,Whenever your opponent casts a spell  gain a copy of it and give them a Coin.
+GVG_110,4,<b>Battlecry:</b> Summon two 1/1 Boom Bots. <i>WARNING: Bots may explode.</i>
+GVG_007,4,When you draw this  deal 2 damage to all characters.
+GVG_049,4,Whenever this minion takes damage  double its Attack.
+GVG_035,4,<b>Deathrattle:</b> Shuffle this minion into your deck.
+GVG_042,4,<b>Battlecry:</b> Add 4 random Murlocs to your hand. <b>Overload:</b> (3)
+GVG_118,4,Whenever your opponent casts a spell  summon a Burly Rockjaw Trogg.
+GVG_113,4,Also damages the minions next to whomever it attacks.
+GVG_079,4,<b>Divine Shield</b>
+GVG_114,4,<b>Deathrattle:</b> Summon a random <b>Legendary</b> minion.
+GVG_111t,4,<b>Charge</b> <b>Mega-Windfury</b> <i>(Can attack four times a turn.)</i>
+GVG_021,4,Your other Demons have +2/+2. Your hero is <b>Immune</b>.
+GVG_116,4,Whenever an enemy minion dies  summon a Leper Gnome.
+GVG_121,4,Costs (1) less for each card in your opponent's hand.
+EX1_345t,4,Mindgames whiffed! Your opponent had no minions!
+CS2_231,4,
+CS2_188,4,<b>Battlecry:</b> Give a minion +2_Attack this turn.
+EX1_009,4,<b>Enrage:</b> +5 Attack.
+EX1_008,4,<b>Divine Shield</b>
+CS2_059,4,<b>Stealth</b>. At the end of your turn  give another random friendly minion +1 Health.
+NEW1_025,4,<b>Battlecry:</b> Remove 1 Durability from your opponent's weapon.
+skele21,4,
+EX1_130a,4,
+EX1_243,4,<b>Windfury</b>. <b>Overload:</b> (2)
+EX1_319,4,<b>Battlecry:</b> Deal 3 damage to your hero.
+NEW1_017,4,<b>Battlecry:</b> Destroy a Murloc and gain +2/+2.
+EX1_029,4,<b>Deathrattle:</b> Deal 2 damage to the enemy hero.
+EX1_001,4,Whenever a character is healed  gain +2 Attack.
+NEW1_012,4,Whenever you cast a spell  gain +1 Attack.
+EX1_509,4,Whenever you summon a Murloc  gain +1 Attack.
+EX1_080,4,Whenever a <b>Secret</b> is played  gain +1/+1.
+EX1_405,4,<b>Taunt</b>
+EX1_554t,4,
+CS2_146,4,Has <b>Charge</b> while you have a weapon equipped.
+tt_010a,4,
+CS2_152,4,
+EX1_tk28,4,
+EX1_010,4,<b>Stealth</b>
+EX1_317t,4,<i>You are out of demons! At least there are always imps...</i>
+CS2_169,4,<b>Windfury</b>
+EX1_004,4,At the end of your turn  give another random friendly minion +1 Health.
+EX1_393,4,<b>Enrage:</b> +3 Attack
+EX1_045,4,Can't attack.
+EX1_362,4,<b>Battlecry:</b> Give a friendly minion <b>Divine Shield</b>.
+EX1_402,4,Whenever a friendly minion takes damage  gain 1 Armor.
+EX1_012,4,<b>Spell Damage +1</b>. <b>Deathrattle:</b> Draw a card.
+NEW1_018,4,<b>Battlecry:</b> Gain Attack equal to the Attack of your weapon.
+EX1_059,4,<b>Battlecry:</b> Swap the Attack and Health of a minion.
+EX1_603,4,<b>Battlecry:</b> Deal 1 damage to a minion and give it +2 Attack.
+EX1_131,4,<b>Combo:</b> Summon a 2/1 Defias Bandit.
+EX1_162,4,Adjacent minions have +1 Attack.
+NEW1_021,4,At the start of your turn  destroy ALL minions.
+NEW1_023,4,Can't be targeted by spells or Hero Powers.
+EX1_534t,4,
+NEW1_019,4,After you summon a minion  deal 1 damage to a random enemy.
+EX1_341,4,At the start of your turn  restore 3 Health to a damaged friendly character.
+EX1_096,4,<b>Deathrattle:</b> Draw a card.
+EX1_100,4,Whenever a player casts a spell  put a copy into the other player’s hand.
+EX1_082,4,<b>Battlecry:</b> Deal 3 damage randomly split between all other characters.
+EX1_055,4,Whenever you cast a spell  gain +2 Attack this turn.
+EX1_616,4,ALL minions cost (1) more.
+NEW1_037,4,At the end of your turn  give another random friendly minion +1 Attack.
+NEW1_029,4,<b>Battlecry:</b> Enemy spells cost (0) next turn.
+EX1_557,4,At the start of your turn  you have a 50% chance to draw an extra card.
+EX1_160t,4,
+EX1_522,4,<b>Stealth</b>. Destroy any minion damaged by this minion.
+EX1_076,4,The first minion you play each turn costs (1) less.
+EX1_531,4,Whenever a friendly Beast dies  gain +2/+1.
+EX1_608,4,Your spells cost (1) less.
+EX1_tk11,4,<b>Taunt</b>
+EX1_058,4,<b>Battlecry:</b> Give adjacent minions <b>Taunt</b>.
+EX1_tk9,4,
+NEW1_020,4,After you cast a spell  deal 1 damage to ALL minions.
+EX1_049,4,<b>Battlecry:</b> Return a friendly minion from the battlefield to your hand.
+EX1_007,4,Whenever this minion takes damage  draw a card.
+EX1_006,4,At the start of your turn  swap this minion with a random one in your hand.
+EX1_382,4,<b>Battlecry:</b> Change an enemy minion's Attack to 1.
+EX1_089,4,<b>Battlecry:</b> Give your opponent a Mana Crystal.
+EX1_590,4,<b>Battlecry:</b> All minions lose <b>Divine Shield</b>. Gain +3/+3 for each Shield lost.
+EX1_050,4,<b>Battlecry:</b> Each player draws 2 cards.
+EX1_103,4,<b>Battlecry:</b> Give your other Murlocs +2 Health.
+EX1_102,4,At the start of your turn  deal 2 damage to a random enemy.
+CS2_117,4,<b>Battlecry:</b> Restore 3 Health.
+EX1_613,4,<b>Combo:</b> Gain +2/+2 for each card played earlier this turn.
+EX1_170,4,Destroy any minion damaged by this minion.
+EX1_301,4,<b>Taunt</b>. <b>Battlecry:</b> Destroy one of your Mana Crystals.
+EX1_finkle,4,
+tt_004,4,Whenever a minion dies  gain +1 Attack.
+EX1_604,4,Whenever a minion takes damage  gain +1 Attack.
+EX1_556,4,<b>Deathrattle:</b> Summon a 2/1 Damaged Golem.
+EX1_597,4,At the end of your turn  deal 1 damage to this minion and summon a 1/1 Imp.
+CS2_181,4,<b>Battlecry:</b> Deal 4 damage to HIMSELF.
+CS2_203,4,<b>Battlecry:</b> <b>Silence</b> a minion.
+EX1_017,4,<b>Stealth</b>
+EX1_014,4,<b>Battlecry:</b> Give your opponent 2 Bananas.
+EX1_612,4,<b>Battlecry:</b> The next <b>Secret</b> you play this turn costs (0).
+EX1_575,4,At the end of your turn  draw a card.
+EX1_085,4,<b>Battlecry:</b> If your opponent has 4 or more minions  take control of one at random.
+EX1_507,4,Your other Murlocs have +2/+1.
+EX1_044,4,Whenever you play a card  gain +1/+1.
+EX1_412,4,<b>Enrage:</b> <b>Windfury</b> and +1 Attack
+EX1_020,4,<b>Divine Shield</b>
+EX1_134,4,<b>Combo:</b> Deal 2 damage.
+NEW1_027,4,Your other Pirates have +1/+1.
+EX1_390,4,<b>Taunt</b>. <b>Enrage:</b> +3 Attack
+EX1_021,4,<b>Windfury</b>
+EX1_083,4,<b>Battlecry:</b> Transform another random minion into a 5/5 Devilsaur or a 1/1 Squirrel.
+EX1_258,4,Whenever you play a card with <b>Overload</b>  gain +1/+1.
+EX1_304,4,<b>Battlecry:</b> Destroy the minions on either side of this minion and gain their Attack and Health.
+EX1_057,4,<b>Battlecry:</b> Return a friendly minion from the battlefield to your hand.
+EX1_584,4,<b>Battlecry:</b> Give adjacent minions <b>Spell Damage +1</b>.
+EX1_398,4,<b>Battlecry:</b> Equip a 2/2 weapon.
+EX1_591,4,Your cards and powers that restore Health now deal damage instead.
+EX1_110t,4,
+EX1_595,4,Whenever one of your other minions dies  draw a card.
+EX1_046,4,<b>Battlecry:</b> Give a minion +2 Attack this turn.
+EX1_093,4,<b>Battlecry:</b> Give adjacent minions +1/+1 and <b>Taunt</b>.
+NEW1_022,4,<b>Taunt.</b> Costs (1) less per Attack of your weapon.
+EX1_274,4,If you control a <b>Secret</b> at the end of your turn  gain +2/+2.
+EX1_166,4,<b>Choose One</b> - Deal 2 damage; or <b>Silence</b> a minion.
+EX1_335,4,This minion's Attack is always equal to its Health.
+NEW1_014,4,<b>Battlecry:</b> Give a friendly minion <b>Stealth</b> until your next turn.
+EX1_396,4,<b>Taunt</b>
+EX1_313,4,<b>Battlecry:</b> Deal 5 damage to your hero.
+EX1_023,4,<b>Divine Shield</b>
+EX1_048,4,<b>Battlecry:</b> <b>Silence</b> a minion.
+EX1_315,4,Your minions cost (2) less  but not less than (1).
+EX1_043,4,<b>Battlecry:</b> Gain +1 Health for each card in your hand.
+NEW1_026,4,Whenever you cast a spell  summon a 1/1 Violet Apprentice.
+EX1_097,4,<b>Taunt</b>. <b>Deathrattle:</b> Deal 2 damage to ALL characters.
+EX1_284,4,<b>Spell Damage +1</b>. <b>Battlecry:</b> Draw a card.
+EX1_005,4,<b>Battlecry:</b> Destroy a minion with an Attack of 7 or more.
+NEW1_024,4,<b>Battlecry:</b> Give your weapon +1/+1.
+EX1_tk29,4,
+EX1_310,4,<b>Charge</b>. <b>Battlecry:</b> Discard two random cards.
+OG_044a,4,<b>Charge</b> <b>Taunt</b>
+EX1_165,4,<b>Choose One -</b> <b>Charge</b>; or +2 Health and <b>Taunt</b>.
+EX1_165t1,4,<b>Charge</b>
+EX1_165t2,4,<b>Taunt</b>
+EX1_250,4,<b>Taunt</b>. <b>Overload:</b> (3)
+EX1_564,4,<b>Battlecry:</b> Choose a minion and become a copy of it.
+CS1_069,4,<b>Taunt</b>
+EX1_558,4,<b>Battlecry:</b> Destroy your opponent's weapon and draw cards equal to its Durability.
+EX1_116,4,<b>Charge</b>. <b>Battlecry:</b> Summon two 1/1 Whelps for your opponent.
+CS2_151,4,<b>Battlecry:</b> Summon a 2/2 Squire.
+CS2_221,4,<b>Enrage:</b> Your weapon has +2 Attack.
+NEW1_041,4,<b>Battlecry:</b> Destroy a random enemy minion with 2 or less Attack.
+EX1_028,4,<b>Stealth</b>
+CS2_227,4,Your minions cost (3) more.
+EX1_067,4,<b>Charge</b> <b>Divine Shield</b>
+EX1_091,4,<b>Battlecry:</b> Take control of an enemy minion that has 2 or less Attack.
+EX1_110,4,<b>Deathrattle:</b> Summon a 4/5 Baine Bloodhoof.
+EX1_283,4,<b>Battlecry:</b> <b>Freeze</b> a character.
+EX1_095,4,Whenever you cast a spell  draw a card.
+NEW1_040,4,At the end of your turn  summon a 2/2 Gnoll with <b>Taunt</b>.
+EX1_614,4,Whenever you play a card  summon a 2/1 Flame of Azzinoth.
+EX1_tk34,4,
+NEW1_005,4,<b>Combo:</b> Return a minion to its owner's hand.
+EX1_583,4,<b>Battlecry:</b> Restore 4 Health to your hero.
+EX1_534,4,<b>Deathrattle:</b> Summon two 2/2 Hyenas.
+EX1_032,4,<b>Taunt</b> <b>Divine Shield</b>
+EX1_016,4,<b>Deathrattle:</b> Take control of a random enemy minion.
+EX1_623,4,<b>Battlecry:</b> Give a friendly minion +3 Health.
+EX1_577,4,<b>Deathrattle:</b> Summon a 3/3 Finkle Einhorn for your opponent.
+EX1_002,4,<b>Battlecry:</b> Destroy an enemy minion with <b>Taunt</b>.
+EX1_033,4,<b>Windfury</b>
+NEW1_008,4,<b>Choose One -</b> Draw a card; or Restore 5 Health.
+EX1_178,4,<b>Choose One</b> - +5 Attack; or +5 Health and <b>Taunt</b>.
+EX1_559,4,Whenever you cast a spell  add a 'Fireball' spell to your hand.
+EX1_249,4,At the end of your turn  deal 2 damage to ALL other characters.
+EX1_350,4,Double the damage and healing of your spells and Hero Power.
+CS2_161,4,<b>Stealth</b>
+NEW1_010,4,<b>Windfury  Charge  Divine Shield  Taunt</b>
+EX1_414,4,<b>Charge</b> <b>Enrage:</b> +6 Attack
+NEW1_038,4,At the end of each turn  gain +1/+1 .
+EX1_298,4,Can't attack. At the end of your turn  deal 8 damage to a random enemy.
+EX1_383,4,<b>Divine Shield</b>. <b>Taunt</b>. <b>Deathrattle:</b> Equip a 5/3 Ashbringer.
+EX1_561,4,<b>Battlecry:</b> Set a hero's remaining Health to 15.
+EX1_573,4,<b>Choose One</b> - Give your other minions +2/+2; or Summon two 2/2 Treants with <b>Taunt</b>.
+EX1_543,4,<b>Charge</b>
+EX1_323,4,<b>Battlecry:</b> Destroy your hero and replace it with Lord Jaraxxus.
+EX1_563,4,<b>Spell Damage +5</b>
+EX1_560,4,Players only have 15 seconds to take their turns.
+EX1_562,4,<b>Battlecry:</b> Summon 1/1 Whelps until your side of the battlefield is full.
+EX1_572,4,At the end of your turn  add a Dream Card to your hand.
+NEW1_030,4,<b>Battlecry:</b> Destroy all other minions and discard your hand.
+EX1_586,4,Costs (1) less for each other minion on the battlefield.
+EX1_105,4,Costs (1) less for each other card in your hand.
+EX1_620,4,Costs (1) less for each damage your hero has taken.
+OG_195c,4,
+OG_070,4,<b>Combo:</b> Gain +1/+1.
+OG_179,4,<b>Deathrattle:</b> Deal 1 damage to a random enemy.
+OG_051,4,<b>Battlecry:</b> Spend all your Mana. Gain +1/+1 for each mana spent.
+OG_312,4,<b>Battlecry:</b> Equip a 1/3 Rusty Hook.
+OG_156a,4,<b>Taunt</b>
+OG_241,4,<b>Deathrattle:</b> Summon a 1/1 Shadowbeast.
+OG_221,4,<b>Deathrattle:</b> Give a random friendly minion <b>Divine Shield</b>.
+OG_123,4,Each turn this is in your hand  transform it into a random minion.
+OG_151,4,<b>Deathrattle:</b> Deal 1 damage to all minions.
+OG_006,4,<b>Battlecry:</b> Your Hero Power becomes 'Summon a   1/1 Murloc.'
+OG_158,4,<b>Deathrattle:</b> Give a random friendly minion +1/+1.
+OG_281,4,<b>Battlecry:</b> Give your C'Thun +2/+2 <i>(wherever it is).</i>
+OG_156,4,<b>Battlecry:</b> Summon a 1/1 Ooze with <b>Taunt</b>.
+OG_303,4,[x]<b><b>Spell Damage</b> +1</b> After you cast a spell  give your C'Thun +1/+1 <i>(wherever it is).</i>
+OG_109,4,<b>Battlecry:</b> Discard a random card. <b>Deathrattle:</b> Draw a card.
+OG_326,4,
+OG_026,4,<b>Battlecry:</b> Unlock your <b>Overloaded</b> Mana Crystals.
+OG_338,4,At the start of your opponent's turn  they have a 50% chance to draw an extra card.
+OG_284,4,[x]<b>Taunt</b> <b>Battlecry:</b> Give your C'Thun <b>Taunt</b> <i>(wherever it is).</i>
+OG_247,4,<b>Stealth</b>
+OG_330,4,<b>Deathrattle:</b> Add a random class card to your hand <i>(from your opponent's class)</i>.
+OG_313,4,After you summon a minion  give it +1/+1.
+OG_248,4,
+OG_315,4,<b>Battlecry:</b> If you control another Pirate  give your weapon +1/+1.
+OG_325,4,
+OG_113,4,After you summon a minion  gain +1 Attack.
+OG_162,4,<b>Battlecry:</b> Deal 2 damage. Give your C'Thun +2/+2 <i>(wherever it is)</i>.
+OG_292,4,<b>Battlecry:</b> Give all <b>Deathrattle</b> minions in your hand +1/+1.
+OG_149,4,<b>Battlecry:</b> Deal 1 damage to all other minions.
+OG_034,4,Can only attack if your hero attacked this turn.
+OG_256,4,<b>Deathrattle:</b> Give your minions +1/+1.
+OG_327,4,<b>Taunt</b>
+OG_310,4,Whenever you summon a 1-Health minion  give it <b>Divine Shield</b>.
+OG_286,4,At the end of your turn  give your C'Thun +1/+1 <i>(wherever it is).</i>
+OG_031a,4,
+OG_083,4,<b>Battlecry:</b> Deal 1 damage to all enemy minions.
+OG_150,4,<b>Enrage:</b> +2 Attack.
+OG_322,4,Your weapons cost (2) less.
+OG_218,4,<b>Taunt</b> <b>Enrage:</b> +3 Attack.
+OG_283,4,[x]<b>Divine Shield</b> <b>Battlecry:</b> Give your C'Thun +2/+2 <i>(wherever it is).</i>
+OG_337,4,<b>Taunt</b>. <b>Battlecry:</b> Gain      +1 Health for each enemy minion.
+OG_085,4,After you cast a spell  <b>Freeze</b> a random enemy.
+OG_254,4,<b>Battlecry:</b> Destroy all enemy <b>Secrets</b>. Gain +1/+1 for each.
+OG_082,4,<b>Spell Damage +2</b>
+OG_174,4,<b>Taunt</b> <b>Battlecry:</b> Copy a friendly minion's Attack and Health.
+OG_044,4,Your <b>Choose One</b> cards have both effects combined.
+OG_024,4,<b>Overload:</b> (2)
+OG_334,4,Whenever a character is healed  give your C'Thun +1/+1 <i>(wherever it is).</i>
+OG_249,4,<b>Taunt</b> <b>Deathrattle:</b> Summon a 2/2 Slime.
+OG_216,4,<b>Deathrattle:</b> Summon two 1/1 Spiders.
+OG_188,4,<b>Battlecry:</b> If your C'Thun has at least 10 Attack  gain +5 Health.
+OG_328,4,<b>Battlecry:</b> Transform a friendly minion into a random one that costs (1) more.
+OG_320,4,<b>Battlecry:</b> Gain +1 Attack for each other card in your hand.
+OG_202,4,[x]<b>Choose One -</b>Summon a 2/2 Slime; or Gain an empty Mana Crystal.
+OG_323,4,<b>Deathrattle:</b> Draw a card.
+OG_335,4,<b>Deathrattle:</b> Copy a card from your opponent's deck and add it to your hand.
+OG_267,4,<b>Deathrattle:</b> Give your weapon +2 Attack.
+OG_272,4,<b>Deathrattle:</b> Summon a 5/5 Faceless Destroyer.
+OG_080,4,<b>Battlecry and Deathrattle:</b> Add a random Toxin card to your hand.
+OG_147,4,<b>Deathrattle:</b> Restore 8 Health to the enemy hero.
+OG_321,4,<b>Taunt.</b> Whenever this minion takes damage  give your C'Thun +1/+1 <i>(wherever it is).</i>
+OG_295,4,<b>Battlecry:</b> For each enemy minion  restore 2 Health to your hero.
+OG_234,4,<b>Battlecry:</b> Restore 5 Health.
+OG_102,4,<b>Battlecry:</b> Swap stats with a friendly minion.
+OG_209,4,Whenever your spells deal damage  restore that much Health to your hero.
+OG_309,4,<b>Battlecry:</b> Trigger a friendly minion's <b>Deathrattle</b> effect.
+OG_145,4,<b>Taunt</b> <b>Divine Shield</b>
+OG_087,4,<b>Battlecry:</b> Cast a random spell that costs (5) or less <i>(targets chosen randomly)</i>.
+OG_291,4,<b>Battlecry:</b> Choose a friendly minion. Add a 1/1 copy     to your hand that costs (1).
+OG_096,4,<b>Battlecry:</b> If your C'Thun  has at least 10 Attack  restore 10 Health to your hero.
+OG_302,4,Whenever a friendly minion dies  give your C'Thun +1/+1 <i>(wherever it is).</i>
+OG_200,4,At the start of your turn  set this minion's Attack to 7.
+OG_290,4,At the start of your turn  put a 10-Cost minion from your deck into your hand.
+OG_161,4,<b>Battlecry:</b> Deal 2 damage to all non-Murloc minions.
+OG_293,4,[x]<b>Taunt</b> <b>Battlecry:</b> Give your C'Thun +3/+3 <i>(wherever it is).</i>
+OG_207,4,<b>Battlecry:</b> Summon a random 3-Cost minion.
+OG_316,4,<b>Battlecry:</b> Summon a 1/1 copy of each of your other minions.
+OG_122,4,<b>Battlecry:</b> Add 2 Bananas to your hand.
+OG_138,4,At the start of your turn  reduce this card's Cost by (1).
+OG_271,4,At the start of your turn  double this minion's Attack.
+OG_339,4,<b>Battlecry:</b> Give your C'Thun +2/+2 <i>(wherever it is).</i>
+OG_028,4,[x]<b>Taunt</b> Costs (1) less for each Totem you've summoned this game.
+OG_301,4,<b>Battlecry:</b> If your C'Thun has at least 10 Attack  gain 10 Armor.
+OG_153,4,<b>Taunt</b>
+OG_121,4,<b>Battlecry:</b> The next spell you cast this turn costs Health instead of Mana.
+OG_152,4,<b>Windfury</b>
+OG_318,4,Whenever this minion takes damage  summon a 2/2 Gnoll with <b>Taunt</b>.
+OG_220,4,<b>Battlecry:</b> Equip a random weapon.
+OG_131,4,[x]<b><b>Taunt</b> Battlecry:</b> If your C'Thun has at least 10 Attack  summon another Emperor.
+OG_319,4,<b>Taunt</b>
+OG_120,4,<b>Deathrattle:</b> Deal 8 damage to all minions.
+OG_255,4,<b>Battlecry:</b> Give your C'Thun +2/+2 <i>(wherever it is).</i> If it's dead  shuffle it into your deck.
+OG_142,4,
+OG_308,4,Whenever this attacks and kills a minion  it may attack again.
+OG_229,4,At the end of your turn  restore 8 Health to a damaged friendly character.
+OG_300,4,Whenever this attacks and kills a minion  gain +2/+2.
+OG_282,4,<b>Battlecry:</b> Destroy a minion. Add its Attack and Health to_your C'Thun's <i>(wherever it is).</i>
+OG_173,4,If you control two of these at the end of your turn  merge them into 'The Ancient One'.
+OG_340,4,<b>Taunt</b> Can't be targeted by spells or Hero Powers.
+OG_173a,4,
+OG_279,4,<b>Battlecry:</b> Deal damage equal to this minion's Attack randomly split among all enemies.
+OG_280,4,<b>Battlecry:</b> Deal damage equal to this minion's Attack randomly split among all enemies.
+OG_317,4,<b>Deathrattle:</b> Put all Dragons from your hand into the battlefield.
+OG_141,4,
+OG_133,4,<b>Battlecry:</b> Summon your <b>Deathrattle</b> minions that died this game.
+OG_042,4,At the end of your turn  put a minion from your deck into the battlefield.
+OG_134,4,<b>Battlecry:</b> Cast a random spell for each spell you've cast this game <i>(targets chosen randomly)</i>.
+GAME_002,4,<i>You lost the coin flip  but gained a friend.</i>
+CS2_mirror,4,<b>Taunt</b>
+CS2_boar,4,
+CS2_189,4,<b>Battlecry:</b> Deal 1 damage.
+CS1_042,4,<b>Taunt</b>
+EX1_508,4,Your other Murlocs have +1 Attack.
+NEW1_009,4,At the end of your turn  restore 1 Health to all friendly minions.
+EX1_025t,4,
+CS2_168,4,
+EX1_506a,4,
+CS2_235,4,Whenever a minion is healed  draw a card.
+CS2_050,4,
+CS2_tk1,4,
+CS2_101t,4,
+skele11,4,<b></b> 
+CS2_051,4,<b>Taunt</b>
+CS2_171,4,<b>Charge</b>
+DS1_175,4,Your other Beasts have +1 Attack.
+CS2_065,4,<b>Taunt</b>
+EX1_011,4,<b>Battlecry:</b> Restore 2 Health.
+CS2_052,4,<b>Spell Damage +1</b>
+EX1_066,4,<b>Battlecry:</b> Destroy your opponent's weapon.
+CS2_172,4,
+CS2_173,4,<b>Charge</b>
+EX1_565,4,Adjacent minions have +2 Attack.
+CS2_121,4,<b>Taunt</b>
+CS2_142,4,<b>Spell Damage +1</b>
+EX1_506,4,<b>Battlecry:</b> Summon a 1/1 Murloc Scout.
+EX1_015,4,<b>Battlecry:</b> Draw a card.
+CS2_120,4,
+EX1_306,4,<b>Battlecry:</b> Discard a random card.
+EX1_582,4,<b>Spell Damage +1</b>
+NEW1_034,4,<b>Charge</b>
+CS2_141,4,<b>Battlecry:</b> Deal 1 damage.
+CS2_125,4,<b>Taunt</b>
+NEW1_033,4,Your other minions have +1 Attack.
+CS2_118,4,
+NEW1_032,4,<b>Taunt</b>
+CS2_122,4,Your other minions have +1 Attack.
+CS2_196,4,<b>Battlecry:</b> Summon a 1/1 Boar.
+EX1_019,4,<b>Battlecry:</b> Give a friendly minion +1/+1.
+CS2_127,4,<b>Taunt</b>
+EX1_084,4,Your <b>Charge</b> minions have +1 Attack.
+CS2_124,4,<b>Charge</b>
+CS2_182,4,
+EX1_025,4,<b>Battlecry:</b> Summon a 2/1 Mechanical Dragonling.
+CS2_147,4,<b>Battlecry:</b> Draw a card.
+DS1_070,4,<b>Battlecry:</b> Give a friendly Beast +2/+2 and <b>Taunt</b>.
+NEW1_011,4,<b>Charge</b>
+CS2_119,4,
+CS2_197,4,<b>Spell Damage +1</b>
+CS2_179,4,<b>Taunt</b>
+CS2_131,4,<b>Charge</b>
+CS2_033,4,<b>Freeze</b> any character damaged by this minion.
+EX1_587,4,<b>Battlecry:</b> Give a friendly minion <b>Windfury</b>.
+CS2_187,4,<b>Taunt</b>
+DS1_055,4,<b>Battlecry:</b> Restore 2 Health to all friendly characters.
+CS2_226,4,<b>Battlecry:</b> Gain +1/+1 for each other friendly minion on the battlefield.
+EX1_399,4,Whenever this minion takes damage  gain +3 Attack.
+EX1_593,4,<b>Battlecry: </b>Deal 3 damage to the enemy hero.
+CS2_237,4,Whenever you summon a Beast  draw a card.
+CS2_150,4,<b>Battlecry:</b> Deal 2 damage.
+DS1_178,4,Your Beasts have <b>Charge</b>.
+CS2_155,4,<b>Spell Damage +1</b>
+CS2_200,4,
+CS2_064,4,<b>Battlecry:</b> Deal 1 damage to ALL other characters.
+CS2_042,4,<b>Battlecry:</b> Deal 3 damage.
+CS2_162,4,<b>Taunt</b>
+CS2_213,4,<b>Charge</b>
+CS2_201,4,
+CS2_088,4,<b>Battlecry:</b> Restore 6 Health to your hero.
+CS2_222,4,Your other minions have +1/+1.
+CS2_186,4,
+CS2_232,4,<b>Taunt</b>
+KAR_063,5,1
+KAR_028,5,5
+LOE_118,5,1
+FP1_021,5,4
+AT_077,5,2
+AT_065,5,3
+AT_050,5,4
+AT_034,5,4
+GVG_043,5,2
+GVG_059,5,3
+GVG_024,5,3
+GVG_054,5,3
+GVG_036,5,3
+EX1_247,5,2
+EX1_536,5,3
+EX1_133,5,3
+EX1_366,5,3
+EX1_383t,5,5
+EX1_567,5,5
+DS1_188,5,7
+EX1_411,5,7
+OG_222,5,3
+OG_031,5,5
+OG_033,5,5
+CS2_091,5,1
+CS2_082,5,1
+CS2_106,5,2
+CS2_097,5,4
+CS2_112,5,5
+CS2_080,5,5
+KAR_063,6,3
+KAR_028,6,4
+LOE_118,6,3
+FP1_021,6,2
+AT_077,6,2
+AT_065,6,2
+AT_050,6,4
+AT_034,6,3
+GVG_043,6,2
+GVG_059,6,3
+GVG_024,6,3
+GVG_054,6,2
+GVG_036,6,2
+EX1_247,6,3
+EX1_536,6,2
+EX1_133,6,2
+EX1_366,6,5
+EX1_383t,6,3
+EX1_567,6,8
+DS1_188,6,2
+EX1_411,6,1
+OG_222,6,2
+OG_031,6,2
+OG_033,6,2
+CS2_091,6,4
+CS2_082,6,2
+CS2_106,6,2
+CS2_097,6,2
+CS2_112,6,2
+CS2_080,6,4
+KAR_063,7,1
+KAR_028,7,3
+LOE_118,7,2
+FP1_021,7,4
+AT_077,7,2
+AT_065,7,3
+AT_050,7,2
+AT_034,7,1
+GVG_043,7,2
+GVG_059,7,2
+GVG_024,7,1
+GVG_054,7,4
+GVG_036,7,3
+EX1_247,7,2
+EX1_536,7,3
+EX1_133,7,2
+EX1_366,7,1
+EX1_383t,7,5
+EX1_567,7,2
+DS1_188,7,5
+EX1_411,7,7
+OG_222,7,3
+OG_031,7,4
+OG_033,7,2
+CS2_091,7,1
+CS2_082,7,1
+CS2_106,7,3
+CS2_097,7,4
+CS2_112,7,5
+CS2_080,7,3
+KAR_063,8,[x]Has +2 Attack while you have <b>Spell Damage</b>.
+KAR_028,8,Unlimited attacks each turn. Can't attack heroes.
+LOE_118,8,Double all damage dealt to your hero.
+FP1_021,8,<b>Deathrattle:</b> Deal 1 damage to all minions.
+AT_077,8,<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more  +1 Durability.
+AT_065,8,<b>Battlecry:</b> If you have a minion with <b>Taunt</b>   gain +1 Durability.
+AT_050,8,<b>Deathrattle:</b> Your Hero Power becomes 'Deal 2 damage.'
+AT_034,8,Your Hero Power gives this weapon +1 Attack instead of replacing it.
+GVG_043,8,<b>Battlecry:</b> Give a random friendly minion +1 Attack.
+GVG_059,8,<b>Battlecry:</b> Give a random friendly minion <b>Divine Shield</b> and <b>Taunt</b>.
+GVG_024,8,Has +2 Attack while you have a Mech.
+GVG_054,8,50% chance to attack the wrong enemy.
+GVG_036,8,<b>Deathrattle:</b> Give a random friendly Mech +2/+2.
+EX1_247,8,<b>Overload:</b> (1)
+EX1_536,8,Whenever a friendly <b>Secret</b> is revealed  gain +1 Durability.
+EX1_133,8,<b>Battlecry:</b> Deal 1 damage. <b>Combo:</b> Deal 2 instead.
+EX1_366,8,After you summon a minion  give it +1/+1 and this loses 1 Durability.
+EX1_383t,8,
+EX1_567,8,<b>Windfury  Overload:</b> (2)
+DS1_188,8,Your hero is <b>Immune</b> while attacking.
+EX1_411,8,Attacking a minion costs 1 Attack instead of 1 Durability.
+OG_222,8,<b>Battlecry:</b> Give +1/+1 to your minions with <b>Divine Shield</b>.
+OG_031,8,<b>Deathrattle:</b> Summon a 4/2 Elemental.
+OG_033,8,<b>Deathrattle:</b> Return this to your hand.
+CS2_091,8,
+CS2_082,8,
+CS2_106,8,
+CS2_097,8,Whenever your hero attacks  restore 2 Health to it.
+CS2_112,8,
+CS2_080,8,
+KAR_004,9,2
+KAR_073,9,2
+KAR_013,9,2
+KAR_026,9,3
+KAR_077,9,4
+KAR_091,9,5
+KAR_025,9,5
+KAR_075,9,6
+KAR_076,9,7
+BRM_007,9,2
+BRM_011,9,2
+BRM_013,9,2
+BRM_017,9,2
+BRM_015,9,2
+BRM_005,9,3
+BRM_003,9,5
+BRM_001,9,5
+LOE_115,9,1
+LOE_027,9,1
+LOE_007,9,2
+LOE_021,9,2
+LOE_105,9,2
+LOE_002,9,3
+LOEA10_5H,9,3
+LOE_111,9,5
+LOEA10_5,9,5
+LOE_104,9,6
+LOE_113,9,7
+LOE_026,9,10
+FP1_020,9,1
+FP1_025,9,2
+FP1_018,9,3
+FP1_019,9,4
+AT_004,9,1
+AT_073,9,1
+AT_055,9,1
+AT_037,9,1
+AT_013,9,1
+AT_053,9,2
+AT_060,9,2
+AT_068,9,2
+AT_016,9,2
+AT_015,9,2
+AT_024,9,2
+AT_061,9,2
+AT_064,9,3
+AT_035,9,3
+AT_033,9,3
+AT_002,9,3
+AT_051,9,3
+AT_048,9,3
+AT_044,9,3
+AT_005,9,3
+AT_056,9,3
+AT_074,9,3
+AT_043,9,4
+AT_022,9,4
+AT_001,9,5
+AT_062,9,6
+AT_025,9,6
+AT_078,9,6
+GVG_012,9,1
+GVG_017,9,2
+GVG_038,9,2
+GVG_015,9,2
+GVG_026,9,2
+GVG_001,9,2
+GVG_057,9,2
+GVG_003,9,2
+GVG_050,9,3
+GVG_061,9,3
+GVG_010,9,3
+GVG_029,9,4
+GVG_005,9,4
+GVG_045,9,4
+GVG_047,9,4
+GVG_022,9,4
+GVG_073,9,5
+GVG_019,9,5
+GVG_041,9,6
+GVG_008,9,6
+GVG_031,9,6
+GVG_052,9,7
+GVG_033,9,9
+EX1_621,9,0
+EX1_607,9,0
+EX1_145,9,0
+EX1_144,9,0
+EX1_332,9,0
+EX1_549,9,1
+EX1_363,9,1
+CS2_073,9,1
+EX1_128,9,1
+EX1_245,9,1
+EX1_132,9,1
+EX1_251,9,1
+CS2_031,9,1
+CS1_129,9,1
+EX1_238,9,1
+EX1_161,9,1
+EX1_130,9,1
+EX1_316,9,1
+EX1_136,9,1
+EX1_379,9,1
+EX1_578,9,1
+EX1_410,9,1
+EX1_409,9,1
+CS2_038,9,2
+EX1_392,9,2
+EX1_126,9,2
+NEW1_036,9,2
+EX1_596,9,2
+EX1_619,9,2
+EX1_124,9,2
+EX1_610,9,2
+EX1_544,9,2
+EX1_611,9,2
+EX1_533,9,2
+EX1_160,9,2
+CS2_104,9,2
+EX1_391,9,2
+EX1_554,9,2
+EX1_609,9,2
+EX1_154,9,2
+EX1_287,9,3
+EX1_617,9,3
+EX1_349,9,3
+CS2_053,9,3
+EX1_248,9,3
+EX1_137,9,3
+EX1_289,9,3
+EX1_295,9,3
+EX1_241,9,3
+EX1_259,9,3
+EX1_155,9,3
+EX1_294,9,3
+EX1_317,9,3
+EX1_625,9,3
+tt_010,9,3
+EX1_339,9,3
+EX1_538,9,3
+EX1_594,9,3
+EX1_570,9,4
+CS2_233,9,4
+EX1_275,9,4
+EX1_626,9,4
+EX1_345,9,4
+EX1_408,9,4
+EX1_334,9,4
+EX1_303,9,4
+EX1_158,9,4
+EX1_320,9,5
+EX1_355,9,5
+EX1_407,9,5
+EX1_537,9,5
+EX1_571,9,5
+EX1_365,9,5
+EX1_164,9,5
+NEW1_007,9,5
+EX1_384,9,6
+CS2_028,9,6
+EX1_624,9,6
+EX1_309,9,6
+EX1_354,9,8
+EX1_312,9,8
+EX1_279,9,10
+OG_086,9,0
+OG_198,9,0
+OG_114,9,0
+OG_101,9,0
+OG_314,9,1
+OG_223,9,1
+TB_OG_027,9,1
+OG_027,9,1
+OG_072,9,1
+OG_061,9,1
+OG_023,9,1
+OG_311,9,2
+OG_104,9,2
+OG_048,9,2
+OG_118,9,2
+OG_081,9,2
+OG_206,9,2
+OG_276,9,3
+OG_047,9,3
+OG_045,9,3
+OG_176,9,3
+OG_116,9,3
+OG_100,9,4
+OG_090,9,5
+OG_094,9,5
+OG_273,9,5
+OG_073,9,6
+OG_195,9,7
+OG_211,9,9
+OG_239,9,10
+CS2_041,9,0
+CS2_072,9,0
+CS2_013t,9,0
+EX1_169,9,0
+CS2_008,9,0
+NEW1_003,9,0
+EX1_244,9,0
+EX1_277,9,1
+DS1_185,9,1
+CS2_087,9,1
+CS2_103,9,1
+CS2_005,9,1
+CS2_063,9,1
+CS2_074,9,1
+CS2_037,9,1
+EX1_371,9,1
+CS1_130,9,1
+EX1_360,9,1
+CS2_084,9,1
+CS2_003,9,1
+CS2_027,9,1
+EX1_302,9,1
+CS2_004,9,1
+CS2_075,9,1
+EX1_308,9,1
+DS1_184,9,1
+EX1_400,9,1
+CS2_025,9,2
+CS2_114,9,2
+CS2_236,9,2
+CS2_108,9,2
+CS2_024,9,2
+CS2_105,9,2
+CS2_089,9,2
+CS2_009,9,2
+DS1_233,9,2
+GAME_006,9,2
+CS2_045,9,2
+EX1_581,9,2
+CS2_234,9,2
+EX1_278,9,2
+CS2_013,9,2
+CS2_039,9,2
+NEW1_031,9,3
+CS2_023,9,3
+CS2_061,9,3
+EX1_129,9,3
+CS2_026,9,3
+CS2_007,9,3
+EX1_246,9,3
+EX1_539,9,3
+CS2_011,9,3
+CS2_057,9,3
+EX1_622,9,3
+EX1_606,9,3
+CS2_092,9,4
+CS2_093,9,4
+CS2_029,9,4
+CS2_094,9,4
+CS2_062,9,4
+DS1_183,9,4
+CS2_022,9,4
+CS2_012,9,4
+CS2_076,9,5
+CS2_046,9,5
+CS1_112,9,5
+EX1_173,9,6
+NEW1_004,9,6
+CS2_032,9,7
+CS2_077,9,7
+CS1_113,9,10
+KAR_004,10,<b>Secret:</b> After your opponent casts a spell  summon a 4/2 Panther with <b>Stealth</b>.
+KAR_073,10,Deal_$1_damage to_all_enemy_minions. Summon_a_random 1-Cost minion.
+KAR_013,10,<b>Silence</b> a friendly minion. Draw a card.
+KAR_026,10,For each enemy minion  summon a 1/1 Pawn with <b>Taunt</b>.
+KAR_077,10,Give a minion +2/+2. Summon a random 2-Cost minion.
+KAR_091,10,Gain 4 Armor. Summon a random 4-Cost minion.
+KAR_025,10,Summon a 1/1 Candle  2/2 Broom  and 3/3 Teapot.
+KAR_075,10,Restore #6 Health. Summon a random 6-Cost minion.
+KAR_076,10,Deal $5 damage. Summon a random 5-Cost minion.
+BRM_007,10,Choose a minion. Shuffle 3 copies of it into your deck.
+BRM_011,10,Deal $2 damage. Unlock your <b>Overloaded</b> Mana Crystals.
+BRM_013,10,Deal $3 damage. If your hand is empty  draw a card.
+BRM_017,10,Summon a random friendly minion that died this game.
+BRM_015,10,Deal $1 damage to all minions. If you have 12 or less Health  deal $3 damage instead.
+BRM_005,10,Deal $2 damage to all non-Demon minions.
+BRM_003,10,Deal $4 damage. Costs (1) less for each minion that died this turn.
+BRM_001,10,Draw 2 cards. Costs (1) less for each minion that died this turn.
+LOE_115,10,<b>Choose One -</b> <b>Discover</b> a minion; or <b>Discover</b> a spell.
+LOE_027,10,<b>Secret:</b> After your opponent has at least 3 minions and plays another  destroy it.
+LOE_007,10,Give your opponent a 'Cursed!' card. While they hold it  they take 2 damage on their turn.
+LOE_021,10,<b>Secret:</b> After an opposing <b>Hero Power</b> is used  deal $5 damage to a random enemy.
+LOE_105,10,"Give a minion +1/+1 and ""<b>Deathrattle:</b> Add an Explorer's Hat to your hand."""
+LOE_002,10,Deal $3 damage. Shuffle a 'Roaring Torch' into your deck that deals 6 damage.
+LOEA10_5H,10,Summon 5 Murlocs that died this game.
+LOE_111,10,Deal $3 damage to all minions. Shuffle this card into your opponent's deck.
+LOEA10_5,10,Summon 3 Murlocs that died this game.
+LOE_104,10,Choose an enemy minion. Shuffle it into your deck.
+LOE_113,10,Give your minions +2/+2. Costs (1) less for each Murloc you control.
+LOE_026,10,Summon 7 Murlocs that died this game.
+FP1_020,10,<b>Secret:</b> When one of your minions dies  give a random friendly minion +3/+2.
+FP1_025,10,Destroy a minion  then return it to life with full Health.
+FP1_018,10,<b>Secret:</b> When a friendly minion dies  put 2 copies of it into your hand.
+FP1_019,10,Destroy all minions and summon 2/2 Treants to replace them.
+AT_004,10,Deal $2 damage to a minion. This spell gets double bonus from <b>Spell Damage</b>.
+AT_073,10,<b>Secret:</b> When your turn starts  give your minions +1/+1.
+AT_055,10,Restore #5 Health.
+AT_037,10,<b>Choose One</b> - Deal $2 damage; or Summon two 1/1 Saplings.
+AT_013,10,Choose a minion. Whenever it attacks  restore 4 Health to your hero.
+AT_053,10,Draw 2 cards. <b>Overload:</b> (2)
+AT_060,10,<b>Secret:</b> After your hero is attacked  summon a 3/3 Bear with <b>Taunt</b>.
+AT_068,10,Give your <b>Taunt</b> minions +2/+2.
+AT_016,10,Swap the Attack and Health of all minions.
+AT_015,10,Put a copy of an enemy minion into your hand.
+AT_024,10,Give a Demon +3/+3. Give your opponent a Mana Crystal.
+AT_061,10,Each time you cast a spell this turn  add a random Hunter card to your hand.
+AT_064,10,Deal $3 damage. Gain 3 Armor.
+AT_035,10,Shuffle 3 Ambushes into your opponent's deck. When drawn  you summon a 4/4 Nerubian.
+AT_033,10,Add 2 random class cards to your hand <i>(from your opponent's class)</i>.
+AT_002,10,<b>Secret:</b> When a friendly minion dies  summon a random minion with the same Cost.
+AT_051,10,Deal $4-$5 damage to all minions. <b>Overload:</b> (5)
+AT_048,10,Restore #7 Health. Reveal a minion in each deck. If yours costs more  Restore #14 instead.
+AT_044,10,Destroy a minion. Add a random minion to your opponent's hand.
+AT_005,10,Transform a minion into a 4/2 Boar with <b>Charge</b>.
+AT_056,10,Deal $2 damage to a minion and the minions next to it.
+AT_074,10,Give a minion +3 Attack and <b>Divine Shield</b>.
+AT_043,10,Gain 10 Mana Crystals. Discard your hand.
+AT_022,10,When you play or discard this  deal $4 damage to a random enemy.
+AT_001,10,Deal $8 damage to a minion.
+AT_062,10,Summon three 1/1 Webspinners.
+AT_025,10,Destroy 2 random enemy minions. Discard 2 random cards.
+AT_078,10,Destroy all minions except each player's highest Attack minion.
+GVG_012,10,Restore #3 Health. If the target is still damaged  summon a Lightwarden.
+GVG_017,10,Draw a card. If it's a Beast  it costs (4) less.
+GVG_038,10,Deal $3-$6 damage. <b>Overload:</b> (1)
+GVG_015,10,Deal $3 damage.
+GVG_026,10,Trigger all <b>Deathrattles</b> on your minions.
+GVG_001,10,Deal $4 damage to a random enemy minion.
+GVG_057,10,Restore #4 Health to your hero and gain +2 Attack this turn.
+GVG_003,10,Add a random minion to your hand. It costs (3) less.
+GVG_050,10,Deal $1 damage to a random minion. Repeat until a minion dies.
+GVG_061,10,Summon three 1/1 Silver Hand Recruits. Equip a 1/4 Weapon.
+GVG_010,10,Give a minion +2/+4 and <b>Spell Damage +1</b>.
+GVG_029,10,Put a random minion from each player's hand into the battlefield.
+GVG_005,10,Put a copy of each friendly minion into your hand.
+GVG_045,10,Deal $2-$4 damage to a minion. Summon a 1/1 Imp for each damage dealt.
+GVG_047,10,Destroy a random enemy minion. <b>Combo:</b> And your opponent's weapon.
+GVG_022,10,Give your weapon +3 Attack. <b>Combo:</b> Give a random friendly minion +3 Attack.
+GVG_073,10,Deal $3 damage to a minion and the enemy hero.
+GVG_019,10,Deal $5 damage to a minion.  If it's a friendly Demon  give it +5/+5 instead.
+GVG_041,10,<b>Choose One -</b> Summon 5 Wisps; or Give a minion +5/+5 and <b>Taunt</b>.
+GVG_008,10,Deal damage to each minion equal to its Attack.
+GVG_031,10,Shuffle an enemy minion into your opponent's deck.
+GVG_052,10,Destroy a minion. If you have a damaged minion  this costs (4) less.
+GVG_033,10,Restore all characters to full Health.
+EX1_621,10,Restore #4 Health to ALL minions.
+EX1_607,10,Deal $1 damage to a minion and give it +2 Attack.
+EX1_145,10,The next spell you cast this turn costs (3) less.
+EX1_144,10,Return a friendly minion to your hand. It costs (2) less.
+EX1_332,10,<b>Silence</b> a minion.
+EX1_549,10,Give a friendly Beast +2 Attack and <b>Immune</b> this turn.
+EX1_363,10,Choose a minion. Whenever it attacks  draw a card.
+CS2_073,10,Give a minion +2 Attack. <b>Combo:</b> +4 Attack instead.
+EX1_128,10,Give your minions <b>Stealth</b> until your next turn.
+EX1_245,10,<b>Silence</b> a minion  then deal $1 damage to it.
+EX1_132,10,<b>Secret:</b> When your hero takes damage  deal that much damage to the enemy hero.
+EX1_251,10,Deal $2 damage to 2 random enemy minions. <b>Overload:</b> (2)
+CS2_031,10,<b>Freeze</b> a character. If it was already <b>Frozen</b>  deal $4 damage instead.
+CS1_129,10,Change a minion's Attack to be equal to its Health.
+EX1_238,10,Deal $3 damage. <b>Overload:</b> (1)
+EX1_161,10,Destroy a minion. Your opponent draws 2 cards.
+EX1_130,10,<b>Secret:</b> When an enemy attacks  summon a 2/1 Defender as the new target.
+EX1_316,10,Give a friendly minion +4/+4 until end of turn. Then  it dies. Horribly.
+EX1_136,10,<b>Secret:</b> When one of your minions dies  return it to life with 1 Health.
+EX1_379,10,<b>Secret:</b> After your opponent plays a minion  reduce its Health to 1.
+EX1_578,10,Deal damage equal to your hero's Attack to a minion.
+EX1_410,10,Deal 1 damage to a minion for each Armor you have.
+EX1_409,10,If you have a weapon  give it +1/+1. Otherwise equip a 1/3 weapon.
+CS2_038,10,"Give a minion ""<b>Deathrattle:</b> Resummon this minion."""
+EX1_392,10,Draw a card for each damaged friendly character.
+EX1_126,10,Force an enemy minion to deal its damage to the minions next to it.
+NEW1_036,10,Your minions can't be reduced below 1 Health this turn. Draw a card.
+EX1_596,10,Deal $2 damage to a minion. If it’s a friendly Demon  give it +2/+2 instead.
+EX1_619,10,Change the Health of ALL minions to 1.
+EX1_124,10,Deal $2 damage. <b>Combo:</b> Deal $4 damage instead.
+EX1_610,10,<b>Secret:</b> When your hero is attacked  deal $2 damage to all enemies.
+EX1_544,10,All minions lose <b>Stealth</b>. Destroy all enemy <b>Secrets</b>. Draw a card.
+EX1_611,10,<b>Secret:</b> When an enemy minion attacks  return it to its owner's hand and it costs (2) more.
+EX1_533,10,<b>Secret:</b> When a character attacks your hero  instead they attack another random character.
+EX1_160,10,<b>Choose One</b> - Give your minions +1/+1; or Summon a 3/2 Panther.
+CS2_104,10,Give a damaged minion +3/+3.
+EX1_391,10,Deal $2 damage to a minion. If it survives  draw a card.
+EX1_554,10,<b>Secret:</b> When one of your minions is attacked  summon three 1/1 Snakes.
+EX1_609,10,<b>Secret:</b> After your opponent plays a minion  deal $4 damage to it.
+EX1_154,10,<b>Choose One</b> - Deal $3 damage to a minion; or $1 damage and draw a card.
+EX1_287,10,<b>Secret:</b> When your opponent casts a spell  <b>Counter</b> it.
+EX1_617,10,Destroy a random enemy minion.
+EX1_349,10,Draw cards until you have as many in hand as your opponent.
+CS2_053,10,Draw a card. That card costs (3) less.
+EX1_248,10,Summon two 2/3 Spirit Wolves with <b>Taunt</b>. <b>Overload:</b> (2)
+EX1_137,10,Deal $2 damage to the enemy hero. <b>Combo:</b> Return this to your hand next turn.
+EX1_289,10,<b>Secret:</b> When your hero is attacked  gain 8 Armor.
+EX1_295,10,<b>Secret:</b> When your hero takes fatal damage  prevent it and become <b>Immune</b> this turn.
+EX1_241,10,Deal $5 damage. <b>Overload:</b> (2)
+EX1_259,10,Deal $2-$3 damage to all enemy minions. <b>Overload:</b> (2)
+EX1_155,10,<b>Choose One</b> - Give a minion +4 Attack; or +4 Health and <b>Taunt</b>.
+EX1_294,10,<b>Secret:</b> After your opponent plays a minion  summon a copy of it.
+EX1_317,10,Put 2 random Demons from your deck into your hand.
+EX1_625,10,Your Hero Power becomes 'Deal 2 damage'. If already in Shadowform: 3 damage.
+tt_010,10,<b>Secret:</b> When an enemy casts a spell on a minion  summon a 1/3 as the new target.
+EX1_339,10,Copy 2 cards from your opponent's deck and put them into your hand.
+EX1_538,10,For each enemy minion  summon a 1/1 Hound with <b>Charge</b>.
+EX1_594,10,<b>Secret:</b> When a minion attacks your hero  destroy it.
+EX1_570,10,Give your hero +4 Attack this turn and 4 Armor.
+CS2_233,10,Destroy your weapon and deal its damage to all enemy minions.
+EX1_275,10,<b>Freeze</b> a minion and the minions next to it  and deal $1 damage to them.
+EX1_626,10,<b>Silence</b> all enemy minions. Draw a card.
+EX1_345,10,Put a copy of a random minion from your opponent's deck into the battlefield.
+EX1_408,10,Deal $4 damage. If you have 12 or less Health  deal $6 instead.
+EX1_334,10,Gain control of an enemy minion with 3 or less Attack until end of turn.
+EX1_303,10,Destroy a friendly minion and deal its Attack damage to all enemy minions.
+EX1_158,10,"Give your minions ""<b>Deathrattle:</b> Summon a 2/2 Treant."""
+EX1_320,10,Deal $2 damage to a character. If that kills it  summon a random Demon.
+EX1_355,10,Double a minion's Attack.
+EX1_407,10,Destroy all minions except one. <i>(chosen randomly)</i>
+EX1_537,10,Deal $5 damage to a minion and $2 damage to adjacent ones.
+EX1_571,10,Summon three 2/2 Treants.
+EX1_365,10,Draw a card and deal damage equal to its cost.
+EX1_164,10,<b>Choose One</b> - Gain 2 Mana Crystals; or Draw 3 cards.
+NEW1_007,10,<b>Choose One -</b> Deal $5 damage to a minion; or $2 damage to all enemy minions.
+EX1_384,10,Deal $8 damage randomly split among all enemies.
+CS2_028,10,Deal $2 damage to all enemy minions and <b>Freeze</b> them.
+EX1_624,10,Deal $5 damage. Restore #5 Health to your hero.
+EX1_309,10,Destroy a minion. Restore #3 Health to your hero.
+EX1_354,10,Restore #8 Health. Draw 3 cards.
+EX1_312,10,Destroy all minions.
+EX1_279,10,Deal $10 damage.
+OG_086,10,Spend all your Mana. Deal that much damage to a minion.
+OG_198,10,Spend all your Mana. Restore twice that much Health.
+OG_114,10,Spend all your Mana. Summon that many 1/1 Tentacles.
+OG_101,10,Spend all your Mana. Summon a random minion that costs that much.
+OG_314,10,Deal $1 damage to a minion. If it survives  summon a 2/2 Slime.
+OG_223,10,Give a minion +1/+2.
+TB_OG_027,10,Transform your minions into random minions that cost (1) more.
+OG_027,10,Transform your minions into random minions that cost (1) more.
+OG_072,10,<b>Discover</b> a <b>Deathrattle</b> card.
+OG_061,10,Deal $1 damage. Summon a 1/1 Mastiff.
+OG_023,10,Give a minion +1/+1 for each of your Totems.
+OG_311,10,<b>Discover</b> a minion. Give it +1/+1.
+OG_104,10,This turn  your healing effects deal damage instead.
+OG_048,10,Give a minion +2/+2. If it's a Beast  draw a card.
+OG_118,10,Replace your Hero Power and Warlock cards with another class's. The cards cost (1) less.
+OG_081,10,Destroy a <b>Frozen</b> minion.
+OG_206,10,Deal $4 damage to a minion. <b>Overload:</b> (1)
+OG_276,10,Add a copy of each damaged friendly minion to your hand.
+OG_047,10,<b>Choose One</b> - Give your hero +4 Attack this turn; or Gain 8 Armor.
+OG_045,10,"Give your minions ""<b>Deathrattle:</b> Add a random Beast to your hand."""
+OG_176,10,Deal $5 damage to an undamaged character.
+OG_116,10,Deal $9 damage randomly split among ALL characters.
+OG_100,10,Destroy all minions with 2 or less Attack.
+OG_090,10,Add 3 random Mage spells to your hand.
+OG_094,10,Give a minion +2/+6.
+OG_273,10,Summon five 1/1 Silver Hand Recruits.
+OG_073,10,Draw a card. Add 2 extra copies of it to your hand.
+OG_195,10,<b>Choose One -</b> Summon seven 1/1 Wisps; or Give your minions +2/+2.
+OG_211,10,Summon all three Animal Companions.
+OG_239,10,Destroy all minions. Draw a card for each.
+CS2_041,10,Restore a minion to full Health and give it <b>Taunt</b>.
+CS2_072,10,Deal $2 damage to an undamaged minion.
+CS2_013t,10,Draw a card. <i>(You can only have 10 Mana in your tray.)</i>
+EX1_169,10,Gain 2 Mana Crystals this turn only.
+CS2_008,10,Deal $1 damage.
+NEW1_003,10,Destroy a Demon. Restore #5 Health to your hero.
+EX1_244,10,Give your Totems +2 Health.
+EX1_277,10,Deal $3 damage randomly split among all enemies.
+DS1_185,10,Deal $2 damage.
+CS2_087,10,Give a minion +3 Attack.
+CS2_103,10,Give a friendly minion <b>Charge</b>. It can't attack heroes this turn.
+CS2_005,10,Give your hero +2 Attack this turn and 2 Armor.
+CS2_063,10,Choose an enemy minion. At the start of your turn  destroy it.
+CS2_074,10,Give your weapon +2 Attack.
+CS2_037,10,Deal $1 damage to an enemy character and <b>Freeze</b> it.
+EX1_371,10,Give a minion <b>Divine Shield</b>.
+CS1_130,10,Deal $2 damage.
+EX1_360,10,Change a minion's Attack to 1.
+CS2_084,10,Change a minion's Health to 1.
+CS2_003,10,Put a copy of a random card in your opponent's hand into your hand.
+CS2_027,10,Summon two 0/2 minions with <b>Taunt</b>.
+EX1_302,10,Deal $1 damage to a minion. If that kills it  draw a card.
+CS2_004,10,Give a minion +2 Health. Draw a card.
+CS2_075,10,Deal $3 damage to the enemy hero.
+EX1_308,10,Deal $4 damage. Discard a random card.
+DS1_184,10,Look at the top three cards of your deck. Draw one and discard the others.
+EX1_400,10,Deal $1 damage to ALL minions.
+CS2_025,10,Deal $1 damage to all enemy minions.
+CS2_114,10,Deal $2 damage to two random enemy minions.
+CS2_236,10,Double a minion's Health.
+CS2_108,10,Destroy a damaged enemy minion.
+CS2_024,10,Deal $3 damage to a character and <b>Freeze</b> it.
+CS2_105,10,Give your hero +4 Attack this turn.
+CS2_089,10,Restore #6 Health.
+CS2_009,10,Give a minion <b>Taunt</b> and +2/+2.<i> (+2 Attack/+2 Health)</i>
+DS1_233,10,Deal $5 damage to the enemy hero.
+GAME_006,10,Somehow  the card you USED to have has been deleted.  Here  have this one instead!
+CS2_045,10,Give a friendly character +3 Attack this turn.
+EX1_581,10,Return an enemy minion to your opponent's hand.
+CS2_234,10,Destroy a minion with 3 or less Attack.
+EX1_278,10,Deal $1 damage. Draw a card.
+CS2_013,10,Gain an empty Mana Crystal.
+CS2_039,10,Give a minion <b>Windfury</b>.
+NEW1_031,10,Summon a random Beast Companion.
+CS2_023,10,Draw 2 cards.
+CS2_061,10,Deal $2 damage. Restore #2 Health to your hero.
+EX1_129,10,Deal $1 damage to all enemy minions. Draw a card.
+CS2_026,10,<b>Freeze</b> all enemy minions.
+CS2_007,10,Restore #8 Health.
+EX1_246,10,Transform a minion into a 0/1 Frog with <b>Taunt</b>.
+EX1_539,10,Deal $3 damage. If you have a Beast  deal $5 damage instead.
+CS2_011,10,Give your characters +2 Attack this turn.
+CS2_057,10,Deal $4 damage to a minion.
+EX1_622,10,Destroy a minion with an Attack of 5 or more.
+EX1_606,10,Gain 5 Armor. Draw a card.
+CS2_092,10,Give a minion +4/+4. <i>(+4 Attack/+4 Health)</i>
+CS2_093,10,Deal $2 damage to all enemies.
+CS2_029,10,Deal $6 damage.
+CS2_094,10,Deal $3 damage. Draw a card.
+CS2_062,10,Deal $3 damage to ALL characters.
+DS1_183,10,Deal $3 damage to two random enemy minions.
+CS2_022,10,Transform a minion into a 1/1 Sheep.
+CS2_012,10,Deal $4 damage to an enemy and $1 damage to all other enemies.
+CS2_076,10,Destroy an enemy minion.
+CS2_046,10,Give your minions +3 Attack this turn.
+CS1_112,10,Deal $2 damage to all enemies. Restore #2 Health to all friendly characters.
+EX1_173,10,Deal $5 damage. Draw a card.
+NEW1_004,10,Return all minions to their owner's hand.
+CS2_032,10,Deal $4 damage to all enemy minions.
+CS2_077,10,Draw 4 cards.
+CS1_113,10,Take control of an enemy minion.

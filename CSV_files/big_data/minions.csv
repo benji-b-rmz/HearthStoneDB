@@ -1,0 +1,721 @@
+cardId,name,type,cardSet,rarity,cost,health,attack,text,playerClass
+KAR_036,Arcane Anomaly,Minion,Karazhan,Common,1,1,2,Whenever you cast a spell  give this minion +1 Health.,Neutral
+KAR_009,Babbling Book,Minion,Karazhan,Rare,1,1,1,<b>Battlecry:</b> Add a random Mage spell to your hand.,Mage
+KAR_300,Enchanted Raven,Minion,Karazhan,Common,1,2,2,,Druid
+KAR_089,Malchezaar's Imp,Minion,Karazhan,Common,1,3,1,Whenever you discard a card  draw a card.,Warlock
+KAR_029,Runic Egg,Minion,Karazhan,Common,1,2,0,<b>Deathrattle:</b> Draw a card.,Neutral
+KAR_069,Swashburglar,Minion,Karazhan,Common,1,1,1,<b>Battlecry:</b> Add a random class card to your hand <i>(from your opponent's class).</i>,Rogue
+KAR_005,Kindly Grandmother,Minion,Karazhan,Common,2,1,1,<b>Deathrattle:</b> Summon a 3/2 Big Bad Wolf.,Hunter
+KARA_13_16,Mediva 1,Minion,Karazhan,Legendary,2,2,1,Portals cost (1) less.  Does not count as a minion.,Neutral
+KARA_13_15,Mediva 2,Minion,Karazhan,Legendary,2,2,1,Portals cost (1) less.  Does not count as a minion.,Neutral
+KARA_13_17,Mediva 3,Minion,Karazhan,Legendary,2,2,1,Portals cost (1) less.  Does not count as a minion.,Neutral
+KAR_092,Medivh's Valet,Minion,Karazhan,Common,2,3,2,<b>Battlecry:</b> If you control a <b>Secret</b>  deal 3 damage.,Mage
+KAR_062,Netherspite Historian,Minion,Karazhan,Common,2,3,1,<b>Battlecry:</b> If you're holding a Dragon  <b>Discover</b> a Dragon.,Neutral
+KAR_011,Pompous Thespian,Minion,Karazhan,Common,2,2,3,<b>Taunt</b>,Neutral
+KAR_006,Cloaked Huntress,Minion,Karazhan,Common,3,4,3,Your <b>Secrets</b> cost (0).,Hunter
+KAR_094,Deadly Fork,Minion,Karazhan,Common,3,2,3,<b>Deathrattle:</b> Add a 3/2 weapon to your hand.,Rogue
+KAR_044,Moroes,Minion,Karazhan,Legendary,3,1,1,<b>Stealth</b> At the end of your turn  summon a 1/1 Steward.,Neutral
+KAR_010,Nightbane Templar,Minion,Karazhan,Common,3,3,2,<b>Battlecry:</b> If you're holding a Dragon  summon two 1/1 Whelps.,Paladin
+KAR_030a,Pantry Spider,Minion,Karazhan,Common,3,3,1,<b>Battlecry:</b> Summon a 1/3 Spider.,Neutral
+KAR_205,Silverware Golem,Minion,Karazhan,Rare,3,3,3,If you discard this minion  summon it.,Warlock
+KAR_712,Violet Illusionist,Minion,Karazhan,Common,3,3,4,During your turn  your hero is <b>Immune</b>.,Neutral
+KAR_095,Zoobot,Minion,Karazhan,Common,3,3,3,<b>Battlecry:</b> Give a random friendly Beast  Dragon  and Murloc +1/+1.,Neutral
+KAR_710,Arcanosmith,Minion,Karazhan,Common,4,2,3,<b>Battlecry:</b> Summon a 0/5 minion with <b>Taunt</b>.,Neutral
+KAR_114,Barnes,Minion,Karazhan,Legendary,4,4,3,<b>Battlecry:</b> Summon a 1/1 copy of a random minion in your deck.,Neutral
+KAR_035,Priest of the Feast,Minion,Karazhan,Common,4,6,3,Whenever you cast a spell  restore 3 Health to your hero.,Priest
+KAR_021,Wicked Witchdoctor,Minion,Karazhan,Common,4,4,3,Whenever you cast a spell  summon a random basic_Totem.,Shaman
+KAR_037,Avian Watcher,Minion,Karazhan,Rare,5,6,3,<b>Battlecry:</b> If you control a <b>Secret</b>  gain +1/+1 and <b>Taunt</b>.,Neutral
+KAR_070,Ethereal Peddler,Minion,Karazhan,Rare,5,6,5,[x]<b>Battlecry:</b> If you're holding any non-Rogue class cards  _reduce their Cost by (2).,Rogue
+KAR_702,Menagerie Magician,Minion,Karazhan,Common,5,4,4,<b>Battlecry:</b> Give a random friendly Beast  Dragon  and Murloc +2/+2.,Neutral
+KAR_204,Onyx Bishop,Minion,Karazhan,Rare,5,4,3,<b>Battlecry:</b> Summon a friendly minion that died this game.,Priest
+KAR_096,Prince Malchezaar,Minion,Karazhan,Legendary,5,6,5,[x]When the game starts  add 5 extra <b>Legendary</b> minions to your deck.,Neutral
+KARA_13_19,Red Riding Hood,Minion,Karazhan,Legendary,5,2,3,<B>Taunt. Deathrattle:</b> Enemies can't attack this turn.,Neutral
+KARA_13_23,Romulo,Minion,Karazhan,Legendary,5,4,3,At the end of your turn  restore 5 health to your hero.,Neutral
+KAR_033,Book Wyrm,Minion,Karazhan,Rare,6,6,3,<b>Battlecry:</b> If you're holding a Dragon  destroy an enemy minion with 3 or less Attack.,Neutral
+KAR_057,Ivory Knight,Minion,Karazhan,Rare,6,4,4,[x]<b>Battlecry:</b> <b>Discover</b> a spell. Restore Health to your hero equal to its Cost.,Paladin
+KAR_065,Menagerie Warden,Minion,Karazhan,Common,6,5,5,<b>Battlecry:</b> Choose a friendly Beast. Summon a_copy of it.,Druid
+KAR_041,Moat Lurker,Minion,Karazhan,Rare,6,3,3,<b>Battlecry:</b> Destroy a minion. <b>Deathrattle:</b> Resummon it.,Neutral
+KAR_061,The Curator,Minion,Karazhan,Legendary,7,6,4,<b>Taunt</b> <b>Battlecry:</b> Draw a Beast  Dragon  and Murloc from your deck.,Neutral
+KAR_097,Medivh  the Guardian,Minion,Karazhan,Legendary,8,7,7,<b>Battlecry:</b> Equip Atiesh  Greatstaff of the Guardian.,Neutral
+KAR_711,Arcane Giant,Minion,Karazhan,Epic,12,8,8,[x]Costs (1) less for each spell you've cast this game.,Neutral
+BRMA14_3,Arcanotron,Minion,Blackrock Mountain,Legendary,0,2,2,Both players have <b>Spell Damage +2</b>.,Neutral
+BRM_022t,Black Whelp,Minion,Blackrock Mountain,Common,1,1,2,,Neutral
+BRM_022,Dragon Egg,Minion,Blackrock Mountain,Rare,1,2,0,Whenever this minion takes damage  summon a 2/1 Whelp.,Neutral
+BRMA14_5,Toxitron,Minion,Blackrock Mountain,Legendary,1,3,3,At the start of your turn  deal 1 damage to all other minions.,Neutral
+BRMA14_5H,Toxitron,Minion,Blackrock Mountain,Legendary,1,4,4,At the start of your turn  deal 1 damage to all other minions.,Neutral
+BRM_004,Twilight Whelp,Minion,Blackrock Mountain,Common,1,1,2,<b>Battlecry:</b> If you're holding a Dragon  gain +2 Health.,Priest
+BRM_033,Blackwing Technician,Minion,Blackrock Mountain,Common,3,4,2,<b>Battlecry:</b> If you're holding a Dragon  gain +1/+1. ,Neutral
+BRM_010,Druid of the Flame,Minion,Blackrock Mountain,Common,3,2,2,<b>Choose One</b> - Transform into a 5/2 minion; or a 2/5 minion.,Druid
+BRM_010t,Druid of the Flame,Minion,Blackrock Mountain,Common,3,2,5,,Druid
+BRM_010t2,Druid of the Flame,Minion,Blackrock Mountain,Common,3,5,2,,Druid
+OG_044b,Druid of the Flame,Minion,Blackrock Mountain,Common,3,5,5,,Druid
+BRMA14_7,Electron,Minion,Blackrock Mountain,Legendary,3,5,5,All spells cost (3) less.,Neutral
+BRMA14_7H,Electron,Minion,Blackrock Mountain,Legendary,3,6,6,All spells cost (3) less.,Neutral
+BRM_002,Flamewaker,Minion,Blackrock Mountain,Rare,3,4,2,After you cast a spell  deal 2 damage randomly split among all enemies.,Mage
+BRMA09_5Ht,Gyth,Minion,Blackrock Mountain,Legendary,3,8,8,,Neutral
+BRMA09_5t,Gyth,Minion,Blackrock Mountain,Legendary,3,4,8,,Neutral
+BRM_006,Imp Gang Boss,Minion,Blackrock Mountain,Common,3,4,2,Whenever this minion takes damage  summon a 1/1 Imp.,Warlock
+BRM_016,Axe Flinger,Minion,Blackrock Mountain,Common,4,5,2,Whenever this minion takes damage  deal 2 damage to the enemy hero.,Warrior
+BRM_014,Core Rager,Minion,Blackrock Mountain,Rare,4,4,4,<b>Battlecry:</b> If your hand is empty  gain +3/+3.,Hunter
+BRM_020,Dragonkin Sorcerer,Minion,Blackrock Mountain,Common,4,5,3,Whenever <b>you</b> target this minion with a spell  gain +1/+1.,Neutral
+BRM_012,Fireguard Destroyer,Minion,Blackrock Mountain,Common,4,6,3,<b>Battlecry:</b> Gain 1-4 Attack. <b>Overload:</b> (1),Shaman
+BRM_026,Hungry Dragon,Minion,Blackrock Mountain,Common,4,6,5,<b>Battlecry:</b> Summon a random 1-Cost minion for your opponent.,Neutral
+BRM_034,Blackwing Corruptor,Minion,Blackrock Mountain,Common,5,4,5,<b>Battlecry:</b> If you're holding a Dragon  deal 3 damage.,Neutral
+BRM_008,Dark Iron Skulker,Minion,Blackrock Mountain,Rare,5,3,4,<b>Battlecry:</b> Deal 2 damage to all undamaged enemy minions.,Rogue
+BRM_018,Dragon Consort,Minion,Blackrock Mountain,Rare,5,5,5,<b>Battlecry:</b> The next Dragon you play costs (2) less.,Paladin
+BRM_019,Grim Patron,Minion,Blackrock Mountain,Rare,5,3,3,Whenever this minion survives damage  summon another Grim Patron.,Neutral
+BRMA14_9,Magmatron,Minion,Blackrock Mountain,Legendary,5,7,7,Whenever a player plays a card  Magmatron deals 2 damage to them.,Neutral
+BRMA14_9H,Magmatron,Minion,Blackrock Mountain,Legendary,5,8,8,Whenever a player plays a card  Magmatron deals 2 damage to them.,Neutral
+BRMA14_12,Magmaw,Minion,Blackrock Mountain,Legendary,5,2,10,<b>Taunt</b>,Neutral
+BRM_024,Drakonid Crusher,Minion,Blackrock Mountain,Common,6,6,6,<b>Battlecry:</b> If your opponent has 15 or less Health  gain +3/+3.,Neutral
+BRM_028,Emperor Thaurissan,Minion,Blackrock Mountain,Legendary,6,5,5,At the end of your turn  reduce the Cost of cards in your hand by (1).,Neutral
+BRM_025,Volcanic Drake,Minion,Blackrock Mountain,Common,6,4,6,Costs (1) less for each minion that died this turn.,Neutral
+BRM_029,Rend Blackhand,Minion,Blackrock Mountain,Legendary,7,4,8,<b>Battlecry:</b> If you're holding a Dragon  destroy a <b>Legendary</b> minion.,Neutral
+BRM_031,Chromaggus,Minion,Blackrock Mountain,Legendary,8,8,6,Whenever you draw a card  put another copy into your hand.,Neutral
+BRM_027,Majordomo Executus,Minion,Blackrock Mountain,Legendary,9,7,9,<b>Deathrattle:</b> Replace your hero with Ragnaros  the Firelord.,Neutral
+BRM_030,Nefarian,Minion,Blackrock Mountain,Legendary,9,8,8,<b>Battlecry:</b> Add 2 random spells to your hand <i>(from your opponent's class)</i>.,Neutral
+BRM_009,Volcanic Lumberer,Minion,Blackrock Mountain,Rare,9,8,7,<b>Taunt</b> Costs (1) less for each minion that died this turn.,Druid
+LOEA10_3,Murloc Tinyfin,Minion,The League of Explorers,Common,0,1,1,,Neutral
+LOE_010,Pit Snake,Minion,The League of Explorers,Common,1,1,2,Destroy any minion damaged by this minion.,Rogue
+LOE_116,Reliquary Seeker,Minion,The League of Explorers,Rare,1,1,1,<b>Battlecry:</b> If you have 6 other minions  gain +4/+4.,Warlock
+LOE_076,Sir Finley Mrrgglton,Minion,The League of Explorers,Legendary,1,3,1,<b>Battlecry: Discover</b> a new basic Hero Power.,Neutral
+LOE_018,Tunnel Trogg,Minion,The League of Explorers,Common,1,3,1,Whenever you <b>Overload</b>  gain +1 Attack per locked Mana Crystal.,Shaman
+LOE_023,Dark Peddler,Minion,The League of Explorers,Common,2,2,2,<b>Battlecry: Discover</b> a 1-Cost card.,Warlock
+LOE_046,Huge Toad,Minion,The League of Explorers,Common,2,2,3,<b>Deathrattle:</b> Deal 1 damage to a random enemy.,Neutral
+LOE_029,Jeweled Scarab,Minion,The League of Explorers,Common,2,1,1,<b>Battlecry: Discover</b> a 3-Cost card.,Neutral
+LOE_006,Museum Curator,Minion,The League of Explorers,Common,2,2,1,<b>Battlecry: Discover</b> a <b>Deathrattle</b> card.,Priest
+LOE_077,Brann Bronzebeard,Minion,The League of Explorers,Legendary,3,4,2,Your <b>Battlecries</b> trigger twice.,Neutral
+LOE_020,Desert Camel,Minion,The League of Explorers,Common,3,4,2,<b>Battlecry:</b> Put a 1-Cost minion from each deck into the battlefield.,Hunter
+LOE_022,Fierce Monkey,Minion,The League of Explorers,Common,3,4,3,<b>Taunt</b>,Warrior
+LOE_050,Mounted Raptor,Minion,The League of Explorers,Common,3,2,3,<b>Deathrattle:</b> Summon a random 1-Cost minion.,Druid
+LOE_019,Unearthed Raptor,Minion,The League of Explorers,Rare,3,4,3,<b>Battlecry:</b> Choose a friendly minion. Gain a copy of its <b>Deathrattle</b> effect.,Rogue
+LOE_110,Ancient Shade,Minion,The League of Explorers,Rare,4,4,7,<b>Battlecry:</b> Shuffle an 'Ancient Curse' into your deck that deals 7 damage to you when drawn.,Neutral
+LOE_119,Animated Armor,Minion,The League of Explorers,Rare,4,4,4,Your hero can only take 1 damage at a time.,Mage
+LOE_107,Eerie Statue,Minion,The League of Explorers,Rare,4,7,7,Can’t attack unless it’s the only minion in the battlefield.,Neutral
+LOE_079,Elise Starseeker,Minion,The League of Explorers,Legendary,4,5,3,<b>Battlecry:</b> Shuffle the 'Map to the Golden Monkey'   into your deck.,Neutral
+LOE_039,Gorillabot A-3,Minion,The League of Explorers,Common,4,4,3,<b>Battlecry:</b> If you control another Mech  <b>Discover</b> a Mech.,Neutral
+LOE_051,Jungle Moonkin,Minion,The League of Explorers,Rare,4,4,4,Both players have <b>Spell Damage +2</b>.,Druid
+LOE_017,Keeper of Uldaman,Minion,The League of Explorers,Common,4,4,3,<b>Battlecry:</b> Set a minion's Attack and Health to 3.,Paladin
+LOE_016,Rumbling Elemental,Minion,The League of Explorers,Common,4,6,2,After you play a <b>Battlecry</b> minion  deal 2 damage to a random enemy.,Shaman
+LOE_012,Tomb Pillager,Minion,The League of Explorers,Common,4,4,5,<b>Deathrattle:</b> Add a Coin to your hand.,Rogue
+LOE_047,Tomb Spider,Minion,The League of Explorers,Common,4,3,3,<b>Battlecry: Discover</b> a Beast.,Neutral
+LOE_061,Anubisath Sentinel,Minion,The League of Explorers,Common,5,4,4,<b>Deathrattle:</b> Give a random friendly minion +3/+3.,Neutral
+LOEA16_22,Archaedas,Minion,The League of Explorers,Legendary,5,5,5,At the end of your turn  turn a random enemy minion into a 0/2 Statue.,Neutral
+LOEA16_21,Chieftain Scarvash,Minion,The League of Explorers,Legendary,5,5,5,Enemy cards cost (1) more.,Neutral
+LOE_053,Djinni of Zephyrs,Minion,The League of Explorers,Epic,5,6,4,After you cast a spell on another friendly minion  cast a copy of it on this one.,Neutral
+LOE_003,Ethereal Conjurer,Minion,The League of Explorers,Common,5,3,6,<b>Battlecry: Discover</b> a spell.,Mage
+LOEA16_24,Giantfin,Minion,The League of Explorers,Legendary,5,5,5,At the end of your turn  draw until you have as many cards as your opponent.,Neutral
+LOEA16_25,Lady Naz'jar,Minion,The League of Explorers,Legendary,5,5,5,At the end of your turn  replace all other minions with new ones of the same Cost.,Neutral
+LOEA16_23,Lord Slitherspear,Minion,The League of Explorers,Legendary,5,5,5,At the end of your turn  summon 1/1 Hungry Naga for each enemy minion.,Neutral
+LOE_038,Naga Sea Witch,Minion,The League of Explorers,Epic,5,5,5,Your cards cost (5).,Neutral
+LOEA16_26,Skelesaurus Hex,Minion,The League of Explorers,Legendary,5,5,5,At the end of your turn  give each player a random card. It costs (0).,Neutral
+LOE_086,Summoning Stone,Minion,The League of Explorers,Rare,5,6,0,Whenever you cast a spell  summon a random minion of the same Cost.,Neutral
+LOEA16_19,Sun Raider Phaerix,Minion,The League of Explorers,Legendary,5,5,5,At the end of your turn  add a Blessing of the Sun to your hand.,Neutral
+LOEA16_27,The Steel Sentinel,Minion,The League of Explorers,Legendary,5,5,5,This minion can only take 1 damage at a time.,Neutral
+LOEA16_18,Zinaar,Minion,The League of Explorers,Legendary,5,5,5,At the end of your turn  gain a wish.,Neutral
+LOE_011,Reno Jackson,Minion,The League of Explorers,Legendary,6,6,4,<b>Battlecry:</b> If your deck contains no more than 1 of any card  fully heal your hero.,Neutral
+LOE_089,Wobbling Runts,Minion,The League of Explorers,Rare,6,6,2,<b>Deathrattle:</b> Summon three 2/2 Runts.,Neutral
+LOE_009,Obsidian Destroyer,Minion,The League of Explorers,Common,7,7,7,At the end of your turn  summon a 1/1 Scarab with <b>Taunt</b>.,Warrior
+LOE_073,Fossilized Devilsaur,Minion,The League of Explorers,Common,8,8,8,<b>Battlecry:</b> If you control a Beast  gain <b>Taunt</b>.,Neutral
+LOE_092,Arch-Thief Rafaam,Minion,The League of Explorers,Legendary,9,8,7,<b>Battlecry: Discover</b> a powerful Artifact.,Neutral
+LOEA16_22H,Archaedas,Minion,The League of Explorers,Legendary,10,10,10,At the end of your turn  turn a random enemy minion into a 0/2 Statue.,Neutral
+LOEA16_21H,Chieftain Scarvash,Minion,The League of Explorers,Legendary,10,10,10,Enemy cards cost (2) more.,Neutral
+LOEA16_24H,Giantfin,Minion,The League of Explorers,Legendary,10,10,10,At the end of your turn  draw 2 cards.,Neutral
+LOEA16_25H,Lady Naz'jar,Minion,The League of Explorers,Legendary,10,10,10,At the end of your turn  replace all other minions with new ones of the same Cost.,Neutral
+LOEA16_23H,Lord Slitherspear,Minion,The League of Explorers,Legendary,10,10,10,At the end of your turn  summon 1/1 Hungry Naga for each enemy minion.,Neutral
+LOEA16_26H,Skelesaurus Hex,Minion,The League of Explorers,Legendary,10,10,10,At the end of your turn  put a random card in your hand. It costs (0).,Neutral
+LOEA16_19H,Sun Raider Phaerix,Minion,The League of Explorers,Legendary,10,10,10,Your other minions are <b>Immune</b>.,Neutral
+LOEA16_27H,The Steel Sentinel,Minion,The League of Explorers,Legendary,10,10,10,This minion can only take 1 damage at a time.,Neutral
+LOEA16_18H,Zinaar,Minion,The League of Explorers,Legendary,10,10,10,At the end of your turn  gain a wish.,Neutral
+NAX15_05,Mr. Bigglesworth,Minion,Naxxramas,Legendary,0,1,1,<i>This is Kel'Thuzad's kitty.</i>,Neutral
+FP1_028,Undertaker,Minion,Naxxramas,Common,1,2,1,Whenever you summon a minion with <b>Deathrattle</b>  gain +1 Attack.,Neutral
+FP1_011,Webspinner,Minion,Naxxramas,Common,1,1,1,<b>Deathrattle:</b> Add a random Beast card to your hand.,Hunter
+FP1_001,Zombie Chow,Minion,Naxxramas,Common,1,3,2,<b>Deathrattle:</b> Restore 5 Health to the enemy hero.,Neutral
+FP1_003,Echoing Ooze,Minion,Naxxramas,Epic,2,2,1,<b>Battlecry:</b> Summon an exact copy of this minion at the end of the turn.,Neutral
+FP1_002,Haunted Creeper,Minion,Naxxramas,Common,2,2,1,<b>Deathrattle:</b> Summon two 1/1 Spectral Spiders.,Neutral
+FP1_004,Mad Scientist,Minion,Naxxramas,Common,2,2,2,<b>Deathrattle:</b> Put a <b>Secret</b> from your deck into the battlefield.,Neutral
+FP1_017,Nerub'ar Weblord,Minion,Naxxramas,Common,2,4,1,Minions with <b>Battlecry</b> cost (2) more.,Neutral
+FP1_007,Nerubian Egg,Minion,Naxxramas,Rare,2,2,0,<b>Deathrattle:</b> Summon a 4/4 Nerubian.,Neutral
+FP1_024,Unstable Ghoul,Minion,Naxxramas,Common,2,3,1,<b>Taunt</b>. <b>Deathrattle:</b> Deal 1 damage to all minions.,Neutral
+FP1_029,Dancing Swords,Minion,Naxxramas,Common,3,4,4,<b>Deathrattle:</b> Your opponent draws a card.,Neutral
+FP1_023,Dark Cultist,Minion,Naxxramas,Common,3,4,3,<b>Deathrattle:</b> Give a random friendly minion +3 Health.,Priest
+FP1_009,Deathlord,Minion,Naxxramas,Rare,3,8,2,<b>Taunt. Deathrattle:</b> Your opponent puts a minion from their deck into the battlefield.,Neutral
+NAX9_02,Lady Blaumeux,Minion,Naxxramas,Legendary,3,7,1,Your hero is <b>Immune</b>.,Neutral
+NAX9_02H,Lady Blaumeux,Minion,Naxxramas,Legendary,3,7,2,Your hero is <b>Immune</b>.,Neutral
+FP1_005,Shade of Naxxramas,Minion,Naxxramas,Epic,3,2,2,<b>Stealth.</b> At the start of your turn  gain +1/+1.,Neutral
+NAX9_04,Sir Zeliek,Minion,Naxxramas,Legendary,3,7,1,Your hero is <b>Immune</b>.,Neutral
+NAX9_04H,Sir Zeliek,Minion,Naxxramas,Legendary,3,7,2,Your hero is <b>Immune</b>.,Neutral
+FP1_027,Stoneskin Gargoyle,Minion,Naxxramas,Common,3,4,1,At the start of your turn  restore this minion to full Health.,Neutral
+NAX9_03,Thane Korth'azz,Minion,Naxxramas,Legendary,3,7,1,Your hero is <b>Immune</b>.,Neutral
+NAX9_03H,Thane Korth'azz,Minion,Naxxramas,Legendary,3,7,2,Your hero is <b>Immune</b>.,Neutral
+FP1_026,Anub'ar Ambusher,Minion,Naxxramas,Common,4,5,5,<b>Deathrattle:</b> Return a random friendly minion to your hand.,Rogue
+FP1_031,Baron Rivendare,Minion,Naxxramas,Legendary,4,7,1,Your minions trigger their <b>Deathrattles</b> twice.,Neutral
+FP1_007t,Nerubian,Minion,Naxxramas,Rare,4,4,4,,Neutral
+FP1_022,Voidcaller,Minion,Naxxramas,Common,4,4,3,<b>Deathrattle:</b> Put a random Demon from your hand into the battlefield.,Warlock
+FP1_016,Wailing Soul,Minion,Naxxramas,Rare,4,5,3,<b>Battlecry: Silence</b> your other minions.,Neutral
+FP1_015,Feugen,Minion,Naxxramas,Legendary,5,7,4,<b>Deathrattle:</b> If Stalagg also died this game  summon Thaddius.,Neutral
+NAX13_04H,Feugen,Minion,Naxxramas,Legendary,5,7,4,,Neutral
+FP1_030,Loatheb,Minion,Naxxramas,Legendary,5,5,5,<b>Battlecry:</b> Enemy spells cost (5) more next turn.,Neutral
+FP1_012,Sludge Belcher,Minion,Naxxramas,Rare,5,5,3,<b>Taunt Deathrattle:</b> Summon a 1/2 Slime with <b>Taunt</b>.,Neutral
+FP1_008,Spectral Knight,Minion,Naxxramas,Common,5,6,4,Can't be targeted by spells or Hero Powers.,Neutral
+FP1_014,Stalagg,Minion,Naxxramas,Legendary,5,4,7,<b>Deathrattle:</b> If Feugen also died this game  summon Thaddius.,Neutral
+NAX13_05H,Stalagg,Minion,Naxxramas,Legendary,5,4,7,,Neutral
+FP1_010,Maexxna,Minion,Naxxramas,Legendary,6,8,2,Destroy any minion damaged by this minion.,Neutral
+FP1_013,Kel'Thuzad,Minion,Naxxramas,Legendary,8,8,6,At the end of each turn  summon all friendly minions that died this turn.,Neutral
+FP1_014t,Thaddius,Minion,Naxxramas,Legendary,10,11,11,,Neutral
+AT_059,Brave Archer,Minion,The Grand Tournament,Common,1,1,2,<b>Inspire:</b> If your hand is empty  deal 2 damage to the enemy hero.,Hunter
+AT_029,Buccaneer,Minion,The Grand Tournament,Common,1,1,2,Whenever you equip a weapon  give it +1 Attack.,Rogue
+AT_133,Gadgetzan Jouster,Minion,The Grand Tournament,Common,1,2,1,<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more  gain +1/+1.,Neutral
+AT_105,Injured Kvaldir,Minion,The Grand Tournament,Rare,1,4,2,<b>Battlecry:</b> Deal 3 damage to this minion.,Neutral
+AT_082,Lowly Squire,Minion,The Grand Tournament,Common,1,2,1,<b>Inspire:</b> Gain +1 Attack.,Neutral
+AT_097,Tournament Attendee,Minion,The Grand Tournament,Common,1,1,2,<b>Taunt</b>,Neutral
+AT_071,Alexstrasza's Champion,Minion,The Grand Tournament,Rare,2,3,2,<b>Battlecry:</b> If you're holding a Dragon  gain +1 Attack and <b>Charge</b>.,Warrior
+AT_109,Argent Watchman,Minion,The Grand Tournament,Rare,2,4,2,Can't attack. <b>Inspire:</b> Can attack as normal this turn.,Neutral
+AT_089,Boneguard Lieutenant,Minion,The Grand Tournament,Common,2,2,3,<b>Inspire:</b> Gain +1 Health.,Neutral
+AT_031,Cutpurse,Minion,The Grand Tournament,Rare,2,2,2,Whenever this minion attacks a hero  add the Coin to your hand.,Rogue
+AT_038,Darnassus Aspirant,Minion,The Grand Tournament,Rare,2,3,2,<b>Battlecry:</b> Gain an empty Mana Crystal. <b>Deathrattle:</b> Lose a Mana Crystal.,Druid
+AT_042,Druid of the Saber,Minion,The Grand Tournament,Common,2,1,2,<b>Choose One -</b> Transform to gain <b>Charge</b>; or +1/+1 and <b>Stealth</b>.,Druid
+AT_003,Fallen Hero,Minion,The Grand Tournament,Rare,2,2,3,Your Hero Power deals 1 extra damage.,Mage
+AT_094,Flame Juggler,Minion,The Grand Tournament,Common,2,3,2,<b>Battlecry:</b> Deal 1 damage to a random enemy.,Neutral
+AT_080,Garrison Commander,Minion,The Grand Tournament,Epic,2,3,2,You can use your Hero Power twice a turn.,Neutral
+AT_058,King's Elekk,Minion,The Grand Tournament,Common,2,2,3,<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more  draw it.,Hunter
+AT_084,Lance Carrier,Minion,The Grand Tournament,Common,2,2,1,<b>Battlecry:</b> Give a friendly minion +2 Attack.,Neutral
+AT_042t,Sabertooth Lion,Minion,The Grand Tournament,Common,2,1,2,<b>Charge</b>,Druid
+AT_042t2,Sabertooth Panther,Minion,The Grand Tournament,Common,2,2,3,<b>Stealth</b>,Druid
+OG_044c,Sabertooth Tiger,Minion,The Grand Tournament,Common,2,2,3,<b>Charge  Stealth</b>,Druid
+AT_069,Sparring Partner,Minion,The Grand Tournament,Rare,2,2,3,<b>Taunt</b> <b>Battlecry:</b> Give a minion <b>Taunt</b>.,Warrior
+AT_021,Tiny Knight of Evil,Minion,The Grand Tournament,Rare,2,2,3,Whenever you discard a card  gain +1/+1.,Warlock
+AT_052,Totem Golem,Minion,The Grand Tournament,Common,2,4,3,<b>Overload:</b> (1),Shaman
+AT_030,Undercity Valiant,Minion,The Grand Tournament,Common,2,2,3,<b>Combo:</b> Deal 1 damage.,Rogue
+AT_026,Wrathguard,Minion,The Grand Tournament,Common,2,3,4,Whenever this minion takes damage  also deal that amount to your hero.,Warlock
+AT_116,Wyrmrest Agent,Minion,The Grand Tournament,Rare,2,4,1,<b>Battlecry:</b> If you're holding a Dragon  gain +1 Attack and <b>Taunt</b>.,Priest
+AT_087,Argent Horserider,Minion,The Grand Tournament,Common,3,1,2,<b>Charge</b> <b>Divine Shield</b>,Neutral
+AT_110,Coliseum Manager,Minion,The Grand Tournament,Rare,3,5,2,<b>Inspire:</b> Return this minion to your hand.,Neutral
+AT_083,Dragonhawk Rider,Minion,The Grand Tournament,Common,3,3,3,<b>Inspire:</b> Gain <b>Windfury</b> this turn.,Neutral
+AT_063t,Dreadscale,Minion,The Grand Tournament,Legendary,3,2,4,At the end of your turn  deal 1 damage to all other minions.,Hunter
+AT_131,Eydis Darkbane,Minion,The Grand Tournament,Legendary,3,4,3,Whenever <b>you</b> target this minion with a spell  deal 3 damage to a random enemy.,Neutral
+AT_115,Fencing Coach,Minion,The Grand Tournament,Rare,3,2,2,<b>Battlecry:</b> The next time you use your Hero Power  it costs (2) less.,Neutral
+AT_129,Fjola Lightbane,Minion,The Grand Tournament,Legendary,3,4,3,Whenever <b>you</b> target this minion with a spell  gain <b>Divine Shield.</b>,Neutral
+AT_092,Ice Rager,Minion,The Grand Tournament,Common,3,2,5,,Neutral
+AT_106,Light's Champion,Minion,The Grand Tournament,Rare,3,3,4,<b>Battlecry:</b> <b>Silence</b> a Demon.,Neutral
+AT_117,Master of Ceremonies,Minion,The Grand Tournament,Epic,3,2,4,<b>Battlecry:</b> If you have a minion with <b>Spell Damage</b>  gain +2/+2.,Neutral
+AT_066,Orgrimmar Aspirant,Minion,The Grand Tournament,Common,3,3,3,<b>Inspire:</b> Give your weapon +1 Attack.,Warrior
+AT_086,Saboteur,Minion,The Grand Tournament,Rare,3,3,4,<b>Battlecry:</b> Your opponent's Hero Power costs (5) more next turn.,Neutral
+AT_014,Shadowfiend,Minion,The Grand Tournament,Epic,3,3,3,Whenever you draw a card  reduce its Cost by (1).,Priest
+AT_032,Shady Dealer,Minion,The Grand Tournament,Rare,3,3,4,<b>Battlecry:</b> If you have a Pirate  gain +1/+1.,Rogue
+AT_095,Silent Knight,Minion,The Grand Tournament,Common,3,2,2,<b>Stealth</b> <b>Divine Shield</b>,Neutral
+AT_100,Silver Hand Regent,Minion,The Grand Tournament,Common,3,3,3,<b>Inspire:</b> Summon a 1/1 Silver Hand Recruit.,Neutral
+AT_007,Spellslinger,Minion,The Grand Tournament,Common,3,4,3,<b>Battlecry:</b> Add a random spell to each player's hand.,Mage
+AT_057,Stablemaster,Minion,The Grand Tournament,Epic,3,2,4,<b>Battlecry:</b> Give a friendly Beast <b>Immune</b> this turn.,Hunter
+AT_046,Tuskarr Totemic,Minion,The Grand Tournament,Common,3,2,3,<b>Battlecry:</b> Summon a random basic Totem.,Shaman
+AT_075,Warhorse Trainer,Minion,The Grand Tournament,Common,3,4,2,Your Silver Hand Recruits have +1 Attack.,Paladin
+AT_108,Armored Warhorse,Minion,The Grand Tournament,Rare,4,3,5,<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more  gain <b>Charge</b>.,Neutral
+AT_121,Crowd Favorite,Minion,The Grand Tournament,Epic,4,4,4,Whenever you play a card with <b>Battlecry</b>  gain +1/+1.,Neutral
+AT_006,Dalaran Aspirant,Minion,The Grand Tournament,Common,4,5,3,<b>Inspire:</b> Gain <b>Spell Damage +1</b>.,Mage
+AT_047,Draenei Totemcarver,Minion,The Grand Tournament,Rare,4,4,4,<b>Battlecry:</b> Gain +1/+1 for each friendly Totem.,Shaman
+AT_019,Dreadsteed,Minion,The Grand Tournament,Epic,4,1,1,<b>Deathrattle:</b> Summon a Dreadsteed.,Warlock
+AT_114,Evil Heckler,Minion,The Grand Tournament,Common,4,4,5,<b>Taunt</b>,Neutral
+AT_093,Frigid Snobold,Minion,The Grand Tournament,Common,4,6,2,<b>Spell Damage +1</b>,Neutral
+AT_122,Gormok the Impaler,Minion,The Grand Tournament,Legendary,4,4,4,<b>Battlecry:</b> If you have at least 4 other minions  deal 4 damage.,Neutral
+AT_011,Holy Champion,Minion,The Grand Tournament,Common,4,5,3,Whenever a character is healed  gain +2 Attack.,Priest
+AT_067,Magnataur Alpha,Minion,The Grand Tournament,Epic,4,3,5,Also damages the minions next to whomever he attacks.,Warrior
+AT_085,Maiden of the Lake,Minion,The Grand Tournament,Common,4,6,2,Your Hero Power costs (1).,Neutral
+AT_076,Murloc Knight,Minion,The Grand Tournament,Common,4,4,3,<b>Inspire:</b> Summon a random Murloc.,Paladin
+AT_111,Refreshment Vendor,Minion,The Grand Tournament,Common,4,5,3,<b>Battlecry:</b> Restore 4 Health to each hero.,Neutral
+AT_039,Savage Combatant,Minion,The Grand Tournament,Rare,4,4,5,<b>Inspire:</b> Give your hero +2 Attack this turn.,Druid
+AT_012,Spawn of Shadows,Minion,The Grand Tournament,Rare,4,4,5,<b>Inspire:</b> Deal 4 damage to each hero.,Priest
+AT_091,Tournament Medic,Minion,The Grand Tournament,Common,4,8,1,<b>Inspire:</b> Restore 2 Health to your hero.,Neutral
+AT_017,Twilight Guardian,Minion,The Grand Tournament,Epic,4,6,2,<b>Battlecry:</b> If you're holding a Dragon  gain +1 Attack and <b>Taunt</b>.,Neutral
+AT_040,Wildwalker,Minion,The Grand Tournament,Common,4,4,4,<b>Battlecry:</b> Give a friendly Beast +3 Health.,Druid
+AT_096,Clockwork Knight,Minion,The Grand Tournament,Common,5,5,5,<b>Battlecry:</b> Give a friendly Mech +1/+1.,Neutral
+AT_119,Kvaldir Raider,Minion,The Grand Tournament,Common,5,4,4,<b>Inspire:</b> Gain +2/+2.,Neutral
+AT_090,Mukla's Champion,Minion,The Grand Tournament,Common,5,3,4,<b>Inspire:</b> Give your other minions +1/+1.,Neutral
+AT_127,Nexus-Champion Saraad,Minion,The Grand Tournament,Legendary,5,5,4,<b>Inspire:</b> Add a random spell to your hand.,Neutral
+AT_101,Pit Fighter,Minion,The Grand Tournament,Common,5,6,5,,Neutral
+AT_010,Ram Wrangler,Minion,The Grand Tournament,Rare,5,3,3,<b>Battlecry:</b> If you have a Beast  summon a random Beast.,Hunter
+AT_113,Recruiter,Minion,The Grand Tournament,Epic,5,4,5,<b>Inspire:</b> Add a 2/2 Squire to your hand.,Neutral
+AT_028,Shado-Pan Rider,Minion,The Grand Tournament,Common,5,7,3,<b>Combo:</b> Gain +3 Attack.,Rogue
+AT_049,Thunder Bluff Valiant,Minion,The Grand Tournament,Rare,5,6,3,<b>Inspire:</b> Give your Totems +2 Attack.,Shaman
+AT_104,Tuskarr Jouster,Minion,The Grand Tournament,Rare,5,5,5,<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more  restore 7 Health to your hero.,Paladin
+AT_124,Bolf Ramshield,Minion,The Grand Tournament,Legendary,6,9,3,Whenever your hero takes damage  this minion takes it instead.,Neutral
+AT_008,Coldarra Drake,Minion,The Grand Tournament,Epic,6,6,6,You can use your Hero Power any number of times.,Mage
+AT_118,Grand Crusader,Minion,The Grand Tournament,Epic,6,5,5,<b>Battlecry:</b> Add a random Paladin card to your hand.,Neutral
+AT_132,Justicar Trueheart,Minion,The Grand Tournament,Legendary,6,3,6,<b>Battlecry:</b> Replace your starting Hero Power with a better one.,Neutral
+AT_099,Kodorider,Minion,The Grand Tournament,Epic,6,5,3,<b>Inspire:</b> Summon a 3/5 War Kodo.,Neutral
+AT_112,Master Jouster,Minion,The Grand Tournament,Rare,6,6,5,<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more  gain <b>Taunt</b> and <b>Divine Shield</b>.,Neutral
+AT_088,Mogor's Champion,Minion,The Grand Tournament,Rare,6,5,8,50% chance to attack the wrong enemy.,Neutral
+AT_079,Mysterious Challenger,Minion,The Grand Tournament,Epic,6,6,6,<b>Battlecry:</b> Put one of each <b>Secret</b> from your deck into the battlefield.,Paladin
+AT_130,Sea Reaver,Minion,The Grand Tournament,Epic,6,7,6,When you draw this  deal 1 damage to your minions.,Warrior
+AT_098,Sideshow Spelleater,Minion,The Grand Tournament,Epic,6,5,6,<b>Battlecry:</b> Copy your opponent's Hero Power.,Neutral
+AT_054,The Mistcaller,Minion,The Grand Tournament,Legendary,6,4,4,<b>Battlecry:</b> Give all minions in your hand and deck +1/+1.,Shaman
+AT_128,The Skeleton Knight,Minion,The Grand Tournament,Legendary,6,4,7,<b>Deathrattle:</b> Reveal a minion in each deck. If yours costs more  return this to your hand.,Neutral
+AT_023,Void Crusher,Minion,The Grand Tournament,Rare,6,4,5,<b>Inspire:</b> Destroy a random minion for each player.,Warlock
+AT_027,Wilfred Fizzlebang,Minion,The Grand Tournament,Legendary,6,4,4,Cards you draw from your Hero Power cost (0).,Warlock
+AT_063,Acidmaw,Minion,The Grand Tournament,Legendary,7,2,4,Whenever another minion takes damage  destroy it.,Hunter
+AT_102,Captured Jormungar,Minion,The Grand Tournament,Common,7,9,5,,Neutral
+AT_123,Chillmaw,Minion,The Grand Tournament,Legendary,7,6,6,[x]<b>Taunt</b> <b>Deathrattle:</b> If you're holding a Dragon  deal 3 damage to all minions.,Neutral
+AT_018,Confessor Paletress,Minion,The Grand Tournament,Legendary,7,4,5,<b>Inspire:</b> Summon a random <b>Legendary</b> minion.,Priest
+AT_081,Eadric the Pure,Minion,The Grand Tournament,Legendary,7,7,3,<b>Battlecry:</b> Change all enemy minions' Attack to 1.,Paladin
+AT_020,Fearsome Doomguard,Minion,The Grand Tournament,Common,7,8,6,,Warlock
+AT_041,Knight of the Wild,Minion,The Grand Tournament,Rare,7,6,6,Whenever you summon a Beast  reduce the Cost of this card by (1).,Druid
+AT_070,Skycap'n Kragg,Minion,The Grand Tournament,Legendary,7,6,4,<b>Charrrrrge</b> Costs (1) less for each friendly Pirate.,Neutral
+AT_009,Rhonin,Minion,The Grand Tournament,Legendary,8,7,7,<b>Deathrattle:</b> Add 3 copies of Arcane Missiles to your hand.,Mage
+AT_036,Anub'arak,Minion,The Grand Tournament,Legendary,9,4,8,<b>Deathrattle:</b> Return this to your hand and summon a 4/4 Nerubian.,Rogue
+AT_045,Aviana,Minion,The Grand Tournament,Legendary,9,5,5,Your minions cost (1).,Druid
+AT_125,Icehowl,Minion,The Grand Tournament,Legendary,9,10,10,<b>Charge</b> Can't attack heroes.,Neutral
+AT_103,North Sea Kraken,Minion,The Grand Tournament,Common,9,7,9,<b>Battlecry:</b> Deal 4 damage.,Neutral
+AT_120,Frost Giant,Minion,The Grand Tournament,Epic,10,8,8,Costs (1) less for each time you used your Hero Power this game.,Neutral
+AT_072,Varian Wrynn,Minion,The Grand Tournament,Legendary,10,7,7,<b>Battlecry:</b> Draw 3 cards. Put any minions you drew directly into the battlefield.,Warrior
+GVG_093,Target Dummy,Minion,Goblins vs Gnomes,Rare,0,2,0,<b>Taunt</b>,Neutral
+GVG_082,Clockwork Gnome,Minion,Goblins vs Gnomes,Common,1,1,2,<b>Deathrattle:</b> Add a <b>Spare Part</b> card to your hand.,Neutral
+GVG_013,Cogmaster,Minion,Goblins vs Gnomes,Common,1,2,1,Has +2 Attack while you have a Mech.,Neutral
+GVG_009,Shadowbomber,Minion,Goblins vs Gnomes,Epic,1,1,2,<b>Battlecry:</b> Deal 3 damage to each hero.,Priest
+GVG_051,Warbot,Minion,Goblins vs Gnomes,Common,1,3,1,<b>Enrage:</b> +1 Attack.,Warrior
+GVG_085,Annoy-o-Tron,Minion,Goblins vs Gnomes,Common,2,2,1,<b>Taunt</b> <b>Divine Shield</b>,Neutral
+GVG_030,Anodized Robo Cub,Minion,Goblins vs Gnomes,Common,2,2,2,<b>Taunt</b>. <b>Choose One -</b> +1 Attack; or +1 Health.,Druid
+GVG_076,Explosive Sheep,Minion,Goblins vs Gnomes,Common,2,1,1,<b>Deathrattle:</b> Deal 2 damage to all minions.,Neutral
+GVG_081,Gilblin Stalker,Minion,Goblins vs Gnomes,Common,2,3,2,<b>Stealth</b>,Neutral
+GVG_023,Goblin Auto-Barber,Minion,Goblins vs Gnomes,Common,2,2,3,<b>Battlecry:</b> Give your weapon +1 Attack.,Rogue
+GVG_006,Mechwarper,Minion,Goblins vs Gnomes,Common,2,3,2,Your Mechs cost (1) less.,Neutral
+GVG_103,Micro Machine,Minion,Goblins vs Gnomes,Common,2,2,1,At the start of each turn  gain +1 Attack.,Neutral
+GVG_018,Mistress of Pain,Minion,Goblins vs Gnomes,Rare,2,4,1,Whenever this minion deals damage  restore that much Health to your hero.,Warlock
+GVG_025,One-eyed Cheat,Minion,Goblins vs Gnomes,Rare,2,1,4,Whenever you summon a Pirate  gain <b>Stealth</b>.,Rogue
+GVG_064,Puddlestomper,Minion,Goblins vs Gnomes,Common,2,2,3,,Neutral
+GVG_108,Recombobulator,Minion,Goblins vs Gnomes,Epic,2,2,3,<b>Battlecry:</b> Transform a friendly minion into a random minion with the same Cost.,Neutral
+GVG_072,Shadowboxer,Minion,Goblins vs Gnomes,Rare,2,3,2,Whenever a character is healed  deal 1 damage to a random enemy.,Priest
+GVG_058,Shielded Minibot,Minion,Goblins vs Gnomes,Common,2,2,2,<b>Divine Shield</b>,Paladin
+GVG_075,Ship's Cannon,Minion,Goblins vs Gnomes,Common,2,3,2,After you summon a Pirate  deal 2 damage to a random enemy.,Neutral
+GVG_011,Shrinkmeister,Minion,Goblins vs Gnomes,Common,2,2,3,<b>Battlecry:</b> Give a minion -2 Attack this turn.,Priest
+GVG_002,Snowchugger,Minion,Goblins vs Gnomes,Common,2,3,2,<b>Freeze</b> any character damaged by this minion.,Mage
+GVG_087,Steamwheedle Sniper,Minion,Goblins vs Gnomes,Epic,2,3,2,Your Hero Power can target minions.,Hunter
+GVG_067,Stonesplinter Trogg,Minion,Goblins vs Gnomes,Common,2,3,2,Whenever your opponent casts a spell  gain +1 Attack.,Neutral
+GVG_039,Vitality Totem,Minion,Goblins vs Gnomes,Rare,2,3,0,At the end of your turn  restore 4 Health to your hero.,Shaman
+GVG_037,Whirling Zap-o-matic,Minion,Goblins vs Gnomes,Common,2,2,3,<b>Windfury</b>,Shaman
+GVG_084,Flying Machine,Minion,Goblins vs Gnomes,Common,3,4,1,<b>Windfury</b>,Neutral
+GVG_098,Gnomeregan Infantry,Minion,Goblins vs Gnomes,Common,3,4,1,<b>Charge</b> <b>Taunt</b>,Neutral
+GVG_092,Gnomish Experimenter,Minion,Goblins vs Gnomes,Rare,3,2,3,<b>Battlecry:</b> Draw a card. If it's a minion  transform it into a Chicken.,Neutral
+GVG_095,Goblin Sapper,Minion,Goblins vs Gnomes,Rare,3,4,2,Has +4 Attack while your opponent has 6 or more cards in hand.,Neutral
+GVG_032,Grove Tender,Minion,Goblins vs Gnomes,Rare,3,4,2,<b>Choose One -</b> Give each player a Mana Crystal; or Each player draws a card.,Druid
+GVG_104,Hobgoblin,Minion,Goblins vs Gnomes,Epic,3,3,2,Whenever you play a 1-Attack minion  give it +2/+2.,Neutral
+GVG_089,Illuminator,Minion,Goblins vs Gnomes,Rare,3,4,2,If you control a <b>Secret</b> at the end of your turn  restore 4 Health to your hero.,Neutral
+GVG_027,Iron Sensei,Minion,Goblins vs Gnomes,Rare,3,2,2,At the end of your turn  give another friendly Mech +2/+2.,Rogue
+GVG_097,Lil' Exorcist,Minion,Goblins vs Gnomes,Rare,3,3,2,<b>Taunt</b> <b>Battlecry:</b> Gain +1/+1 for each enemy <b>Deathrattle</b> minion.,Neutral
+GVG_048,Metaltooth Leaper,Minion,Goblins vs Gnomes,Rare,3,3,3,<b>Battlecry:</b> Give your other Mechs +2 Attack.,Hunter
+GVG_065,Ogre Brute,Minion,Goblins vs Gnomes,Common,3,4,4,50% chance to attack the wrong enemy.,Neutral
+GVG_101,Scarlet Purifier,Minion,Goblins vs Gnomes,Rare,3,3,4,<b>Battlecry:</b> Deal 2 damage to all minions with <b>Deathrattle</b>.,Paladin
+GVG_123,Soot Spewer,Minion,Goblins vs Gnomes,Rare,3,3,3,<b>Spell Damage +1</b>,Mage
+GVG_044,Spider Tank,Minion,Goblins vs Gnomes,Common,3,4,3,,Neutral
+GVG_102,Tinkertown Technician,Minion,Goblins vs Gnomes,Common,3,3,3,<b>Battlecry:</b> If you have a Mech  gain +1/+1 and add a <b>Spare Part</b> to your hand.,Neutral
+GVG_091,Arcane Nullifier X-21,Minion,Goblins vs Gnomes,Rare,4,5,2,<b>Taunt</b> Can't be targeted by spells or Hero Powers.,Neutral
+GVG_068,Burly Rockjaw Trogg,Minion,Goblins vs Gnomes,Common,4,5,3,Whenever your opponent casts a spell  gain +2 Attack.,Neutral
+GVG_066,Dunemaul Shaman,Minion,Goblins vs Gnomes,Rare,4,4,5,<b>Windfury  Overload:</b> (1) 50% chance to attack the wrong enemy.,Shaman
+GVG_107,Enhance-o Mechano,Minion,Goblins vs Gnomes,Epic,4,2,3,<b>Battlecry:</b> Give your other minions <b>Windfury</b>  <b>Taunt</b>  or <b>Divine Shield</b> <i>(at random)</i>.,Neutral
+GVG_020,Fel Cannon,Minion,Goblins vs Gnomes,Rare,4,5,3,At the end of your turn  deal 2 damage to a non-Mech minion.,Warlock
+GVG_004,Goblin Blastmage,Minion,Goblins vs Gnomes,Rare,4,4,5,<b>Battlecry:</b> If you have a Mech  deal 4 damage randomly split among all enemies.,Mage
+GVG_094,Jeeves,Minion,Goblins vs Gnomes,Rare,4,4,1,At the end of each player's turn  that player draws until they have 3 cards.,Neutral
+GVG_074,Kezan Mystic,Minion,Goblins vs Gnomes,Rare,4,3,4,<b>Battlecry:</b> Take control of a random enemy <b>Secret</b>.,Neutral
+GVG_071,Lost Tallstrider,Minion,Goblins vs Gnomes,Common,4,4,5,,Neutral
+GVG_078,Mechanical Yeti,Minion,Goblins vs Gnomes,Common,4,5,4,<b>Deathrattle:</b> Give each player a <b>Spare Part.</b>,Neutral
+GVG_109,Mini-Mage,Minion,Goblins vs Gnomes,Epic,4,1,4,<b>Stealth</b> <b>Spell Damage +1</b>,Neutral
+GVG_096,Piloted Shredder,Minion,Goblins vs Gnomes,Common,4,3,4,<b>Deathrattle:</b> Summon a random 2-Cost minion.,Neutral
+GVG_055,Screwjank Clunker,Minion,Goblins vs Gnomes,Rare,4,5,2,<b>Battlecry:</b> Give a friendly Mech +2/+2.,Warrior
+GVG_040,Siltfin Spiritwalker,Minion,Goblins vs Gnomes,Epic,4,5,2,Whenever another friendly Murloc dies  draw a card. <b><b>Overload</b>:</b> (1),Shaman
+GVG_122,Wee Spellstopper,Minion,Goblins vs Gnomes,Epic,4,5,2,Adjacent minions can't be targeted by spells or Hero Powers.,Mage
+GVG_069,Antique Healbot,Minion,Goblins vs Gnomes,Common,5,3,3,<b>Battlecry:</b> Restore 8 Health to your hero.,Neutral
+GVG_119,Blingtron 3000,Minion,Goblins vs Gnomes,Legendary,5,4,3,<b>Battlecry:</b> Equip a random weapon for each player.,Neutral
+GVG_063,Bolvar Fordragon,Minion,Goblins vs Gnomes,Legendary,5,7,1,Whenever a friendly minion dies while this is in your hand  gain +1 Attack.,Paladin
+GVG_099,Bomb Lobber,Minion,Goblins vs Gnomes,Rare,5,3,3,<b>Battlecry:</b> Deal 4 damage to a random enemy minion.,Neutral
+GVG_062,Cobalt Guardian,Minion,Goblins vs Gnomes,Rare,5,3,6,Whenever you summon a Mech  gain <b>Divine Shield</b>.,Paladin
+GVG_080,Druid of the Fang,Minion,Goblins vs Gnomes,Common,5,4,4,<b>Battlecry:</b> If you have a Beast  transform this minion into a 7/7.,Druid
+GVG_016,Fel Reaver,Minion,Goblins vs Gnomes,Epic,5,8,8,Whenever your opponent plays a card  remove the top 3 cards of your deck.,Neutral
+GVG_100,Floating Watcher,Minion,Goblins vs Gnomes,Common,5,4,4,Whenever your hero takes damage on your turn  gain +2/+2.,Warlock
+GVG_120,Hemet Nesingwary,Minion,Goblins vs Gnomes,Legendary,5,3,6,<b>Battlecry:</b> Destroy a Beast.,Neutral
+GVG_106,Junkbot,Minion,Goblins vs Gnomes,Epic,5,5,1,Whenever a friendly Mech dies  gain +2/+2.,Neutral
+GVG_046,King of Beasts,Minion,Goblins vs Gnomes,Rare,5,6,2,<b>Taunt</b>. <b>Battlecry:</b> Gain +1 Attack for each other Beast you have.,Hunter
+GVG_090,Madder Bomber,Minion,Goblins vs Gnomes,Rare,5,4,5,<b>Battlecry:</b> Deal 6 damage randomly split between all other characters.,Neutral
+GVG_111,Mimiron's Head,Minion,Goblins vs Gnomes,Legendary,5,5,4,At the start of your turn  if you have at least 3 Mechs  destroy them all and form V-07-TR-0N.,Neutral
+GVG_088,Ogre Ninja,Minion,Goblins vs Gnomes,Rare,5,6,6,<b>Stealth</b> 50% chance to attack the wrong enemy.,Rogue
+GVG_060,Quartermaster,Minion,Goblins vs Gnomes,Epic,5,5,2,<b>Battlecry:</b> Give your Silver Hand Recruits +2/+2.,Paladin
+GVG_070,Salty Dog,Minion,Goblins vs Gnomes,Common,5,4,7,,Neutral
+GVG_086,Siege Engine,Minion,Goblins vs Gnomes,Rare,5,5,5,Whenever you gain Armor  give this minion +1 Attack.,Warrior
+GVG_083,Upgraded Repair Bot,Minion,Goblins vs Gnomes,Rare,5,5,5,<b>Battlecry:</b> Give a friendly Mech +4 Health.,Priest
+GVG_014,Vol'jin,Minion,Goblins vs Gnomes,Legendary,5,2,6,<b>Battlecry:</b> Swap Health with another minion.,Priest
+GVG_077,Anima Golem,Minion,Goblins vs Gnomes,Epic,6,9,9,At the end of each turn  destroy this minion if it's your only one.,Warlock
+GVG_117,Gazlowe,Minion,Goblins vs Gnomes,Legendary,6,6,3,Whenever you cast a 1-mana spell  add a random Mech to your hand.,Neutral
+GVG_056,Iron Juggernaut,Minion,Goblins vs Gnomes,Legendary,6,5,6,<b>Battlecry:</b> Shuffle a Mine into your opponent's deck. When drawn  it explodes for 10 damage.,Warrior
+GVG_034,Mech-Bear-Cat,Minion,Goblins vs Gnomes,Rare,6,6,7,Whenever this minion takes damage  add a <b>Spare Part</b> card to your hand.,Druid
+GVG_112,Mogor the Ogre,Minion,Goblins vs Gnomes,Legendary,6,6,7,All minions have a 50% chance to attack the wrong enemy.,Neutral
+GVG_105,Piloted Sky Golem,Minion,Goblins vs Gnomes,Epic,6,4,6,<b>Deathrattle:</b> Summon a random 4-Cost minion.,Neutral
+GVG_053,Shieldmaiden,Minion,Goblins vs Gnomes,Rare,6,5,5,<b>Battlecry:</b> Gain 5 Armor.,Warrior
+GVG_115,Toshley,Minion,Goblins vs Gnomes,Legendary,6,7,5,<b>Battlecry and Deathrattle:</b> Add a <b>Spare Part</b> card to your hand.,Neutral
+GVG_028,Trade Prince Gallywix,Minion,Goblins vs Gnomes,Legendary,6,8,5,Whenever your opponent casts a spell  gain a copy of it and give them a Coin.,Rogue
+GVG_110,Dr. Boom,Minion,Goblins vs Gnomes,Legendary,7,7,7,<b>Battlecry:</b> Summon two 1/1 Boom Bots. <i>WARNING: Bots may explode.</i>,Neutral
+GVG_007,Flame Leviathan,Minion,Goblins vs Gnomes,Legendary,7,7,7,When you draw this  deal 2 damage to all characters.,Mage
+GVG_049,Gahz'rilla,Minion,Goblins vs Gnomes,Legendary,7,9,6,Whenever this minion takes damage  double its Attack.,Hunter
+GVG_035,Malorne,Minion,Goblins vs Gnomes,Legendary,7,7,9,<b>Deathrattle:</b> Shuffle this minion into your deck.,Druid
+GVG_042,Neptulon,Minion,Goblins vs Gnomes,Legendary,7,7,7,<b>Battlecry:</b> Add 4 random Murlocs to your hand. <b>Overload:</b> (3),Shaman
+GVG_118,Troggzor the Earthinator,Minion,Goblins vs Gnomes,Legendary,7,6,6,Whenever your opponent casts a spell  summon a Burly Rockjaw Trogg.,Neutral
+GVG_113,Foe Reaper 4000,Minion,Goblins vs Gnomes,Legendary,8,9,6,Also damages the minions next to whomever it attacks.,Neutral
+GVG_079,Force-Tank MAX,Minion,Goblins vs Gnomes,Common,8,7,7,<b>Divine Shield</b>,Neutral
+GVG_114,Sneed's Old Shredder,Minion,Goblins vs Gnomes,Legendary,8,7,5,<b>Deathrattle:</b> Summon a random <b>Legendary</b> minion.,Neutral
+GVG_111t,V-07-TR-0N,Minion,Goblins vs Gnomes,Legendary,8,8,4,<b>Charge</b> <b>Mega-Windfury</b> <i>(Can attack four times a turn.)</i>,Neutral
+GVG_021,Mal'Ganis,Minion,Goblins vs Gnomes,Legendary,9,7,9,Your other Demons have +2/+2. Your hero is <b>Immune</b>.,Warlock
+GVG_116,Mekgineer Thermaplugg,Minion,Goblins vs Gnomes,Legendary,9,7,9,Whenever an enemy minion dies  summon a Leper Gnome.,Neutral
+GVG_121,Clockwork Giant,Minion,Goblins vs Gnomes,Epic,12,8,8,Costs (1) less for each card in your opponent's hand.,Neutral
+EX1_345t,Shadow of Nothing,Minion,Classic,Epic,0,1,0,Mindgames whiffed! Your opponent had no minions!,Priest
+CS2_231,Wisp,Minion,Classic,Common,0,1,1,,Neutral
+CS2_188,Abusive Sergeant,Minion,Classic,Common,1,1,1,<b>Battlecry:</b> Give a minion +2_Attack this turn.,Neutral
+EX1_009,Angry Chicken,Minion,Classic,Rare,1,1,1,<b>Enrage:</b> +5 Attack.,Neutral
+EX1_008,Argent Squire,Minion,Classic,Common,1,1,1,<b>Divine Shield</b>,Neutral
+CS2_059,Blood Imp,Minion,Classic,Common,1,1,0,<b>Stealth</b>. At the end of your turn  give another random friendly minion +1 Health.,Warlock
+NEW1_025,Bloodsail Corsair,Minion,Classic,Rare,1,2,1,<b>Battlecry:</b> Remove 1 Durability from your opponent's weapon.,Neutral
+skele21,Damaged Golem,Minion,Classic,Common,1,1,2,,Neutral
+EX1_130a,Defender,Minion,Classic,Common,1,1,2,,Paladin
+EX1_243,Dust Devil,Minion,Classic,Common,1,1,3,<b>Windfury</b>. <b>Overload:</b> (2),Shaman
+EX1_319,Flame Imp,Minion,Classic,Common,1,2,3,<b>Battlecry:</b> Deal 3 damage to your hero.,Warlock
+NEW1_017,Hungry Crab,Minion,Classic,Epic,1,2,1,<b>Battlecry:</b> Destroy a Murloc and gain +2/+2.,Neutral
+EX1_029,Leper Gnome,Minion,Classic,Common,1,1,1,<b>Deathrattle:</b> Deal 2 damage to the enemy hero.,Neutral
+EX1_001,Lightwarden,Minion,Classic,Rare,1,2,1,Whenever a character is healed  gain +2 Attack.,Neutral
+NEW1_012,Mana Wyrm,Minion,Classic,Common,1,3,1,Whenever you cast a spell  gain +1 Attack.,Mage
+EX1_509,Murloc Tidecaller,Minion,Classic,Rare,1,2,1,Whenever you summon a Murloc  gain +1 Attack.,Neutral
+EX1_080,Secretkeeper,Minion,Classic,Rare,1,2,1,Whenever a <b>Secret</b> is played  gain +1/+1.,Neutral
+EX1_405,Shieldbearer,Minion,Classic,Common,1,4,0,<b>Taunt</b>,Neutral
+EX1_554t,Snake,Minion,Classic,Common,1,1,1,,Hunter
+CS2_146,Southsea Deckhand,Minion,Classic,Common,1,1,2,Has <b>Charge</b> while you have a weapon equipped.,Neutral
+tt_010a,Spellbender,Minion,Classic,Epic,1,3,1,,Mage
+CS2_152,Squire,Minion,Classic,Common,1,2,2,,Neutral
+EX1_tk28,Squirrel,Minion,Classic,Common,1,1,1,,Neutral
+EX1_010,Worgen Infiltrator,Minion,Classic,Common,1,1,2,<b>Stealth</b>,Neutral
+EX1_317t,Worthless Imp,Minion,Classic,Common,1,1,1,<i>You are out of demons! At least there are always imps...</i>,Warlock
+CS2_169,Young Dragonhawk,Minion,Classic,Common,1,1,1,<b>Windfury</b>,Neutral
+EX1_004,Young Priestess,Minion,Classic,Rare,1,1,2,At the end of your turn  give another random friendly minion +1 Health.,Neutral
+EX1_393,Amani Berserker,Minion,Classic,Common,2,3,2,<b>Enrage:</b> +3 Attack,Neutral
+EX1_045,Ancient Watcher,Minion,Classic,Rare,2,5,4,Can't attack.,Neutral
+EX1_362,Argent Protector,Minion,Classic,Common,2,2,2,<b>Battlecry:</b> Give a friendly minion <b>Divine Shield</b>.,Paladin
+EX1_402,Armorsmith,Minion,Classic,Rare,2,4,1,Whenever a friendly minion takes damage  gain 1 Armor.,Warrior
+EX1_012,Bloodmage Thalnos,Minion,Classic,Legendary,2,1,1,<b>Spell Damage +1</b>. <b>Deathrattle:</b> Draw a card.,Neutral
+NEW1_018,Bloodsail Raider,Minion,Classic,Common,2,3,2,<b>Battlecry:</b> Gain Attack equal to the Attack of your weapon.,Neutral
+EX1_059,Crazed Alchemist,Minion,Classic,Rare,2,2,2,<b>Battlecry:</b> Swap the Attack and Health of a minion.,Neutral
+EX1_603,Cruel Taskmaster,Minion,Classic,Common,2,2,2,<b>Battlecry:</b> Deal 1 damage to a minion and give it +2 Attack.,Warrior
+EX1_131,Defias Ringleader,Minion,Classic,Common,2,2,2,<b>Combo:</b> Summon a 2/1 Defias Bandit.,Rogue
+EX1_162,Dire Wolf Alpha,Minion,Classic,Common,2,2,2,Adjacent minions have +1 Attack.,Neutral
+NEW1_021,Doomsayer,Minion,Classic,Epic,2,7,0,At the start of your turn  destroy ALL minions.,Neutral
+NEW1_023,Faerie Dragon,Minion,Classic,Common,2,2,3,Can't be targeted by spells or Hero Powers.,Neutral
+EX1_534t,Hyena,Minion,Classic,Rare,2,2,2,,Hunter
+NEW1_019,Knife Juggler,Minion,Classic,Rare,2,2,2,After you summon a minion  deal 1 damage to a random enemy.,Neutral
+EX1_341,Lightwell,Minion,Classic,Rare,2,5,0,At the start of your turn  restore 3 Health to a damaged friendly character.,Priest
+EX1_096,Loot Hoarder,Minion,Classic,Common,2,1,2,<b>Deathrattle:</b> Draw a card.,Neutral
+EX1_100,Lorewalker Cho,Minion,Classic,Legendary,2,4,0,Whenever a player casts a spell  put a copy into the other player’s hand.,Neutral
+EX1_082,Mad Bomber,Minion,Classic,Common,2,2,3,<b>Battlecry:</b> Deal 3 damage randomly split between all other characters.,Neutral
+EX1_055,Mana Addict,Minion,Classic,Rare,2,3,1,Whenever you cast a spell  gain +2 Attack this turn.,Neutral
+EX1_616,Mana Wraith,Minion,Classic,Rare,2,2,2,ALL minions cost (1) more.,Neutral
+NEW1_037,Master Swordsmith,Minion,Classic,Rare,2,3,1,At the end of your turn  give another random friendly minion +1 Attack.,Neutral
+NEW1_029,Millhouse Manastorm,Minion,Classic,Legendary,2,4,4,<b>Battlecry:</b> Enemy spells cost (0) next turn.,Neutral
+EX1_557,Nat Pagle,Minion,Classic,Legendary,2,4,0,At the start of your turn  you have a 50% chance to draw an extra card.,Neutral
+EX1_160t,Panther,Minion,Classic,Common,2,2,3,,Druid
+EX1_522,Patient Assassin,Minion,Classic,Epic,2,1,1,<b>Stealth</b>. Destroy any minion damaged by this minion.,Rogue
+EX1_076,Pint-Sized Summoner,Minion,Classic,Rare,2,2,2,The first minion you play each turn costs (1) less.,Neutral
+EX1_531,Scavenging Hyena,Minion,Classic,Common,2,2,2,Whenever a friendly Beast dies  gain +2/+1.,Hunter
+EX1_608,Sorcerer's Apprentice,Minion,Classic,Common,2,2,3,Your spells cost (1) less.,Mage
+EX1_tk11,Spirit Wolf,Minion,Classic,Rare,2,3,2,<b>Taunt</b>,Shaman
+EX1_058,Sunfury Protector,Minion,Classic,Rare,2,3,2,<b>Battlecry:</b> Give adjacent minions <b>Taunt</b>.,Neutral
+EX1_tk9,Treant,Minion,Classic,Common,2,2,2,,Druid
+NEW1_020,Wild Pyromancer,Minion,Classic,Rare,2,2,3,After you cast a spell  deal 1 damage to ALL minions.,Neutral
+EX1_049,Youthful Brewmaster,Minion,Classic,Common,2,2,3,<b>Battlecry:</b> Return a friendly minion from the battlefield to your hand.,Neutral
+EX1_007,Acolyte of Pain,Minion,Classic,Common,3,3,1,Whenever this minion takes damage  draw a card.,Neutral
+EX1_006,Alarm-o-Bot,Minion,Classic,Rare,3,3,0,At the start of your turn  swap this minion with a random one in your hand.,Neutral
+EX1_382,Aldor Peacekeeper,Minion,Classic,Rare,3,3,3,<b>Battlecry:</b> Change an enemy minion's Attack to 1.,Paladin
+EX1_089,Arcane Golem,Minion,Classic,Rare,3,4,4,<b>Battlecry:</b> Give your opponent a Mana Crystal.,Neutral
+EX1_590,Blood Knight,Minion,Classic,Epic,3,3,3,<b>Battlecry:</b> All minions lose <b>Divine Shield</b>. Gain +3/+3 for each Shield lost.,Neutral
+EX1_050,Coldlight Oracle,Minion,Classic,Rare,3,2,2,<b>Battlecry:</b> Each player draws 2 cards.,Neutral
+EX1_103,Coldlight Seer,Minion,Classic,Rare,3,3,2,<b>Battlecry:</b> Give your other Murlocs +2 Health.,Neutral
+EX1_102,Demolisher,Minion,Classic,Rare,3,4,1,At the start of your turn  deal 2 damage to a random enemy.,Neutral
+CS2_117,Earthen Ring Farseer,Minion,Classic,Common,3,3,3,<b>Battlecry:</b> Restore 3 Health.,Neutral
+EX1_613,Edwin VanCleef,Minion,Classic,Legendary,3,2,2,<b>Combo:</b> Gain +2/+2 for each card played earlier this turn.,Rogue
+EX1_170,Emperor Cobra,Minion,Classic,Rare,3,3,2,Destroy any minion damaged by this minion.,Neutral
+EX1_301,Felguard,Minion,Classic,Rare,3,5,3,<b>Taunt</b>. <b>Battlecry:</b> Destroy one of your Mana Crystals.,Warlock
+EX1_finkle,Finkle Einhorn,Minion,Classic,Legendary,3,3,3,,Neutral
+tt_004,Flesheating Ghoul,Minion,Classic,Common,3,3,2,Whenever a minion dies  gain +1 Attack.,Neutral
+EX1_604,Frothing Berserker,Minion,Classic,Rare,3,4,2,Whenever a minion takes damage  gain +1 Attack.,Warrior
+EX1_556,Harvest Golem,Minion,Classic,Common,3,3,2,<b>Deathrattle:</b> Summon a 2/1 Damaged Golem.,Neutral
+EX1_597,Imp Master,Minion,Classic,Rare,3,5,1,At the end of your turn  deal 1 damage to this minion and summon a 1/1 Imp.,Neutral
+CS2_181,Injured Blademaster,Minion,Classic,Rare,3,7,4,<b>Battlecry:</b> Deal 4 damage to HIMSELF.,Neutral
+CS2_203,Ironbeak Owl,Minion,Classic,Common,3,1,2,<b>Battlecry:</b> <b>Silence</b> a minion.,Neutral
+EX1_017,Jungle Panther,Minion,Classic,Common,3,2,4,<b>Stealth</b>,Neutral
+EX1_014,King Mukla,Minion,Classic,Legendary,3,5,5,<b>Battlecry:</b> Give your opponent 2 Bananas.,Neutral
+EX1_612,Kirin Tor Mage,Minion,Classic,Rare,3,3,4,<b>Battlecry:</b> The next <b>Secret</b> you play this turn costs (0).,Mage
+EX1_575,Mana Tide Totem,Minion,Classic,Rare,3,3,0,At the end of your turn  draw a card.,Shaman
+EX1_085,Mind Control Tech,Minion,Classic,Rare,3,3,3,<b>Battlecry:</b> If your opponent has 4 or more minions  take control of one at random.,Neutral
+EX1_507,Murloc Warleader,Minion,Classic,Epic,3,3,3,Your other Murlocs have +2/+1.,Neutral
+EX1_044,Questing Adventurer,Minion,Classic,Rare,3,2,2,Whenever you play a card  gain +1/+1.,Neutral
+EX1_412,Raging Worgen,Minion,Classic,Common,3,3,3,<b>Enrage:</b> <b>Windfury</b> and +1 Attack,Neutral
+EX1_020,Scarlet Crusader,Minion,Classic,Common,3,1,3,<b>Divine Shield</b>,Neutral
+EX1_134,SI:7 Agent,Minion,Classic,Rare,3,3,3,<b>Combo:</b> Deal 2 damage.,Rogue
+NEW1_027,Southsea Captain,Minion,Classic,Epic,3,3,3,Your other Pirates have +1/+1.,Neutral
+EX1_390,Tauren Warrior,Minion,Classic,Common,3,3,2,<b>Taunt</b>. <b>Enrage:</b> +3 Attack,Neutral
+EX1_021,Thrallmar Farseer,Minion,Classic,Common,3,3,2,<b>Windfury</b>,Neutral
+EX1_083,Tinkmaster Overspark,Minion,Classic,Legendary,3,3,3,<b>Battlecry:</b> Transform another random minion into a 5/5 Devilsaur or a 1/1 Squirrel.,Neutral
+EX1_258,Unbound Elemental,Minion,Classic,Common,3,4,2,Whenever you play a card with <b>Overload</b>  gain +1/+1.,Shaman
+EX1_304,Void Terror,Minion,Classic,Rare,3,3,3,<b>Battlecry:</b> Destroy the minions on either side of this minion and gain their Attack and Health.,Warlock
+EX1_057,Ancient Brewmaster,Minion,Classic,Common,4,4,5,<b>Battlecry:</b> Return a friendly minion from the battlefield to your hand.,Neutral
+EX1_584,Ancient Mage,Minion,Classic,Rare,4,5,2,<b>Battlecry:</b> Give adjacent minions <b>Spell Damage +1</b>.,Neutral
+EX1_398,Arathi Weaponsmith,Minion,Classic,Common,4,3,3,<b>Battlecry:</b> Equip a 2/2 weapon.,Warrior
+EX1_591,Auchenai Soulpriest,Minion,Classic,Rare,4,5,3,Your cards and powers that restore Health now deal damage instead.,Priest
+EX1_110t,Baine Bloodhoof,Minion,Classic,Legendary,4,5,4,,Neutral
+EX1_595,Cult Master,Minion,Classic,Common,4,2,4,Whenever one of your other minions dies  draw a card.,Neutral
+EX1_046,Dark Iron Dwarf,Minion,Classic,Common,4,4,4,<b>Battlecry:</b> Give a minion +2 Attack this turn.,Neutral
+EX1_093,Defender of Argus,Minion,Classic,Rare,4,3,2,<b>Battlecry:</b> Give adjacent minions +1/+1 and <b>Taunt</b>.,Neutral
+NEW1_022,Dread Corsair,Minion,Classic,Common,4,3,3,<b>Taunt.</b> Costs (1) less per Attack of your weapon.,Neutral
+EX1_274,Ethereal Arcanist,Minion,Classic,Rare,4,3,3,If you control a <b>Secret</b> at the end of your turn  gain +2/+2.,Mage
+EX1_166,Keeper of the Grove,Minion,Classic,Rare,4,2,2,<b>Choose One</b> - Deal 2 damage; or <b>Silence</b> a minion.,Druid
+EX1_335,Lightspawn,Minion,Classic,Common,4,5,0,This minion's Attack is always equal to its Health.,Priest
+NEW1_014,Master of Disguise,Minion,Classic,Rare,4,4,4,<b>Battlecry:</b> Give a friendly minion <b>Stealth</b> until your next turn.,Rogue
+EX1_396,Mogu'shan Warden,Minion,Classic,Common,4,7,1,<b>Taunt</b>,Neutral
+EX1_313,Pit Lord,Minion,Classic,Epic,4,6,5,<b>Battlecry:</b> Deal 5 damage to your hero.,Warlock
+EX1_023,Silvermoon Guardian,Minion,Classic,Common,4,3,3,<b>Divine Shield</b>,Neutral
+EX1_048,Spellbreaker,Minion,Classic,Common,4,3,4,<b>Battlecry:</b> <b>Silence</b> a minion.,Neutral
+EX1_315,Summoning Portal,Minion,Classic,Common,4,4,0,Your minions cost (2) less  but not less than (1).,Warlock
+EX1_043,Twilight Drake,Minion,Classic,Rare,4,1,4,<b>Battlecry:</b> Gain +1 Health for each card in your hand.,Neutral
+NEW1_026,Violet Teacher,Minion,Classic,Rare,4,5,3,Whenever you cast a spell  summon a 1/1 Violet Apprentice.,Neutral
+EX1_097,Abomination,Minion,Classic,Rare,5,4,4,<b>Taunt</b>. <b>Deathrattle:</b> Deal 2 damage to ALL characters.,Neutral
+EX1_284,Azure Drake,Minion,Classic,Rare,5,4,4,<b>Spell Damage +1</b>. <b>Battlecry:</b> Draw a card.,Neutral
+EX1_005,Big Game Hunter,Minion,Classic,Epic,5,2,4,<b>Battlecry:</b> Destroy a minion with an Attack of 7 or more.,Neutral
+NEW1_024,Captain Greenskin,Minion,Classic,Legendary,5,4,5,<b>Battlecry:</b> Give your weapon +1/+1.,Neutral
+EX1_tk29,Devilsaur,Minion,Classic,Common,5,5,5,,Neutral
+EX1_310,Doomguard,Minion,Classic,Rare,5,7,5,<b>Charge</b>. <b>Battlecry:</b> Discard two random cards.,Warlock
+OG_044a,Druid of the Claw,Minion,Classic,Common,5,6,4,<b>Charge</b> <b>Taunt</b>,Druid
+EX1_165,Druid of the Claw,Minion,Classic,Common,5,4,4,<b>Choose One -</b> <b>Charge</b>; or +2 Health and <b>Taunt</b>.,Druid
+EX1_165t1,Druid of the Claw,Minion,Classic,Common,5,4,4,<b>Charge</b>,Druid
+EX1_165t2,Druid of the Claw,Minion,Classic,Common,5,6,4,<b>Taunt</b>,Druid
+EX1_250,Earth Elemental,Minion,Classic,Epic,5,8,7,<b>Taunt</b>. <b>Overload:</b> (3),Shaman
+EX1_564,Faceless Manipulator,Minion,Classic,Epic,5,3,3,<b>Battlecry:</b> Choose a minion and become a copy of it.,Neutral
+CS1_069,Fen Creeper,Minion,Classic,Common,5,6,3,<b>Taunt</b>,Neutral
+EX1_558,Harrison Jones,Minion,Classic,Legendary,5,4,5,<b>Battlecry:</b> Destroy your opponent's weapon and draw cards equal to its Durability.,Neutral
+EX1_116,Leeroy Jenkins,Minion,Classic,Legendary,5,2,6,<b>Charge</b>. <b>Battlecry:</b> Summon two 1/1 Whelps for your opponent.,Neutral
+CS2_151,Silver Hand Knight,Minion,Classic,Common,5,4,4,<b>Battlecry:</b> Summon a 2/2 Squire.,Neutral
+CS2_221,Spiteful Smith,Minion,Classic,Common,5,6,4,<b>Enrage:</b> Your weapon has +2 Attack.,Neutral
+NEW1_041,Stampeding Kodo,Minion,Classic,Rare,5,5,3,<b>Battlecry:</b> Destroy a random enemy minion with 2 or less Attack.,Neutral
+EX1_028,Stranglethorn Tiger,Minion,Classic,Common,5,5,5,<b>Stealth</b>,Neutral
+CS2_227,Venture Co. Mercenary,Minion,Classic,Common,5,6,7,Your minions cost (3) more.,Neutral
+EX1_067,Argent Commander,Minion,Classic,Rare,6,2,4,<b>Charge</b> <b>Divine Shield</b>,Neutral
+EX1_091,Cabal Shadow Priest,Minion,Classic,Epic,6,5,4,<b>Battlecry:</b> Take control of an enemy minion that has 2 or less Attack.,Priest
+EX1_110,Cairne Bloodhoof,Minion,Classic,Legendary,6,5,4,<b>Deathrattle:</b> Summon a 4/5 Baine Bloodhoof.,Neutral
+EX1_283,Frost Elemental,Minion,Classic,Common,6,5,5,<b>Battlecry:</b> <b>Freeze</b> a character.,Neutral
+EX1_095,Gadgetzan Auctioneer,Minion,Classic,Rare,6,4,4,Whenever you cast a spell  draw a card.,Neutral
+NEW1_040,Hogger,Minion,Classic,Legendary,6,4,4,At the end of your turn  summon a 2/2 Gnoll with <b>Taunt</b>.,Neutral
+EX1_614,Illidan Stormrage,Minion,Classic,Legendary,6,5,7,Whenever you play a card  summon a 2/1 Flame of Azzinoth.,Neutral
+EX1_tk34,Infernal,Minion,Classic,Common,6,6,6,,Warlock
+NEW1_005,Kidnapper,Minion,Classic,Epic,6,3,5,<b>Combo:</b> Return a minion to its owner's hand.,Rogue
+EX1_583,Priestess of Elune,Minion,Classic,Common,6,4,5,<b>Battlecry:</b> Restore 4 Health to your hero.,Neutral
+EX1_534,Savannah Highmane,Minion,Classic,Rare,6,5,6,<b>Deathrattle:</b> Summon two 2/2 Hyenas.,Hunter
+EX1_032,Sunwalker,Minion,Classic,Rare,6,5,4,<b>Taunt</b> <b>Divine Shield</b>,Neutral
+EX1_016,Sylvanas Windrunner,Minion,Classic,Legendary,6,5,5,<b>Deathrattle:</b> Take control of a random enemy minion.,Neutral
+EX1_623,Temple Enforcer,Minion,Classic,Common,6,6,6,<b>Battlecry:</b> Give a friendly minion +3 Health.,Priest
+EX1_577,The Beast,Minion,Classic,Legendary,6,7,9,<b>Deathrattle:</b> Summon a 3/3 Finkle Einhorn for your opponent.,Neutral
+EX1_002,The Black Knight,Minion,Classic,Legendary,6,5,4,<b>Battlecry:</b> Destroy an enemy minion with <b>Taunt</b>.,Neutral
+EX1_033,Windfury Harpy,Minion,Classic,Common,6,5,4,<b>Windfury</b>,Neutral
+NEW1_008,Ancient of Lore,Minion,Classic,Epic,7,5,5,<b>Choose One -</b> Draw a card; or Restore 5 Health.,Druid
+EX1_178,Ancient of War,Minion,Classic,Epic,7,5,5,<b>Choose One</b> - +5 Attack; or +5 Health and <b>Taunt</b>.,Druid
+EX1_559,Archmage Antonidas,Minion,Classic,Legendary,7,7,5,Whenever you cast a spell  add a 'Fireball' spell to your hand.,Mage
+EX1_249,Baron Geddon,Minion,Classic,Legendary,7,5,7,At the end of your turn  deal 2 damage to ALL other characters.,Neutral
+EX1_350,Prophet Velen,Minion,Classic,Legendary,7,7,7,Double the damage and healing of your spells and Hero Power.,Priest
+CS2_161,Ravenholdt Assassin,Minion,Classic,Rare,7,5,7,<b>Stealth</b>,Neutral
+NEW1_010,Al'Akir the Windlord,Minion,Classic,Legendary,8,5,3,<b>Windfury  Charge  Divine Shield  Taunt</b>,Shaman
+EX1_414,Grommash Hellscream,Minion,Classic,Legendary,8,9,4,<b>Charge</b> <b>Enrage:</b> +6 Attack,Warrior
+NEW1_038,Gruul,Minion,Classic,Legendary,8,7,7,At the end of each turn  gain +1/+1 .,Neutral
+EX1_298,Ragnaros the Firelord,Minion,Classic,Legendary,8,8,8,Can't attack. At the end of your turn  deal 8 damage to a random enemy.,Neutral
+EX1_383,Tirion Fordring,Minion,Classic,Legendary,8,6,6,<b>Divine Shield</b>. <b>Taunt</b>. <b>Deathrattle:</b> Equip a 5/3 Ashbringer.,Paladin
+EX1_561,Alexstrasza,Minion,Classic,Legendary,9,8,8,<b>Battlecry:</b> Set a hero's remaining Health to 15.,Neutral
+EX1_573,Cenarius,Minion,Classic,Legendary,9,8,5,<b>Choose One</b> - Give your other minions +2/+2; or Summon two 2/2 Treants with <b>Taunt</b>.,Druid
+EX1_543,King Krush,Minion,Classic,Legendary,9,8,8,<b>Charge</b>,Hunter
+EX1_323,Lord Jaraxxus,Minion,Classic,Legendary,9,15,3,<b>Battlecry:</b> Destroy your hero and replace it with Lord Jaraxxus.,Warlock
+EX1_563,Malygos,Minion,Classic,Legendary,9,12,4,<b>Spell Damage +5</b>,Neutral
+EX1_560,Nozdormu,Minion,Classic,Legendary,9,8,8,Players only have 15 seconds to take their turns.,Neutral
+EX1_562,Onyxia,Minion,Classic,Legendary,9,8,8,<b>Battlecry:</b> Summon 1/1 Whelps until your side of the battlefield is full.,Neutral
+EX1_572,Ysera,Minion,Classic,Legendary,9,12,4,At the end of your turn  add a Dream Card to your hand.,Neutral
+NEW1_030,Deathwing,Minion,Classic,Legendary,10,12,12,<b>Battlecry:</b> Destroy all other minions and discard your hand.,Neutral
+EX1_586,Sea Giant,Minion,Classic,Epic,10,8,8,Costs (1) less for each other minion on the battlefield.,Neutral
+EX1_105,Mountain Giant,Minion,Classic,Epic,12,8,8,Costs (1) less for each other card in your hand.,Neutral
+EX1_620,Molten Giant,Minion,Classic,Epic,25,8,8,Costs (1) less for each damage your hero has taken.,Neutral
+OG_195c,Wisp,Minion,Whispers of the Old Gods,Common,0,1,1,,Druid
+OG_070,Bladed Cultist,Minion,Whispers of the Old Gods,Common,1,2,1,<b>Combo:</b> Gain +1/+1.,Rogue
+OG_179,Fiery Bat,Minion,Whispers of the Old Gods,Common,1,1,2,<b>Deathrattle:</b> Deal 1 damage to a random enemy.,Hunter
+OG_051,Forbidden Ancient,Minion,Whispers of the Old Gods,Epic,1,1,1,<b>Battlecry:</b> Spend all your Mana. Gain +1/+1 for each mana spent.,Druid
+OG_312,N'Zoth's First Mate,Minion,Whispers of the Old Gods,Common,1,1,1,<b>Battlecry:</b> Equip a 1/3 Rusty Hook.,Warrior
+OG_156a,Ooze,Minion,Whispers of the Old Gods,Common,1,1,1,<b>Taunt</b>,Neutral
+OG_241,Possessed Villager,Minion,Whispers of the Old Gods,Common,1,1,1,<b>Deathrattle:</b> Summon a 1/1 Shadowbeast.,Warlock
+OG_221,Selfless Hero,Minion,Whispers of the Old Gods,Rare,1,1,2,<b>Deathrattle:</b> Give a random friendly minion <b>Divine Shield</b>.,Paladin
+OG_123,Shifter Zerus,Minion,Whispers of the Old Gods,Legendary,1,1,1,Each turn this is in your hand  transform it into a random minion.,Neutral
+OG_151,Tentacle of N'Zoth,Minion,Whispers of the Old Gods,Common,1,1,1,<b>Deathrattle:</b> Deal 1 damage to all minions.,Neutral
+OG_006,Vilefin Inquisitor,Minion,Whispers of the Old Gods,Epic,1,3,1,<b>Battlecry:</b> Your Hero Power becomes 'Summon a   1/1 Murloc.',Paladin
+OG_158,Zealous Initiate,Minion,Whispers of the Old Gods,Common,1,1,1,<b>Deathrattle:</b> Give a random friendly minion +1/+1.,Neutral
+OG_281,Beckoner of Evil,Minion,Whispers of the Old Gods,Common,2,3,2,<b>Battlecry:</b> Give your C'Thun +2/+2 <i>(wherever it is).</i>,Neutral
+OG_156,Bilefin Tidehunter,Minion,Whispers of the Old Gods,Common,2,1,2,<b>Battlecry:</b> Summon a 1/1 Ooze with <b>Taunt</b>.,Neutral
+OG_303,Cult Sorcerer,Minion,Whispers of the Old Gods,Rare,2,2,3,[x]<b><b>Spell Damage</b> +1</b> After you cast a spell  give your C'Thun +1/+1 <i>(wherever it is).</i>,Mage
+OG_109,Darkshire Librarian,Minion,Whispers of the Old Gods,Rare,2,2,3,<b>Battlecry:</b> Discard a random card. <b>Deathrattle:</b> Draw a card.,Warlock
+OG_326,Duskboar,Minion,Whispers of the Old Gods,Common,2,1,4,,Neutral
+OG_026,Eternal Sentinel,Minion,Whispers of the Old Gods,Epic,2,2,3,<b>Battlecry:</b> Unlock your <b>Overloaded</b> Mana Crystals.,Shaman
+OG_338,Nat  the Darkfisher,Minion,Whispers of the Old Gods,Legendary,2,4,2,At the start of your opponent's turn  they have a 50% chance to draw an extra card.,Neutral
+OG_284,Twilight Geomancer,Minion,Whispers of the Old Gods,Common,2,4,1,[x]<b>Taunt</b> <b>Battlecry:</b> Give your C'Thun <b>Taunt</b> <i>(wherever it is).</i>,Neutral
+OG_247,Twisted Worgen,Minion,Whispers of the Old Gods,Common,2,1,3,<b>Stealth</b>,Neutral
+OG_330,Undercity Huckster,Minion,Whispers of the Old Gods,Rare,2,2,2,<b>Deathrattle:</b> Add a random class card to your hand <i>(from your opponent's class)</i>.,Rogue
+OG_313,Addled Grizzly,Minion,Whispers of the Old Gods,Rare,3,2,2,After you summon a minion  give it +1/+1.,Druid
+OG_248,Am'gam Rager,Minion,Whispers of the Old Gods,Common,3,5,1,,Neutral
+OG_315,Bloodsail Cultist,Minion,Whispers of the Old Gods,Rare,3,4,3,<b>Battlecry:</b> If you control another Pirate  give your weapon +1/+1.,Warrior
+OG_325,Carrion Grub,Minion,Whispers of the Old Gods,Common,3,5,2,,Hunter
+OG_113,Darkshire Councilman,Minion,Whispers of the Old Gods,Common,3,5,1,After you summon a minion  gain +1 Attack.,Warlock
+OG_162,Disciple of C'Thun,Minion,Whispers of the Old Gods,Rare,3,1,2,<b>Battlecry:</b> Deal 2 damage. Give your C'Thun +2/+2 <i>(wherever it is)</i>.,Neutral
+OG_292,Forlorn Stalker,Minion,Whispers of the Old Gods,Rare,3,2,4,<b>Battlecry:</b> Give all <b>Deathrattle</b> minions in your hand +1/+1.,Hunter
+OG_149,Ravaging Ghoul,Minion,Whispers of the Old Gods,Common,3,3,3,<b>Battlecry:</b> Deal 1 damage to all other minions.,Warrior
+OG_034,Silithid Swarmer,Minion,Whispers of the Old Gods,Rare,3,5,3,Can only attack if your hero attacked this turn.,Neutral
+OG_256,Spawn of N'Zoth,Minion,Whispers of the Old Gods,Common,3,2,2,<b>Deathrattle:</b> Give your minions +1/+1.,Neutral
+OG_327,Squirming Tentacle,Minion,Whispers of the Old Gods,Common,3,4,2,<b>Taunt</b>,Neutral
+OG_310,Steward of Darkshire,Minion,Whispers of the Old Gods,Rare,3,3,3,Whenever you summon a 1-Health minion  give it <b>Divine Shield</b>.,Paladin
+OG_286,Twilight Elder,Minion,Whispers of the Old Gods,Common,3,4,3,At the end of your turn  give your C'Thun +1/+1 <i>(wherever it is).</i>,Neutral
+OG_031a,Twilight Elemental,Minion,Whispers of the Old Gods,Epic,3,2,4,,Shaman
+OG_083,Twilight Flamecaller,Minion,Whispers of the Old Gods,Common,3,2,2,<b>Battlecry:</b> Deal 1 damage to all enemy minions.,Mage
+OG_150,Aberrant Berserker,Minion,Whispers of the Old Gods,Common,4,5,3,<b>Enrage:</b> +2 Attack.,Neutral
+OG_322,Blackwater Pirate,Minion,Whispers of the Old Gods,Rare,4,5,2,Your weapons cost (2) less.,Neutral
+OG_218,Bloodhoof Brave,Minion,Whispers of the Old Gods,Common,4,6,2,<b>Taunt</b> <b>Enrage:</b> +3 Attack.,Warrior
+OG_283,C'Thun's Chosen,Minion,Whispers of the Old Gods,Common,4,2,4,[x]<b>Divine Shield</b> <b>Battlecry:</b> Give your C'Thun +2/+2 <i>(wherever it is).</i>,Neutral
+OG_337,Cyclopian Horror,Minion,Whispers of the Old Gods,Epic,4,3,3,<b>Taunt</b>. <b>Battlecry:</b> Gain      +1 Health for each enemy minion.,Neutral
+OG_085,Demented Frostcaller,Minion,Whispers of the Old Gods,Rare,4,4,2,After you cast a spell  <b>Freeze</b> a random enemy.,Mage
+OG_254,Eater of Secrets,Minion,Whispers of the Old Gods,Rare,4,4,2,<b>Battlecry:</b> Destroy all enemy <b>Secrets</b>. Gain +1/+1 for each.,Neutral
+OG_082,Evolved Kobold,Minion,Whispers of the Old Gods,Common,4,2,2,<b>Spell Damage +2</b>,Neutral
+OG_174,Faceless Shambler,Minion,Whispers of the Old Gods,Epic,4,1,1,<b>Taunt</b> <b>Battlecry:</b> Copy a friendly minion's Attack and Health.,Neutral
+OG_044,Fandral Staghelm,Minion,Whispers of the Old Gods,Legendary,4,5,3,Your <b>Choose One</b> cards have both effects combined.,Druid
+OG_024,Flamewreathed Faceless,Minion,Whispers of the Old Gods,Common,4,7,7,<b>Overload:</b> (2),Shaman
+OG_334,Hooded Acolyte,Minion,Whispers of the Old Gods,Common,4,6,3,Whenever a character is healed  give your C'Thun +1/+1 <i>(wherever it is).</i>,Priest
+OG_249,Infested Tauren,Minion,Whispers of the Old Gods,Common,4,3,2,<b>Taunt</b> <b>Deathrattle:</b> Summon a 2/2 Slime.,Neutral
+OG_216,Infested Wolf,Minion,Whispers of the Old Gods,Rare,4,3,3,<b>Deathrattle:</b> Summon two 1/1 Spiders.,Hunter
+OG_188,Klaxxi Amber-Weaver,Minion,Whispers of the Old Gods,Rare,4,5,4,<b>Battlecry:</b> If your C'Thun has at least 10 Attack  gain +5 Health.,Druid
+OG_328,Master of Evolution,Minion,Whispers of the Old Gods,Rare,4,5,4,<b>Battlecry:</b> Transform a friendly minion into a random one that costs (1) more.,Shaman
+OG_320,Midnight Drake,Minion,Whispers of the Old Gods,Rare,4,4,1,<b>Battlecry:</b> Gain +1 Attack for each other card in your hand.,Neutral
+OG_202,Mire Keeper,Minion,Whispers of the Old Gods,Rare,4,3,3,[x]<b>Choose One -</b>Summon a 2/2 Slime; or Gain an empty Mana Crystal.,Druid
+OG_323,Polluted Hoarder,Minion,Whispers of the Old Gods,Common,4,2,4,<b>Deathrattle:</b> Draw a card.,Neutral
+OG_335,Shifting Shade,Minion,Whispers of the Old Gods,Rare,4,3,4,<b>Deathrattle:</b> Copy a card from your opponent's deck and add it to your hand.,Priest
+OG_267,Southsea Squidface,Minion,Whispers of the Old Gods,Common,4,4,4,<b>Deathrattle:</b> Give your weapon +2 Attack.,Rogue
+OG_272,Twilight Summoner,Minion,Whispers of the Old Gods,Epic,4,1,1,<b>Deathrattle:</b> Summon a 5/5 Faceless Destroyer.,Neutral
+OG_080,Xaril  Poisoned Mind,Minion,Whispers of the Old Gods,Legendary,4,2,3,<b>Battlecry and Deathrattle:</b> Add a random Toxin card to your hand.,Rogue
+OG_147,Corrupted Healbot,Minion,Whispers of the Old Gods,Rare,5,6,6,<b>Deathrattle:</b> Restore 8 Health to the enemy hero.,Neutral
+OG_321,Crazed Worshipper,Minion,Whispers of the Old Gods,Epic,5,6,3,<b>Taunt.</b> Whenever this minion takes damage  give your C'Thun +1/+1 <i>(wherever it is).</i>,Neutral
+OG_295,Cult Apothecary,Minion,Whispers of the Old Gods,Common,5,4,4,<b>Battlecry:</b> For each enemy minion  restore 2 Health to your hero.,Neutral
+OG_234,Darkshire Alchemist,Minion,Whispers of the Old Gods,Common,5,5,4,<b>Battlecry:</b> Restore 5 Health.,Priest
+OG_102,Darkspeaker,Minion,Whispers of the Old Gods,Epic,5,6,3,<b>Battlecry:</b> Swap stats with a friendly minion.,Neutral
+OG_209,Hallazeal the Ascended,Minion,Whispers of the Old Gods,Legendary,5,6,4,Whenever your spells deal damage  restore that much Health to your hero.,Shaman
+OG_309,Princess Huhuran,Minion,Whispers of the Old Gods,Legendary,5,5,6,<b>Battlecry:</b> Trigger a friendly minion's <b>Deathrattle</b> effect.,Hunter
+OG_145,Psych-o-Tron,Minion,Whispers of the Old Gods,Common,5,4,3,<b>Taunt</b> <b>Divine Shield</b>,Neutral
+OG_087,Servant of Yogg-Saron,Minion,Whispers of the Old Gods,Rare,5,4,5,<b>Battlecry:</b> Cast a random spell that costs (5) or less <i>(targets chosen randomly)</i>.,Mage
+OG_291,Shadowcaster,Minion,Whispers of the Old Gods,Epic,5,4,4,<b>Battlecry:</b> Choose a friendly minion. Add a 1/1 copy     to your hand that costs (1).,Rogue
+OG_096,Twilight Darkmender,Minion,Whispers of the Old Gods,Rare,5,5,6,<b>Battlecry:</b> If your C'Thun  has at least 10 Attack  restore 10 Health to your hero.,Priest
+OG_302,Usher of Souls,Minion,Whispers of the Old Gods,Common,5,6,5,Whenever a friendly minion dies  give your C'Thun +1/+1 <i>(wherever it is).</i>,Warlock
+OG_200,Validated Doomsayer,Minion,Whispers of the Old Gods,Epic,5,7,0,At the start of your turn  set this minion's Attack to 7.,Neutral
+OG_290,Ancient Harbinger,Minion,Whispers of the Old Gods,Epic,6,6,4,At the start of your turn  put a 10-Cost minion from your deck into your hand.,Neutral
+OG_161,Corrupted Seer,Minion,Whispers of the Old Gods,Rare,6,3,2,<b>Battlecry:</b> Deal 2 damage to all non-Murloc minions.,Neutral
+OG_293,Dark Arakkoa,Minion,Whispers of the Old Gods,Common,6,7,5,[x]<b>Taunt</b> <b>Battlecry:</b> Give your C'Thun +3/+3 <i>(wherever it is).</i>,Druid
+OG_207,Faceless Summoner,Minion,Whispers of the Old Gods,Common,6,5,5,<b>Battlecry:</b> Summon a random 3-Cost minion.,Mage
+OG_316,Herald Volazj,Minion,Whispers of the Old Gods,Legendary,6,5,5,<b>Battlecry:</b> Summon a 1/1 copy of each of your other minions.,Priest
+OG_122,Mukla  Tyrant of the Vale,Minion,Whispers of the Old Gods,Legendary,6,5,5,<b>Battlecry:</b> Add 2 Bananas to your hand.,Neutral
+OG_138,Nerubian Prophet,Minion,Whispers of the Old Gods,Common,6,4,4,At the start of your turn  reduce this card's Cost by (1).,Neutral
+OG_271,Scaled Nightmare,Minion,Whispers of the Old Gods,Epic,6,8,2,At the start of your turn  double this minion's Attack.,Neutral
+OG_339,Skeram Cultist,Minion,Whispers of the Old Gods,Rare,6,6,7,<b>Battlecry:</b> Give your C'Thun +2/+2 <i>(wherever it is).</i>,Neutral
+OG_028,Thing from Below,Minion,Whispers of the Old Gods,Rare,6,5,5,[x]<b>Taunt</b> Costs (1) less for each Totem you've summoned this game.,Shaman
+OG_301,Ancient Shieldbearer,Minion,Whispers of the Old Gods,Rare,7,6,6,<b>Battlecry:</b> If your C'Thun has at least 10 Attack  gain 10 Armor.,Warrior
+OG_153,Bog Creeper,Minion,Whispers of the Old Gods,Common,7,8,6,<b>Taunt</b>,Neutral
+OG_121,Cho'gall,Minion,Whispers of the Old Gods,Legendary,7,7,7,<b>Battlecry:</b> The next spell you cast this turn costs Health instead of Mana.,Warlock
+OG_152,Grotesque Dragonhawk,Minion,Whispers of the Old Gods,Common,7,5,5,<b>Windfury</b>,Neutral
+OG_318,Hogger  Doom of Elwynn,Minion,Whispers of the Old Gods,Legendary,7,6,6,Whenever this minion takes damage  summon a 2/2 Gnoll with <b>Taunt</b>.,Neutral
+OG_220,Malkorok,Minion,Whispers of the Old Gods,Legendary,7,5,6,<b>Battlecry:</b> Equip a random weapon.,Warrior
+OG_131,Twin Emperor Vek'lor,Minion,Whispers of the Old Gods,Legendary,7,6,4,[x]<b><b>Taunt</b> Battlecry:</b> If your C'Thun has at least 10 Attack  summon another Emperor.,Neutral
+OG_319,Twin Emperor Vek'nilash,Minion,Whispers of the Old Gods,Legendary,7,6,4,<b>Taunt</b>,Neutral
+OG_120,Anomalus,Minion,Whispers of the Old Gods,Legendary,8,6,8,<b>Deathrattle:</b> Deal 8 damage to all minions.,Mage
+OG_255,Doomcaller,Minion,Whispers of the Old Gods,Rare,8,9,7,<b>Battlecry:</b> Give your C'Thun +2/+2 <i>(wherever it is).</i> If it's dead  shuffle it into your deck.,Neutral
+OG_142,Eldritch Horror,Minion,Whispers of the Old Gods,Common,8,10,6,,Neutral
+OG_308,Giant Sand Worm,Minion,Whispers of the Old Gods,Epic,8,8,8,Whenever this attacks and kills a minion  it may attack again.,Hunter
+OG_229,Ragnaros  Lightlord,Minion,Whispers of the Old Gods,Legendary,8,8,8,At the end of your turn  restore 8 Health to a damaged friendly character.,Paladin
+OG_300,The Boogeymonster,Minion,Whispers of the Old Gods,Legendary,8,7,6,Whenever this attacks and kills a minion  gain +2/+2.,Neutral
+OG_282,Blade of C'Thun,Minion,Whispers of the Old Gods,Epic,9,4,4,<b>Battlecry:</b> Destroy a minion. Add its Attack and Health to_your C'Thun's <i>(wherever it is).</i>,Rogue
+OG_173,Blood of The Ancient One,Minion,Whispers of the Old Gods,Epic,9,9,9,If you control two of these at the end of your turn  merge them into 'The Ancient One'.,Neutral
+OG_340,Soggoth the Slitherer,Minion,Whispers of the Old Gods,Legendary,9,9,5,<b>Taunt</b> Can't be targeted by spells or Hero Powers.,Neutral
+OG_173a,The Ancient One,Minion,Whispers of the Old Gods,Epic,9,30,30,,Neutral
+OG_279,C'Thun,Minion,Whispers of the Old Gods,Legendary,10,6,6,<b>Battlecry:</b> Deal damage equal to this minion's Attack randomly split among all enemies.,Neutral
+OG_280,C'Thun,Minion,Whispers of the Old Gods,Legendary,10,6,6,<b>Battlecry:</b> Deal damage equal to this minion's Attack randomly split among all enemies.,Neutral
+OG_317,Deathwing  Dragonlord,Minion,Whispers of the Old Gods,Legendary,10,12,12,<b>Deathrattle:</b> Put all Dragons from your hand into the battlefield.,Neutral
+OG_141,Faceless Behemoth,Minion,Whispers of the Old Gods,Common,10,10,10,,Neutral
+OG_133,N'Zoth  the Corruptor,Minion,Whispers of the Old Gods,Legendary,10,7,5,<b>Battlecry:</b> Summon your <b>Deathrattle</b> minions that died this game.,Neutral
+OG_042,Y'Shaarj  Rage Unbound,Minion,Whispers of the Old Gods,Legendary,10,10,10,At the end of your turn  put a minion from your deck into the battlefield.,Neutral
+OG_134,Yogg-Saron  Hope's End,Minion,Whispers of the Old Gods,Legendary,10,5,7,<b>Battlecry:</b> Cast a random spell for each spell you've cast this game <i>(targets chosen randomly)</i>.,Neutral
+GAME_002,Avatar of the Coin,Minion,Basic,Free,0,1,1,<i>You lost the coin flip  but gained a friend.</i>,Neutral
+CS2_mirror,Mirror Image,Minion,Basic,Free,0,2,0,<b>Taunt</b>,Mage
+CS2_boar,Boar,Minion,Basic,Free,1,1,1,,Neutral
+CS2_189,Elven Archer,Minion,Basic,Free,1,1,1,<b>Battlecry:</b> Deal 1 damage.,Neutral
+CS1_042,Goldshire Footman,Minion,Basic,Free,1,2,1,<b>Taunt</b>,Neutral
+EX1_508,Grimscale Oracle,Minion,Basic,Free,1,1,1,Your other Murlocs have +1 Attack.,Neutral
+NEW1_009,Healing Totem,Minion,Basic,Free,1,2,0,At the end of your turn  restore 1 Health to all friendly minions.,Shaman
+EX1_025t,Mechanical Dragonling,Minion,Basic,Free,1,1,2,,Neutral
+CS2_168,Murloc Raider,Minion,Basic,Free,1,1,2,,Neutral
+EX1_506a,Murloc Scout,Minion,Basic,Free,1,1,1,,Neutral
+CS2_235,Northshire Cleric,Minion,Basic,Free,1,3,1,Whenever a minion is healed  draw a card.,Priest
+CS2_050,Searing Totem,Minion,Basic,Free,1,1,1,,Shaman
+CS2_tk1,Sheep,Minion,Basic,Free,1,1,1,,Neutral
+CS2_101t,Silver Hand Recruit,Minion,Basic,Free,1,1,1,,Paladin
+skele11,Skeleton,Minion,Basic,Free,1,1,1,<b></b> ,Neutral
+CS2_051,Stoneclaw Totem,Minion,Basic,Free,1,2,0,<b>Taunt</b>,Shaman
+CS2_171,Stonetusk Boar,Minion,Basic,Free,1,1,1,<b>Charge</b>,Neutral
+DS1_175,Timber Wolf,Minion,Basic,Free,1,1,1,Your other Beasts have +1 Attack.,Hunter
+CS2_065,Voidwalker,Minion,Basic,Free,1,3,1,<b>Taunt</b>,Warlock
+EX1_011,Voodoo Doctor,Minion,Basic,Free,1,1,2,<b>Battlecry:</b> Restore 2 Health.,Neutral
+CS2_052,Wrath of Air Totem,Minion,Basic,Free,1,2,0,<b>Spell Damage +1</b>,Shaman
+EX1_066,Acidic Swamp Ooze,Minion,Basic,Free,2,2,3,<b>Battlecry:</b> Destroy your opponent's weapon.,Neutral
+CS2_172,Bloodfen Raptor,Minion,Basic,Free,2,2,3,,Neutral
+CS2_173,Bluegill Warrior,Minion,Basic,Free,2,1,2,<b>Charge</b>,Neutral
+EX1_565,Flametongue Totem,Minion,Basic,Free,2,3,0,Adjacent minions have +2 Attack.,Shaman
+CS2_121,Frostwolf Grunt,Minion,Basic,Free,2,2,2,<b>Taunt</b>,Neutral
+CS2_142,Kobold Geomancer,Minion,Basic,Free,2,2,2,<b>Spell Damage +1</b>,Neutral
+EX1_506,Murloc Tidehunter,Minion,Basic,Free,2,1,2,<b>Battlecry:</b> Summon a 1/1 Murloc Scout.,Neutral
+EX1_015,Novice Engineer,Minion,Basic,Free,2,1,1,<b>Battlecry:</b> Draw a card.,Neutral
+CS2_120,River Crocolisk,Minion,Basic,Free,2,3,2,,Neutral
+EX1_306,Succubus,Minion,Basic,Free,2,3,4,<b>Battlecry:</b> Discard a random card.,Warlock
+EX1_582,Dalaran Mage,Minion,Basic,Free,3,4,1,<b>Spell Damage +1</b>,Neutral
+NEW1_034,Huffer,Minion,Basic,Free,3,2,4,<b>Charge</b>,Hunter
+CS2_141,Ironforge Rifleman,Minion,Basic,Free,3,2,2,<b>Battlecry:</b> Deal 1 damage.,Neutral
+CS2_125,Ironfur Grizzly,Minion,Basic,Free,3,3,3,<b>Taunt</b>,Neutral
+NEW1_033,Leokk,Minion,Basic,Free,3,4,2,Your other minions have +1 Attack.,Hunter
+CS2_118,Magma Rager,Minion,Basic,Free,3,1,5,,Neutral
+NEW1_032,Misha,Minion,Basic,Free,3,4,4,<b>Taunt</b>,Hunter
+CS2_122,Raid Leader,Minion,Basic,Free,3,2,2,Your other minions have +1 Attack.,Neutral
+CS2_196,Razorfen Hunter,Minion,Basic,Free,3,3,2,<b>Battlecry:</b> Summon a 1/1 Boar.,Neutral
+EX1_019,Shattered Sun Cleric,Minion,Basic,Free,3,2,3,<b>Battlecry:</b> Give a friendly minion +1/+1.,Neutral
+CS2_127,Silverback Patriarch,Minion,Basic,Free,3,4,1,<b>Taunt</b>,Neutral
+EX1_084,Warsong Commander,Minion,Basic,Free,3,3,2,Your <b>Charge</b> minions have +1 Attack.,Warrior
+CS2_124,Wolfrider,Minion,Basic,Free,3,1,3,<b>Charge</b>,Neutral
+CS2_182,Chillwind Yeti,Minion,Basic,Free,4,5,4,,Neutral
+EX1_025,Dragonling Mechanic,Minion,Basic,Free,4,4,2,<b>Battlecry:</b> Summon a 2/1 Mechanical Dragonling.,Neutral
+CS2_147,Gnomish Inventor,Minion,Basic,Free,4,4,2,<b>Battlecry:</b> Draw a card.,Neutral
+DS1_070,Houndmaster,Minion,Basic,Free,4,3,4,<b>Battlecry:</b> Give a friendly Beast +2/+2 and <b>Taunt</b>.,Hunter
+NEW1_011,Kor'kron Elite,Minion,Basic,Free,4,3,4,<b>Charge</b>,Warrior
+CS2_119,Oasis Snapjaw,Minion,Basic,Free,4,7,2,,Neutral
+CS2_197,Ogre Magi,Minion,Basic,Free,4,4,4,<b>Spell Damage +1</b>,Neutral
+CS2_179,Sen'jin Shieldmasta,Minion,Basic,Free,4,5,3,<b>Taunt</b>,Neutral
+CS2_131,Stormwind Knight,Minion,Basic,Free,4,5,2,<b>Charge</b>,Neutral
+CS2_033,Water Elemental,Minion,Basic,Free,4,6,3,<b>Freeze</b> any character damaged by this minion.,Mage
+EX1_587,Windspeaker,Minion,Basic,Free,4,3,3,<b>Battlecry:</b> Give a friendly minion <b>Windfury</b>.,Shaman
+CS2_187,Booty Bay Bodyguard,Minion,Basic,Free,5,4,5,<b>Taunt</b>,Neutral
+DS1_055,Darkscale Healer,Minion,Basic,Free,5,5,4,<b>Battlecry:</b> Restore 2 Health to all friendly characters.,Neutral
+CS2_226,Frostwolf Warlord,Minion,Basic,Free,5,4,4,<b>Battlecry:</b> Gain +1/+1 for each other friendly minion on the battlefield.,Neutral
+EX1_399,Gurubashi Berserker,Minion,Basic,Free,5,7,2,Whenever this minion takes damage  gain +3 Attack.,Neutral
+EX1_593,Nightblade,Minion,Basic,Free,5,4,4,<b>Battlecry: </b>Deal 3 damage to the enemy hero.,Neutral
+CS2_237,Starving Buzzard,Minion,Basic,Free,5,2,3,Whenever you summon a Beast  draw a card.,Hunter
+CS2_150,Stormpike Commando,Minion,Basic,Free,5,2,4,<b>Battlecry:</b> Deal 2 damage.,Neutral
+DS1_178,Tundra Rhino,Minion,Basic,Free,5,5,2,Your Beasts have <b>Charge</b>.,Hunter
+CS2_155,Archmage,Minion,Basic,Free,6,7,4,<b>Spell Damage +1</b>,Neutral
+CS2_200,Boulderfist Ogre,Minion,Basic,Free,6,7,6,,Neutral
+CS2_064,Dread Infernal,Minion,Basic,Free,6,6,6,<b>Battlecry:</b> Deal 1 damage to ALL other characters.,Warlock
+CS2_042,Fire Elemental,Minion,Basic,Free,6,5,6,<b>Battlecry:</b> Deal 3 damage.,Shaman
+CS2_162,Lord of the Arena,Minion,Basic,Free,6,5,6,<b>Taunt</b>,Neutral
+CS2_213,Reckless Rocketeer,Minion,Basic,Free,6,2,5,<b>Charge</b>,Neutral
+CS2_201,Core Hound,Minion,Basic,Free,7,5,9,,Neutral
+CS2_088,Guardian of Kings,Minion,Basic,Free,7,6,5,<b>Battlecry:</b> Restore 6 Health to your hero.,Paladin
+CS2_222,Stormwind Champion,Minion,Basic,Free,7,6,6,Your other minions have +1/+1.,Neutral
+CS2_186,War Golem,Minion,Basic,Free,7,7,7,,Neutral
+CS2_232,Ironbark Protector,Minion,Basic,Free,8,8,8,<b>Taunt</b>,Druid

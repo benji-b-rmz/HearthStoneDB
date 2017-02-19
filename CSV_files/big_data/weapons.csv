@@ -1,0 +1,31 @@
+cardId,name,type,cardSet,rarity,cost,durability,attack,text,playerClass
+KAR_063,Spirit Claws,Weapon,Karazhan,Common,1,3,1,[x]Has +2 Attack while you have <b>Spell Damage</b>.,Shaman
+KAR_028,Fool's Bane,Weapon,Karazhan,Common,5,4,3,Unlimited attacks each turn. Can't attack heroes.,Warrior
+LOE_118,Cursed Blade,Weapon,The League of Explorers,Rare,1,3,2,Double all damage dealt to your hero.,Warrior
+FP1_021,Death's Bite,Weapon,Naxxramas,Common,4,2,4,<b>Deathrattle:</b> Deal 1 damage to all minions.,Warrior
+AT_077,Argent Lance,Weapon,The Grand Tournament,Rare,2,2,2,<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more  +1 Durability.,Paladin
+AT_065,King's Defender,Weapon,The Grand Tournament,Rare,3,2,3,<b>Battlecry:</b> If you have a minion with <b>Taunt</b>   gain +1 Durability.,Warrior
+AT_050,Charged Hammer,Weapon,The Grand Tournament,Epic,4,4,2,<b>Deathrattle:</b> Your Hero Power becomes 'Deal 2 damage.',Shaman
+AT_034,Poisoned Blade,Weapon,The Grand Tournament,Epic,4,3,1,Your Hero Power gives this weapon +1 Attack instead of replacing it.,Rogue
+GVG_043,Glaivezooka,Weapon,Goblins vs Gnomes,Common,2,2,2,<b>Battlecry:</b> Give a random friendly minion +1 Attack.,Hunter
+GVG_059,Coghammer,Weapon,Goblins vs Gnomes,Epic,3,3,2,<b>Battlecry:</b> Give a random friendly minion <b>Divine Shield</b> and <b>Taunt</b>.,Paladin
+GVG_024,Cogmaster's Wrench,Weapon,Goblins vs Gnomes,Epic,3,3,1,Has +2 Attack while you have a Mech.,Rogue
+GVG_054,Ogre Warmaul,Weapon,Goblins vs Gnomes,Common,3,2,4,50% chance to attack the wrong enemy.,Warrior
+GVG_036,Powermace,Weapon,Goblins vs Gnomes,Rare,3,2,3,<b>Deathrattle:</b> Give a random friendly Mech +2/+2.,Shaman
+EX1_247,Stormforged Axe,Weapon,Classic,Common,2,3,2,<b>Overload:</b> (1),Shaman
+EX1_536,Eaglehorn Bow,Weapon,Classic,Rare,3,2,3,Whenever a friendly <b>Secret</b> is revealed  gain +1 Durability.,Hunter
+EX1_133,Perdition's Blade,Weapon,Classic,Rare,3,2,2,<b>Battlecry:</b> Deal 1 damage. <b>Combo:</b> Deal 2 instead.,Rogue
+EX1_366,Sword of Justice,Weapon,Classic,Epic,3,5,1,After you summon a minion  give it +1/+1 and this loses 1 Durability.,Paladin
+EX1_383t,Ashbringer,Weapon,Classic,Legendary,5,3,5,,Paladin
+EX1_567,Doomhammer,Weapon,Classic,Epic,5,8,2,<b>Windfury  Overload:</b> (2),Shaman
+DS1_188,Gladiator's Longbow,Weapon,Classic,Epic,7,2,5,Your hero is <b>Immune</b> while attacking.,Hunter
+EX1_411,Gorehowl,Weapon,Classic,Epic,7,1,7,Attacking a minion costs 1 Attack instead of 1 Durability.,Warrior
+OG_222,Rallying Blade,Weapon,Whispers of the Old Gods,Rare,3,2,3,<b>Battlecry:</b> Give +1/+1 to your minions with <b>Divine Shield</b>.,Paladin
+OG_031,Hammer of Twilight,Weapon,Whispers of the Old Gods,Epic,5,2,4,<b>Deathrattle:</b> Summon a 4/2 Elemental.,Shaman
+OG_033,Tentacles for Arms,Weapon,Whispers of the Old Gods,Epic,5,2,2,<b>Deathrattle:</b> Return this to your hand.,Warrior
+CS2_091,Light's Justice,Weapon,Basic,Free,1,4,1,,Paladin
+CS2_082,Wicked Knife,Weapon,Basic,Free,1,2,1,,Rogue
+CS2_106,Fiery War Axe,Weapon,Basic,Free,2,2,3,,Warrior
+CS2_097,Truesilver Champion,Weapon,Basic,Free,4,2,4,Whenever your hero attacks  restore 2 Health to it.,Paladin
+CS2_112,Arcanite Reaper,Weapon,Basic,Free,5,2,5,,Warrior
+CS2_080,Assassin's Blade,Weapon,Basic,Free,5,4,3,,Rogue

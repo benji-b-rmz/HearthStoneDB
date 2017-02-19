@@ -1,0 +1,11 @@
+TournID,tname,Startdate,enddate,prizepool,type,#ofplayers,organizer
+1,CN Vs EU Season 2,2015-03-19,2015-03-22,58950,offline,16,ESL
+2,DreamHack Hearthstone Championship,2014-11-27,2014-11-29,25000,offline,32,DreamHack
+3,Kinguin For Charity - Winter Edition 2015,2015-01-23,2015-01-31,5000,online,16,Kinguin
+4,WCA 2015 - Europe Pro Qualifier,2015-07-26,2015-08-09,12650,offline,16,YIGI
+5,The Pinnacle 1,2014-12-26,2014-12-29,5000,online,8,NRG
+6,Gfinity 2015 - Spring Masters I,2015-03-12,2015-03-13,7000,offline,16,Gfinity
+7,DreamHack Bucharest 2014,2014-04-26,2014-04-27,10000,offline,128,DreamHack
+8,CN vs NA Challenge,2015-07-28,2015-08-02,96000,offline,10,NesEase
+9,ONOG 2016 Circuit Feature Tournament #2,2016-04-16,2016-04-18,5250,online,8,ONOG
+10,2016 Hearthstone World Championship,2016-10-26,2016-11-05,1000000,offline,16,Blizzard

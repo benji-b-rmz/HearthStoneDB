@@ -1,0 +1,268 @@
+cardId,name,type,cardSet,rarity,cost,text,playerClass
+KAR_004,Cat Trick,Spell,Karazhan,Rare,2,<b>Secret:</b> After your opponent casts a spell  summon a 4/2 Panther with <b>Stealth</b>.,Hunter
+KAR_073,Maelstrom Portal,Spell,Karazhan,Rare,2,Deal_$1_damage to_all_enemy_minions. Summon_a_random 1-Cost minion.,Shaman
+KAR_013,Purify,Spell,Karazhan,Common,2,<b>Silence</b> a friendly minion. Draw a card.,Priest
+KAR_026,Protect the King!,Spell,Karazhan,Rare,3,For each enemy minion  summon a 1/1 Pawn with <b>Taunt</b>.,Warrior
+KAR_077,Silvermoon Portal,Spell,Karazhan,Common,4,Give a minion +2/+2. Summon a random 2-Cost minion.,Paladin
+KAR_091,Ironforge Portal,Spell,Karazhan,Common,5,Gain 4 Armor. Summon a random 4-Cost minion.,Warrior
+KAR_025,Kara Kazham!,Spell,Karazhan,Common,5,Summon a 1/1 Candle  2/2 Broom  and 3/3 Teapot.,Warlock
+KAR_075,Moonglade Portal,Spell,Karazhan,Rare,6,Restore #6 Health. Summon a random 6-Cost minion.,Druid
+KAR_076,Firelands Portal,Spell,Karazhan,Common,7,Deal $5 damage. Summon a random 5-Cost minion.,Mage
+BRM_007,Gang Up,Spell,Blackrock Mountain,Common,2,Choose a minion. Shuffle 3 copies of it into your deck.,Rogue
+BRM_011,Lava Shock,Spell,Blackrock Mountain,Rare,2,Deal $2 damage. Unlock your <b>Overloaded</b> Mana Crystals.,Shaman
+BRM_013,Quick Shot,Spell,Blackrock Mountain,Common,2,Deal $3 damage. If your hand is empty  draw a card.,Hunter
+BRM_017,Resurrect,Spell,Blackrock Mountain,Rare,2,Summon a random friendly minion that died this game.,Priest
+BRM_015,Revenge,Spell,Blackrock Mountain,Rare,2,Deal $1 damage to all minions. If you have 12 or less Health  deal $3 damage instead.,Warrior
+BRM_005,Demonwrath,Spell,Blackrock Mountain,Rare,3,Deal $2 damage to all non-Demon minions.,Warlock
+BRM_003,Dragon's Breath,Spell,Blackrock Mountain,Common,5,Deal $4 damage. Costs (1) less for each minion that died this turn.,Mage
+BRM_001,Solemn Vigil,Spell,Blackrock Mountain,Common,5,Draw 2 cards. Costs (1) less for each minion that died this turn.,Paladin
+LOE_115,Raven Idol,Spell,The League of Explorers,Common,1,<b>Choose One -</b> <b>Discover</b> a minion; or <b>Discover</b> a spell.,Druid
+LOE_027,Sacred Trial,Spell,The League of Explorers,Common,1,<b>Secret:</b> After your opponent has at least 3 minions and plays another  destroy it.,Paladin
+LOE_007,Curse of Rafaam,Spell,The League of Explorers,Common,2,Give your opponent a 'Cursed!' card. While they hold it  they take 2 damage on their turn.,Warlock
+LOE_021,Dart Trap,Spell,The League of Explorers,Common,2,<b>Secret:</b> After an opposing <b>Hero Power</b> is used  deal $5 damage to a random enemy.,Hunter
+LOE_105,Explorer's Hat,Spell,The League of Explorers,Rare,2,Give a minion +1/+1 and "<b>Deathrattle:</b> Add an Explorer's Hat to your hand.",Hunter
+LOE_002,Forgotten Torch,Spell,The League of Explorers,Common,3,Deal $3 damage. Shuffle a 'Roaring Torch' into your deck that deals 6 damage.,Mage
+LOEA10_5H,Mrgl Mrgl Nyah Nyah,Spell,The League of Explorers,Common,3,Summon 5 Murlocs that died this game.,Neutral
+LOE_111,Excavated Evil,Spell,The League of Explorers,Rare,5,Deal $3 damage to all minions. Shuffle this card into your opponent's deck.,Priest
+LOEA10_5,Mrgl Mrgl Nyah Nyah,Spell,The League of Explorers,Common,5,Summon 3 Murlocs that died this game.,Neutral
+LOE_104,Entomb,Spell,The League of Explorers,Common,6,Choose an enemy minion. Shuffle it into your deck.,Priest
+LOE_113,Everyfin is Awesome,Spell,The League of Explorers,Rare,7,Give your minions +2/+2. Costs (1) less for each Murloc you control.,Shaman
+LOE_026,Anyfin Can Happen,Spell,The League of Explorers,Rare,10,Summon 7 Murlocs that died this game.,Paladin
+FP1_020,Avenge,Spell,Naxxramas,Common,1,<b>Secret:</b> When one of your minions dies  give a random friendly minion +3/+2.,Paladin
+FP1_025,Reincarnate,Spell,Naxxramas,Common,2,Destroy a minion  then return it to life with full Health.,Shaman
+FP1_018,Duplicate,Spell,Naxxramas,Common,3,<b>Secret:</b> When a friendly minion dies  put 2 copies of it into your hand.,Mage
+FP1_019,Poison Seeds,Spell,Naxxramas,Common,4,Destroy all minions and summon 2/2 Treants to replace them.,Druid
+AT_004,Arcane Blast,Spell,The Grand Tournament,Epic,1,Deal $2 damage to a minion. This spell gets double bonus from <b>Spell Damage</b>.,Mage
+AT_073,Competitive Spirit,Spell,The Grand Tournament,Rare,1,<b>Secret:</b> When your turn starts  give your minions +1/+1.,Paladin
+AT_055,Flash Heal,Spell,The Grand Tournament,Common,1,Restore #5 Health.,Priest
+AT_037,Living Roots,Spell,The Grand Tournament,Common,1,<b>Choose One</b> - Deal $2 damage; or Summon two 1/1 Saplings.,Druid
+AT_013,Power Word: Glory,Spell,The Grand Tournament,Common,1,Choose a minion. Whenever it attacks  restore 4 Health to your hero.,Priest
+AT_053,Ancestral Knowledge,Spell,The Grand Tournament,Common,2,Draw 2 cards. <b>Overload:</b> (2),Shaman
+AT_060,Bear Trap,Spell,The Grand Tournament,Common,2,<b>Secret:</b> After your hero is attacked  summon a 3/3 Bear with <b>Taunt</b>.,Hunter
+AT_068,Bolster,Spell,The Grand Tournament,Common,2,Give your <b>Taunt</b> minions +2/+2.,Warrior
+AT_016,Confuse,Spell,The Grand Tournament,Epic,2,Swap the Attack and Health of all minions.,Priest
+AT_015,Convert,Spell,The Grand Tournament,Rare,2,Put a copy of an enemy minion into your hand.,Priest
+AT_024,Demonfuse,Spell,The Grand Tournament,Common,2,Give a Demon +3/+3. Give your opponent a Mana Crystal.,Warlock
+AT_061,Lock and Load,Spell,The Grand Tournament,Epic,2,Each time you cast a spell this turn  add a random Hunter card to your hand.,Hunter
+AT_064,Bash,Spell,The Grand Tournament,Common,3,Deal $3 damage. Gain 3 Armor.,Warrior
+AT_035,Beneath the Grounds,Spell,The Grand Tournament,Epic,3,Shuffle 3 Ambushes into your opponent's deck. When drawn  you summon a 4/4 Nerubian.,Rogue
+AT_033,Burgle,Spell,The Grand Tournament,Rare,3,Add 2 random class cards to your hand <i>(from your opponent's class)</i>.,Rogue
+AT_002,Effigy,Spell,The Grand Tournament,Rare,3,<b>Secret:</b> When a friendly minion dies  summon a random minion with the same Cost.,Mage
+AT_051,Elemental Destruction,Spell,The Grand Tournament,Epic,3,Deal $4-$5 damage to all minions. <b>Overload:</b> (5),Shaman
+AT_048,Healing Wave,Spell,The Grand Tournament,Rare,3,Restore #7 Health. Reveal a minion in each deck. If yours costs more  Restore #14 instead.,Shaman
+AT_044,Mulch,Spell,The Grand Tournament,Epic,3,Destroy a minion. Add a random minion to your opponent's hand.,Druid
+AT_005,Polymorph: Boar,Spell,The Grand Tournament,Rare,3,Transform a minion into a 4/2 Boar with <b>Charge</b>.,Mage
+AT_056,Powershot,Spell,The Grand Tournament,Rare,3,Deal $2 damage to a minion and the minions next to it.,Hunter
+AT_074,Seal of Champions,Spell,The Grand Tournament,Common,3,Give a minion +3 Attack and <b>Divine Shield</b>.,Paladin
+AT_043,Astral Communion,Spell,The Grand Tournament,Epic,4,Gain 10 Mana Crystals. Discard your hand.,Druid
+AT_022,Fist of Jaraxxus,Spell,The Grand Tournament,Rare,4,When you play or discard this  deal $4 damage to a random enemy.,Warlock
+AT_001,Flame Lance,Spell,The Grand Tournament,Common,5,Deal $8 damage to a minion.,Mage
+AT_062,Ball of Spiders,Spell,The Grand Tournament,Rare,6,Summon three 1/1 Webspinners.,Hunter
+AT_025,Dark Bargain,Spell,The Grand Tournament,Epic,6,Destroy 2 random enemy minions. Discard 2 random cards.,Warlock
+AT_078,Enter the Coliseum,Spell,The Grand Tournament,Epic,6,Destroy all minions except each player's highest Attack minion.,Paladin
+GVG_012,Light of the Naaru,Spell,Goblins vs Gnomes,Rare,1,Restore #3 Health. If the target is still damaged  summon a Lightwarden.,Priest
+GVG_017,Call Pet,Spell,Goblins vs Gnomes,Rare,2,Draw a card. If it's a Beast  it costs (4) less.,Hunter
+GVG_038,Crackle,Spell,Goblins vs Gnomes,Common,2,Deal $3-$6 damage. <b>Overload:</b> (1),Shaman
+GVG_015,Darkbomb,Spell,Goblins vs Gnomes,Common,2,Deal $3 damage.,Warlock
+GVG_026,Feign Death,Spell,Goblins vs Gnomes,Epic,2,Trigger all <b>Deathrattles</b> on your minions.,Hunter
+GVG_001,Flamecannon,Spell,Goblins vs Gnomes,Common,2,Deal $4 damage to a random enemy minion.,Mage
+GVG_057,Seal of Light,Spell,Goblins vs Gnomes,Common,2,Restore #4 Health to your hero and gain +2 Attack this turn.,Paladin
+GVG_003,Unstable Portal,Spell,Goblins vs Gnomes,Rare,2,Add a random minion to your hand. It costs (3) less.,Mage
+GVG_050,Bouncing Blade,Spell,Goblins vs Gnomes,Epic,3,Deal $1 damage to a random minion. Repeat until a minion dies.,Warrior
+GVG_061,Muster for Battle,Spell,Goblins vs Gnomes,Rare,3,Summon three 1/1 Silver Hand Recruits. Equip a 1/4 Weapon.,Paladin
+GVG_010,Velen's Chosen,Spell,Goblins vs Gnomes,Common,3,Give a minion +2/+4 and <b>Spell Damage +1</b>.,Priest
+GVG_029,Ancestor's Call,Spell,Goblins vs Gnomes,Epic,4,Put a random minion from each player's hand into the battlefield.,Shaman
+GVG_005,Echo of Medivh,Spell,Goblins vs Gnomes,Epic,4,Put a copy of each friendly minion into your hand.,Mage
+GVG_045,Imp-losion,Spell,Goblins vs Gnomes,Rare,4,Deal $2-$4 damage to a minion. Summon a 1/1 Imp for each damage dealt.,Warlock
+GVG_047,Sabotage,Spell,Goblins vs Gnomes,Epic,4,Destroy a random enemy minion. <b>Combo:</b> And your opponent's weapon.,Rogue
+GVG_022,Tinker's Sharpsword Oil,Spell,Goblins vs Gnomes,Common,4,Give your weapon +3 Attack. <b>Combo:</b> Give a random friendly minion +3 Attack.,Rogue
+GVG_073,Cobra Shot,Spell,Goblins vs Gnomes,Common,5,Deal $3 damage to a minion and the enemy hero.,Hunter
+GVG_019,Demonheart,Spell,Goblins vs Gnomes,Epic,5,Deal $5 damage to a minion.  If it's a friendly Demon  give it +5/+5 instead.,Warlock
+GVG_041,Dark Wispers,Spell,Goblins vs Gnomes,Epic,6,<b>Choose One -</b> Summon 5 Wisps; or Give a minion +5/+5 and <b>Taunt</b>.,Druid
+GVG_008,Lightbomb,Spell,Goblins vs Gnomes,Epic,6,Deal damage to each minion equal to its Attack.,Priest
+GVG_031,Recycle,Spell,Goblins vs Gnomes,Rare,6,Shuffle an enemy minion into your opponent's deck.,Druid
+GVG_052,Crush,Spell,Goblins vs Gnomes,Epic,7,Destroy a minion. If you have a damaged minion  this costs (4) less.,Warrior
+GVG_033,Tree of Life,Spell,Goblins vs Gnomes,Epic,9,Restore all characters to full Health.,Druid
+EX1_621,Circle of Healing,Spell,Classic,Common,0,Restore #4 Health to ALL minions.,Priest
+EX1_607,Inner Rage,Spell,Classic,Common,0,Deal $1 damage to a minion and give it +2 Attack.,Warrior
+EX1_145,Preparation,Spell,Classic,Epic,0,The next spell you cast this turn costs (3) less.,Rogue
+EX1_144,Shadowstep,Spell,Classic,Common,0,Return a friendly minion to your hand. It costs (2) less.,Rogue
+EX1_332,Silence,Spell,Classic,Common,0,<b>Silence</b> a minion.,Priest
+EX1_549,Bestial Wrath,Spell,Classic,Epic,1,Give a friendly Beast +2 Attack and <b>Immune</b> this turn.,Hunter
+EX1_363,Blessing of Wisdom,Spell,Classic,Common,1,Choose a minion. Whenever it attacks  draw a card.,Paladin
+CS2_073,Cold Blood,Spell,Classic,Common,1,Give a minion +2 Attack. <b>Combo:</b> +4 Attack instead.,Rogue
+EX1_128,Conceal,Spell,Classic,Common,1,Give your minions <b>Stealth</b> until your next turn.,Rogue
+EX1_245,Earth Shock,Spell,Classic,Common,1,<b>Silence</b> a minion  then deal $1 damage to it.,Shaman
+EX1_132,Eye for an Eye,Spell,Classic,Common,1,<b>Secret:</b> When your hero takes damage  deal that much damage to the enemy hero.,Paladin
+EX1_251,Forked Lightning,Spell,Classic,Common,1,Deal $2 damage to 2 random enemy minions. <b>Overload:</b> (2),Shaman
+CS2_031,Ice Lance,Spell,Classic,Common,1,<b>Freeze</b> a character. If it was already <b>Frozen</b>  deal $4 damage instead.,Mage
+CS1_129,Inner Fire,Spell,Classic,Common,1,Change a minion's Attack to be equal to its Health.,Priest
+EX1_238,Lightning Bolt,Spell,Classic,Common,1,Deal $3 damage. <b>Overload:</b> (1),Shaman
+EX1_161,Naturalize,Spell,Classic,Common,1,Destroy a minion. Your opponent draws 2 cards.,Druid
+EX1_130,Noble Sacrifice,Spell,Classic,Common,1,<b>Secret:</b> When an enemy attacks  summon a 2/1 Defender as the new target.,Paladin
+EX1_316,Power Overwhelming,Spell,Classic,Common,1,Give a friendly minion +4/+4 until end of turn. Then  it dies. Horribly.,Warlock
+EX1_136,Redemption,Spell,Classic,Common,1,<b>Secret:</b> When one of your minions dies  return it to life with 1 Health.,Paladin
+EX1_379,Repentance,Spell,Classic,Common,1,<b>Secret:</b> After your opponent plays a minion  reduce its Health to 1.,Paladin
+EX1_578,Savagery,Spell,Classic,Rare,1,Deal damage equal to your hero's Attack to a minion.,Druid
+EX1_410,Shield Slam,Spell,Classic,Epic,1,Deal 1 damage to a minion for each Armor you have.,Warrior
+EX1_409,Upgrade!,Spell,Classic,Rare,1,If you have a weapon  give it +1/+1. Otherwise equip a 1/3 weapon.,Warrior
+CS2_038,Ancestral Spirit,Spell,Classic,Rare,2,Give a minion "<b>Deathrattle:</b> Resummon this minion.",Shaman
+EX1_392,Battle Rage,Spell,Classic,Common,2,Draw a card for each damaged friendly character.,Warrior
+EX1_126,Betrayal,Spell,Classic,Common,2,Force an enemy minion to deal its damage to the minions next to it.,Rogue
+NEW1_036,Commanding Shout,Spell,Classic,Rare,2,Your minions can't be reduced below 1 Health this turn. Draw a card.,Warrior
+EX1_596,Demonfire,Spell,Classic,Common,2,Deal $2 damage to a minion. If it’s a friendly Demon  give it +2/+2 instead.,Warlock
+EX1_619,Equality,Spell,Classic,Rare,2,Change the Health of ALL minions to 1.,Paladin
+EX1_124,Eviscerate,Spell,Classic,Common,2,Deal $2 damage. <b>Combo:</b> Deal $4 damage instead.,Rogue
+EX1_610,Explosive Trap,Spell,Classic,Common,2,<b>Secret:</b> When your hero is attacked  deal $2 damage to all enemies.,Hunter
+EX1_544,Flare,Spell,Classic,Rare,2,All minions lose <b>Stealth</b>. Destroy all enemy <b>Secrets</b>. Draw a card.,Hunter
+EX1_611,Freezing Trap,Spell,Classic,Common,2,<b>Secret:</b> When an enemy minion attacks  return it to its owner's hand and it costs (2) more.,Hunter
+EX1_533,Misdirection,Spell,Classic,Rare,2,<b>Secret:</b> When a character attacks your hero  instead they attack another random character.,Hunter
+EX1_160,Power of the Wild,Spell,Classic,Common,2,<b>Choose One</b> - Give your minions +1/+1; or Summon a 3/2 Panther.,Druid
+CS2_104,Rampage,Spell,Classic,Common,2,Give a damaged minion +3/+3.,Warrior
+EX1_391,Slam,Spell,Classic,Common,2,Deal $2 damage to a minion. If it survives  draw a card.,Warrior
+EX1_554,Snake Trap,Spell,Classic,Epic,2,<b>Secret:</b> When one of your minions is attacked  summon three 1/1 Snakes.,Hunter
+EX1_609,Snipe,Spell,Classic,Common,2,<b>Secret:</b> After your opponent plays a minion  deal $4 damage to it.,Hunter
+EX1_154,Wrath,Spell,Classic,Common,2,<b>Choose One</b> - Deal $3 damage to a minion; or $1 damage and draw a card.,Druid
+EX1_287,Counterspell,Spell,Classic,Rare,3,<b>Secret:</b> When your opponent casts a spell  <b>Counter</b> it.,Mage
+EX1_617,Deadly Shot,Spell,Classic,Common,3,Destroy a random enemy minion.,Hunter
+EX1_349,Divine Favor,Spell,Classic,Rare,3,Draw cards until you have as many in hand as your opponent.,Paladin
+CS2_053,Far Sight,Spell,Classic,Epic,3,Draw a card. That card costs (3) less.,Shaman
+EX1_248,Feral Spirit,Spell,Classic,Rare,3,Summon two 2/3 Spirit Wolves with <b>Taunt</b>. <b>Overload:</b> (2),Shaman
+EX1_137,Headcrack,Spell,Classic,Rare,3,Deal $2 damage to the enemy hero. <b>Combo:</b> Return this to your hand next turn.,Rogue
+EX1_289,Ice Barrier,Spell,Classic,Common,3,<b>Secret:</b> When your hero is attacked  gain 8 Armor.,Mage
+EX1_295,Ice Block,Spell,Classic,Epic,3,<b>Secret:</b> When your hero takes fatal damage  prevent it and become <b>Immune</b> this turn.,Mage
+EX1_241,Lava Burst,Spell,Classic,Rare,3,Deal $5 damage. <b>Overload:</b> (2),Shaman
+EX1_259,Lightning Storm,Spell,Classic,Rare,3,Deal $2-$3 damage to all enemy minions. <b>Overload:</b> (2),Shaman
+EX1_155,Mark of Nature,Spell,Classic,Common,3,<b>Choose One</b> - Give a minion +4 Attack; or +4 Health and <b>Taunt</b>.,Druid
+EX1_294,Mirror Entity,Spell,Classic,Common,3,<b>Secret:</b> After your opponent plays a minion  summon a copy of it.,Mage
+EX1_317,Sense Demons,Spell,Classic,Common,3,Put 2 random Demons from your deck into your hand.,Warlock
+EX1_625,Shadowform,Spell,Classic,Epic,3,Your Hero Power becomes 'Deal 2 damage'. If already in Shadowform: 3 damage.,Priest
+tt_010,Spellbender,Spell,Classic,Epic,3,<b>Secret:</b> When an enemy casts a spell on a minion  summon a 1/3 as the new target.,Mage
+EX1_339,Thoughtsteal,Spell,Classic,Common,3,Copy 2 cards from your opponent's deck and put them into your hand.,Priest
+EX1_538,Unleash the Hounds,Spell,Classic,Common,3,For each enemy minion  summon a 1/1 Hound with <b>Charge</b>.,Hunter
+EX1_594,Vaporize,Spell,Classic,Rare,3,<b>Secret:</b> When a minion attacks your hero  destroy it.,Mage
+EX1_570,Bite,Spell,Classic,Rare,4,Give your hero +4 Attack this turn and 4 Armor.,Druid
+CS2_233,Blade Flurry,Spell,Classic,Rare,4,Destroy your weapon and deal its damage to all enemy minions.,Rogue
+EX1_275,Cone of Cold,Spell,Classic,Common,4,<b>Freeze</b> a minion and the minions next to it  and deal $1 damage to them.,Mage
+EX1_626,Mass Dispel,Spell,Classic,Rare,4,<b>Silence</b> all enemy minions. Draw a card.,Priest
+EX1_345,Mindgames,Spell,Classic,Epic,4,Put a copy of a random minion from your opponent's deck into the battlefield.,Priest
+EX1_408,Mortal Strike,Spell,Classic,Rare,4,Deal $4 damage. If you have 12 or less Health  deal $6 instead.,Warrior
+EX1_334,Shadow Madness,Spell,Classic,Rare,4,Gain control of an enemy minion with 3 or less Attack until end of turn.,Priest
+EX1_303,Shadowflame,Spell,Classic,Rare,4,Destroy a friendly minion and deal its Attack damage to all enemy minions.,Warlock
+EX1_158,Soul of the Forest,Spell,Classic,Common,4,Give your minions "<b>Deathrattle:</b> Summon a 2/2 Treant.",Druid
+EX1_320,Bane of Doom,Spell,Classic,Epic,5,Deal $2 damage to a character. If that kills it  summon a random Demon.,Warlock
+EX1_355,Blessed Champion,Spell,Classic,Rare,5,Double a minion's Attack.,Paladin
+EX1_407,Brawl,Spell,Classic,Epic,5,Destroy all minions except one. <i>(chosen randomly)</i>,Warrior
+EX1_537,Explosive Shot,Spell,Classic,Rare,5,Deal $5 damage to a minion and $2 damage to adjacent ones.,Hunter
+EX1_571,Force of Nature,Spell,Classic,Epic,5,Summon three 2/2 Treants.,Druid
+EX1_365,Holy Wrath,Spell,Classic,Rare,5,Draw a card and deal damage equal to its cost.,Paladin
+EX1_164,Nourish,Spell,Classic,Rare,5,<b>Choose One</b> - Gain 2 Mana Crystals; or Draw 3 cards.,Druid
+NEW1_007,Starfall,Spell,Classic,Rare,5,<b>Choose One -</b> Deal $5 damage to a minion; or $2 damage to all enemy minions.,Druid
+EX1_384,Avenging Wrath,Spell,Classic,Epic,6,Deal $8 damage randomly split among all enemies.,Paladin
+CS2_028,Blizzard,Spell,Classic,Rare,6,Deal $2 damage to all enemy minions and <b>Freeze</b> them.,Mage
+EX1_624,Holy Fire,Spell,Classic,Rare,6,Deal $5 damage. Restore #5 Health to your hero.,Priest
+EX1_309,Siphon Soul,Spell,Classic,Rare,6,Destroy a minion. Restore #3 Health to your hero.,Warlock
+EX1_354,Lay on Hands,Spell,Classic,Epic,8,Restore #8 Health. Draw 3 cards.,Paladin
+EX1_312,Twisting Nether,Spell,Classic,Epic,8,Destroy all minions.,Warlock
+EX1_279,Pyroblast,Spell,Classic,Epic,10,Deal $10 damage.,Mage
+OG_086,Forbidden Flame,Spell,Whispers of the Old Gods,Epic,0,Spend all your Mana. Deal that much damage to a minion.,Mage
+OG_198,Forbidden Healing,Spell,Whispers of the Old Gods,Epic,0,Spend all your Mana. Restore twice that much Health.,Paladin
+OG_114,Forbidden Ritual,Spell,Whispers of the Old Gods,Rare,0,Spend all your Mana. Summon that many 1/1 Tentacles.,Warlock
+OG_101,Forbidden Shaping,Spell,Whispers of the Old Gods,Epic,0,Spend all your Mana. Summon a random minion that costs that much.,Priest
+OG_314,Blood To Ichor,Spell,Whispers of the Old Gods,Rare,1,Deal $1 damage to a minion. If it survives  summon a 2/2 Slime.,Warrior
+OG_223,Divine Strength,Spell,Whispers of the Old Gods,Common,1,Give a minion +1/+2.,Paladin
+TB_OG_027,Evolve,Spell,Whispers of the Old Gods,Rare,1,Transform your minions into random minions that cost (1) more.,Shaman
+OG_027,Evolve,Spell,Whispers of the Old Gods,Rare,1,Transform your minions into random minions that cost (1) more.,Shaman
+OG_072,Journey Below,Spell,Whispers of the Old Gods,Rare,1,<b>Discover</b> a <b>Deathrattle</b> card.,Rogue
+OG_061,On the Hunt,Spell,Whispers of the Old Gods,Common,1,Deal $1 damage. Summon a 1/1 Mastiff.,Hunter
+OG_023,Primal Fusion,Spell,Whispers of the Old Gods,Common,1,Give a minion +1/+1 for each of your Totems.,Shaman
+OG_311,A Light in the Darkness,Spell,Whispers of the Old Gods,Common,2,<b>Discover</b> a minion. Give it +1/+1.,Paladin
+OG_104,Embrace the Shadow,Spell,Whispers of the Old Gods,Epic,2,This turn  your healing effects deal damage instead.,Priest
+OG_048,Mark of Y'Shaarj,Spell,Whispers of the Old Gods,Common,2,Give a minion +2/+2. If it's a Beast  draw a card.,Druid
+OG_118,Renounce Darkness,Spell,Whispers of the Old Gods,Epic,2,Replace your Hero Power and Warlock cards with another class's. The cards cost (1) less.,Warlock
+OG_081,Shatter,Spell,Whispers of the Old Gods,Common,2,Destroy a <b>Frozen</b> minion.,Mage
+OG_206,Stormcrack,Spell,Whispers of the Old Gods,Common,2,Deal $4 damage to a minion. <b>Overload:</b> (1),Shaman
+OG_276,Blood Warriors,Spell,Whispers of the Old Gods,Epic,3,Add a copy of each damaged friendly minion to your hand.,Warrior
+OG_047,Feral Rage,Spell,Whispers of the Old Gods,Common,3,<b>Choose One</b> - Give your hero +4 Attack this turn; or Gain 8 Armor.,Druid
+OG_045,Infest,Spell,Whispers of the Old Gods,Rare,3,Give your minions "<b>Deathrattle:</b> Add a random Beast to your hand.",Hunter
+OG_176,Shadow Strike,Spell,Whispers of the Old Gods,Common,3,Deal $5 damage to an undamaged character.,Rogue
+OG_116,Spreading Madness,Spell,Whispers of the Old Gods,Rare,3,Deal $9 damage randomly split among ALL characters.,Warlock
+OG_100,Shadow Word: Horror,Spell,Whispers of the Old Gods,Rare,4,Destroy all minions with 2 or less Attack.,Priest
+OG_090,Cabalist's Tome,Spell,Whispers of the Old Gods,Epic,5,Add 3 random Mage spells to your hand.,Mage
+OG_094,Power Word: Tentacles,Spell,Whispers of the Old Gods,Common,5,Give a minion +2/+6.,Priest
+OG_273,Stand Against Darkness,Spell,Whispers of the Old Gods,Common,5,Summon five 1/1 Silver Hand Recruits.,Paladin
+OG_073,Thistle Tea,Spell,Whispers of the Old Gods,Rare,6,Draw a card. Add 2 extra copies of it to your hand.,Rogue
+OG_195,Wisps of the Old Gods,Spell,Whispers of the Old Gods,Epic,7,<b>Choose One -</b> Summon seven 1/1 Wisps; or Give your minions +2/+2.,Druid
+OG_211,Call of the Wild,Spell,Whispers of the Old Gods,Epic,9,Summon all three Animal Companions.,Hunter
+OG_239,DOOM!,Spell,Whispers of the Old Gods,Epic,10,Destroy all minions. Draw a card for each.,Warlock
+CS2_041,Ancestral Healing,Spell,Basic,Free,0,Restore a minion to full Health and give it <b>Taunt</b>.,Shaman
+CS2_072,Backstab,Spell,Basic,Free,0,Deal $2 damage to an undamaged minion.,Rogue
+CS2_013t,Excess Mana,Spell,Basic,Free,0,Draw a card. <i>(You can only have 10 Mana in your tray.)</i>,Druid
+EX1_169,Innervate,Spell,Basic,Free,0,Gain 2 Mana Crystals this turn only.,Druid
+CS2_008,Moonfire,Spell,Basic,Free,0,Deal $1 damage.,Druid
+NEW1_003,Sacrificial Pact,Spell,Basic,Free,0,Destroy a Demon. Restore #5 Health to your hero.,Warlock
+EX1_244,Totemic Might,Spell,Basic,Free,0,Give your Totems +2 Health.,Shaman
+EX1_277,Arcane Missiles,Spell,Basic,Free,1,Deal $3 damage randomly split among all enemies.,Mage
+DS1_185,Arcane Shot,Spell,Basic,Free,1,Deal $2 damage.,Hunter
+CS2_087,Blessing of Might,Spell,Basic,Free,1,Give a minion +3 Attack.,Paladin
+CS2_103,Charge,Spell,Basic,Free,1,Give a friendly minion <b>Charge</b>. It can't attack heroes this turn.,Warrior
+CS2_005,Claw,Spell,Basic,Free,1,Give your hero +2 Attack this turn and 2 Armor.,Druid
+CS2_063,Corruption,Spell,Basic,Free,1,Choose an enemy minion. At the start of your turn  destroy it.,Warlock
+CS2_074,Deadly Poison,Spell,Basic,Free,1,Give your weapon +2 Attack.,Rogue
+CS2_037,Frost Shock,Spell,Basic,Free,1,Deal $1 damage to an enemy character and <b>Freeze</b> it.,Shaman
+EX1_371,Hand of Protection,Spell,Basic,Free,1,Give a minion <b>Divine Shield</b>.,Paladin
+CS1_130,Holy Smite,Spell,Basic,Free,1,Deal $2 damage.,Priest
+EX1_360,Humility,Spell,Basic,Free,1,Change a minion's Attack to 1.,Paladin
+CS2_084,Hunter's Mark,Spell,Basic,Free,1,Change a minion's Health to 1.,Hunter
+CS2_003,Mind Vision,Spell,Basic,Free,1,Put a copy of a random card in your opponent's hand into your hand.,Priest
+CS2_027,Mirror Image,Spell,Basic,Free,1,Summon two 0/2 minions with <b>Taunt</b>.,Mage
+EX1_302,Mortal Coil,Spell,Basic,Free,1,Deal $1 damage to a minion. If that kills it  draw a card.,Warlock
+CS2_004,Power Word: Shield,Spell,Basic,Free,1,Give a minion +2 Health. Draw a card.,Priest
+CS2_075,Sinister Strike,Spell,Basic,Free,1,Deal $3 damage to the enemy hero.,Rogue
+EX1_308,Soulfire,Spell,Basic,Free,1,Deal $4 damage. Discard a random card.,Warlock
+DS1_184,Tracking,Spell,Basic,Free,1,Look at the top three cards of your deck. Draw one and discard the others.,Hunter
+EX1_400,Whirlwind,Spell,Basic,Free,1,Deal $1 damage to ALL minions.,Warrior
+CS2_025,Arcane Explosion,Spell,Basic,Free,2,Deal $1 damage to all enemy minions.,Mage
+CS2_114,Cleave,Spell,Basic,Free,2,Deal $2 damage to two random enemy minions.,Warrior
+CS2_236,Divine Spirit,Spell,Basic,Free,2,Double a minion's Health.,Priest
+CS2_108,Execute,Spell,Basic,Free,2,Destroy a damaged enemy minion.,Warrior
+CS2_024,Frostbolt,Spell,Basic,Free,2,Deal $3 damage to a character and <b>Freeze</b> it.,Mage
+CS2_105,Heroic Strike,Spell,Basic,Free,2,Give your hero +4 Attack this turn.,Warrior
+CS2_089,Holy Light,Spell,Basic,Free,2,Restore #6 Health.,Paladin
+CS2_009,Mark of the Wild,Spell,Basic,Free,2,Give a minion <b>Taunt</b> and +2/+2.<i> (+2 Attack/+2 Health)</i>,Druid
+DS1_233,Mind Blast,Spell,Basic,Free,2,Deal $5 damage to the enemy hero.,Priest
+GAME_006,NOOOOOOOOOOOO,Spell,Basic,Free,2,Somehow  the card you USED to have has been deleted.  Here  have this one instead!,Neutral
+CS2_045,Rockbiter Weapon,Spell,Basic,Free,2,Give a friendly character +3 Attack this turn.,Shaman
+EX1_581,Sap,Spell,Basic,Free,2,Return an enemy minion to your opponent's hand.,Rogue
+CS2_234,Shadow Word: Pain,Spell,Basic,Free,2,Destroy a minion with 3 or less Attack.,Priest
+EX1_278,Shiv,Spell,Basic,Free,2,Deal $1 damage. Draw a card.,Rogue
+CS2_013,Wild Growth,Spell,Basic,Free,2,Gain an empty Mana Crystal.,Druid
+CS2_039,Windfury,Spell,Basic,Free,2,Give a minion <b>Windfury</b>.,Shaman
+NEW1_031,Animal Companion,Spell,Basic,Free,3,Summon a random Beast Companion.,Hunter
+CS2_023,Arcane Intellect,Spell,Basic,Free,3,Draw 2 cards.,Mage
+CS2_061,Drain Life,Spell,Basic,Free,3,Deal $2 damage. Restore #2 Health to your hero.,Warlock
+EX1_129,Fan of Knives,Spell,Basic,Free,3,Deal $1 damage to all enemy minions. Draw a card.,Rogue
+CS2_026,Frost Nova,Spell,Basic,Free,3,<b>Freeze</b> all enemy minions.,Mage
+CS2_007,Healing Touch,Spell,Basic,Free,3,Restore #8 Health.,Druid
+EX1_246,Hex,Spell,Basic,Free,3,Transform a minion into a 0/1 Frog with <b>Taunt</b>.,Shaman
+EX1_539,Kill Command,Spell,Basic,Free,3,Deal $3 damage. If you have a Beast  deal $5 damage instead.,Hunter
+CS2_011,Savage Roar,Spell,Basic,Free,3,Give your characters +2 Attack this turn.,Druid
+CS2_057,Shadow Bolt,Spell,Basic,Free,3,Deal $4 damage to a minion.,Warlock
+EX1_622,Shadow Word: Death,Spell,Basic,Free,3,Destroy a minion with an Attack of 5 or more.,Priest
+EX1_606,Shield Block,Spell,Basic,Free,3,Gain 5 Armor. Draw a card.,Warrior
+CS2_092,Blessing of Kings,Spell,Basic,Free,4,Give a minion +4/+4. <i>(+4 Attack/+4 Health)</i>,Paladin
+CS2_093,Consecration,Spell,Basic,Free,4,Deal $2 damage to all enemies.,Paladin
+CS2_029,Fireball,Spell,Basic,Free,4,Deal $6 damage.,Mage
+CS2_094,Hammer of Wrath,Spell,Basic,Free,4,Deal $3 damage. Draw a card.,Paladin
+CS2_062,Hellfire,Spell,Basic,Free,4,Deal $3 damage to ALL characters.,Warlock
+DS1_183,Multi-Shot,Spell,Basic,Free,4,Deal $3 damage to two random enemy minions.,Hunter
+CS2_022,Polymorph,Spell,Basic,Free,4,Transform a minion into a 1/1 Sheep.,Mage
+CS2_012,Swipe,Spell,Basic,Free,4,Deal $4 damage to an enemy and $1 damage to all other enemies.,Druid
+CS2_076,Assassinate,Spell,Basic,Free,5,Destroy an enemy minion.,Rogue
+CS2_046,Bloodlust,Spell,Basic,Free,5,Give your minions +3 Attack this turn.,Shaman
+CS1_112,Holy Nova,Spell,Basic,Free,5,Deal $2 damage to all enemies. Restore #2 Health to all friendly characters.,Priest
+EX1_173,Starfire,Spell,Basic,Free,6,Deal $5 damage. Draw a card.,Druid
+NEW1_004,Vanish,Spell,Basic,Free,6,Return all minions to their owner's hand.,Rogue
+CS2_032,Flamestrike,Spell,Basic,Free,7,Deal $4 damage to all enemy minions.,Mage
+CS2_077,Sprint,Spell,Basic,Free,7,Draw 4 cards.,Rogue
+CS1_113,Mind Control,Spell,Basic,Free,10,Take control of an enemy minion.,Priest
